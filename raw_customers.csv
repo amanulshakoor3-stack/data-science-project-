@@ -1,0 +1,2005 @@
+customer_id,signup_month,country,gender,age,device,plan,order_value,discount_applied,num_items,payment_method,churned,review_score
+C0027,2024-11-01,GB,Female,35.0,Desktop,Basic,352.65,0.7,3.0,PayPal,True,4.0
+C0233,2024-01-01,JP,Female,27.0,Desktop,Pro,1560.6,0.52,9.0,PayPal,False,2.0
+C0197,2024-05-01,IN,Male,47.0,Mobile,Free,1215.5,0.31,7.0,Bank Transfer,False,5.0
+C0132,2024-06-01,DE,Female,57.0,Mobile,Enterprise,1539.82,0.53,13.0,UPI,False,5.0
+C0130,2024-10-01,JP,Male,30.0,Desktop,Pro,1676.44,0.96,8.0,Debit Card,True,4.0
+C0258,2024-02-01,CA,Female,64.0,Desktop,Pro,473.28,0.01,15.0,Credit Card,False,3.0
+C0026,2024-06-01,GB,Female,55.0,Desktop,Free,455.79,0.2,5.0,PayPal,False,2.0
+C0210,2024-02-01,BR,Male,24.0,Mobile,Pro,2086.9,0.49,5.0,Bank Transfer,False,5.0
+C0061,2024-10-01,US,Male,75.0,Desktop,Free,622.4,0.33,1.0,UPI,False,1.0
+C0029,2024-08-01,IN,Female,15.0,Mobile,Enterprise,92.28,0.62,12.0,Bank Transfer,False,1.0
+C0158,2024-06-01,GB,Male,56.0,Mobile,Pro,1966.24,0.36,2.0,Debit Card,False,1.0
+C0293,2024-05-01,CA,Female,42.0,Desktop,Basic,431.54,0.65,5.0,Credit Card,True,3.0
+C0221,2024-02-01,BR,Female,56.0,Desktop,Enterprise,1669.74,0.1,14.0,PayPal,True,1.0
+C0229,2024-12-01,DE,Female,64.0,Desktop,Enterprise,3841.2,0.33,10.0,Credit Card,False,3.0
+C0216,2024-08-01,GB,Male,59.0,Tablet,Free,1113.3,0.69,9.0,Credit Card,True,1.0
+C0236,2024-04-01,US,Female,56.0,Tablet,Free,2687.02,0.47,13.0,PayPal,False,5.0
+C0154,2024-05-01,GB,Female,69.0,Desktop,Basic,1259.43,0.71,12.0,UPI,False,3.0
+C0039,2024-09-01,US,Male,60.0,Tablet,Free,4576.48,0.63,14.0,PayPal,False,1.0
+C0252,2024-09-01,US,Male,67.0,Mobile,Pro,421.62,0.32,10.0,PayPal,True,4.0
+C0136,2024-06-01,BR,Male,39.0,Tablet,Pro,1088.56,0.42,7.0,Debit Card,False,2.0
+C0151,2024-04-01,US,Male,26.0,Desktop,Pro,2009.91,0.96,2.0,PayPal,False,2.0
+C0112,2024-08-01,IN,Female,28.0,Tablet,Free,923.92,0.96,6.0,UPI,False,4.0
+C0055,2024-08-01,FR,Male,54.0,Tablet,Enterprise,3093.31,0.03,11.0,UPI,False,5.0
+C0279,2024-08-01,GB,Female,48.0,Tablet,Enterprise,743.35,0.7,4.0,PayPal,False,5.0
+C0235,2024-01-01,DE,Male,18.0,Tablet,Pro,7061.65,0.49,11.0,Debit Card,False,3.0
+C0194,2024-06-01,US,Male,26.0,Mobile,Free,7405.5,0.0,3.0,UPI,False,5.0
+C0121,2024-08-01,US,Male,77.0,Mobile,Basic,1413.56,0.63,1.0,UPI,False,2.0
+C0247,2024-12-01,DE,Female,61.0,Desktop,Pro,1803.24,0.02,6.0,Credit Card,True,5.0
+C0164,2024-07-01,BR,Female,63.0,Desktop,Pro,3205.12,0.31,4.0,Debit Card,False,5.0
+C0134,2024-05-01,DE,Male,26.0,Mobile,Free,376.73,0.69,14.0,Credit Card,False,3.0
+C0136,2024-07-01,FR,Female,17.0,Tablet,Enterprise,336.7,0.81,6.0,Credit Card,True,3.0
+C0069,2024-03-01,FR,Male,32.0,Mobile,Enterprise,3397.44,0.41,7.0,UPI,False,3.0
+C0028,2024-02-01,GB,Male,70.0,Tablet,Pro,1403.31,0.8,7.0,Bank Transfer,False,1.0
+C0167,2024-09-01,GB,Male,46.0,Mobile,Basic,894.39,0.83,5.0,Bank Transfer,True,5.0
+C0267,2024-12-01,DE,Other,65.0,Desktop,Pro,1107.67,0.44,14.0,PayPal,False,4.0
+C0020,2024-11-01,IN,Female,45.0,Tablet,Free,128.07,0.17,12.0,UPI,False,5.0
+C0258,2024-08-01,BR,Female,45.0,Desktop,Pro,923.8,0.65,3.0,Debit Card,True,1.0
+C0249,2024-01-01,FR,Male,53.0,Tablet,Free,556.83,0.01,4.0,Debit Card,False,5.0
+C0084,2024-12-01,GB,Male,77.0,Tablet,Free,2505.55,0.89,2.0,PayPal,False,2.0
+C0190,2024-06-01,GB,Female,42.0,Tablet,Pro,2685.25,0.38,4.0,Bank Transfer,False,5.0
+C0050,2024-04-01,GB,Male,52.0,Desktop,Pro,1842.75,0.76,10.0,Bank Transfer,False,5.0
+C0228,2024-11-01,BR,Female,74.0,Tablet,Enterprise,1565.43,0.73,15.0,Debit Card,False,5.0
+C0211,2024-09-01,JP,Female,37.0,Desktop,Pro,284.97,0.47,8.0,UPI,False,5.0
+C0107,2024-09-01,IN,Male,69.0,Tablet,Enterprise,1866.05,0.97,2.0,UPI,False,1.0
+C0021,2024-04-01,DE,Female,48.0,Tablet,Enterprise,1932.28,0.79,1.0,Credit Card,False,2.0
+C0292,2024-12-01,IN,Other,71.0,Mobile,Basic,3363.28,0.88,7.0,Credit Card,False,2.0
+C0134,2024-06-01,DE,Male,44.0,Desktop,Enterprise,7378.97,0.09,4.0,Credit Card,False,3.0
+C0268,2024-07-01,US,Female,55.0,Tablet,Basic,239.06,0.48,9.0,PayPal,False,5.0
+C0204,2024-10-01,GB,Female,34.0,Mobile,Pro,773.07,0.95,2.0,Debit Card,False,4.0
+C0234,2024-08-01,DE,Male,55.0,Tablet,Free,562.26,0.81,4.0,PayPal,True,3.0
+C0228,2024-03-01,GB,Female,34.0,Mobile,Free,1280.82,0.45,9.0,Debit Card,False,5.0
+C0059,2024-04-01,DE,Male,,Tablet,Pro,1109.94,0.07,5.0,PayPal,False,1.0
+C0110,2024-05-01,JP,Female,,Tablet,Basic,888.31,0.28,6.0,Credit Card,False,4.0
+C0141,2024-12-01,JP,Female,,Mobile,Pro,2765.13,0.57,4.0,Debit Card,False,3.0
+C0150,2024-09-01,IN,Female,41.0,Tablet,Free,406.97,0.64,1.0,Debit Card,False,2.0
+C0014,2024-05-01,DE,Male,34.0,Mobile,Basic,429.66,0.92,6.0,UPI,False,4.0
+C0164,2024-09-01,JP,Female,61.0,Desktop,Pro,436.24,0.09,5.0,UPI,False,5.0
+C0047,2024-09-01,FR,Male,52.0,Tablet,Pro,792.91,0.39,14.0,Credit Card,False,5.0
+C0224,2024-05-01,US,Male,47.0,Mobile,Enterprise,362.95,0.27,14.0,PayPal,True,5.0
+C0205,2024-05-01,FR,Male,14.0,Mobile,Enterprise,1049.73,0.96,7.0,Bank Transfer,True,5.0
+C0277,2024-11-01,US,Female,20.0,Desktop,Enterprise,944.88,0.16,5.0,Credit Card,False,3.0
+C0224,2024-07-01,IN,Male,13.0,Desktop,Free,540.31,0.22,7.0,Credit Card,False,1.0
+C0110,2024-02-01,BR,Male,69.0,Mobile,Pro,2407.61,0.29,10.0,Bank Transfer,True,5.0
+C0291,2024-09-01,FR,Female,70.0,Desktop,Free,1039.45,0.1,6.0,PayPal,True,3.0
+C0124,2024-08-01,JP,Male,17.0,Mobile,Basic,2853.73,0.64,12.0,Bank Transfer,False,4.0
+C0098,2024-07-01,GB,Male,16.0,Mobile,Free,920.07,0.52,15.0,PayPal,False,1.0
+C0272,2024-09-01,JP,Male,65.0,Mobile,Basic,1073.01,0.55,7.0,PayPal,False,5.0
+C0112,2024-11-01,DE,Male,48.0,Mobile,Free,660.83,0.9,2.0,Credit Card,False,5.0
+C0023,2024-04-01,BR,Female,33.0,Tablet,Pro,1089.7,0.43,2.0,UPI,False,5.0
+C0141,2024-06-01,IN,Male,54.0,Tablet,Free,2081.84,0.31,14.0,Debit Card,False,1.0
+C0239,2024-03-01,IN,Male,28.0,Desktop,Pro,757.33,0.37,7.0,Bank Transfer,False,5.0
+C0057,2024-08-01,JP,Other,26.0,Tablet,Pro,1748.6,0.8,5.0,Credit Card,True,4.0
+C0139,2024-05-01,JP,Female,37.0,Desktop,Free,527.7,0.52,10.0,Credit Card,False,1.0
+C0039,2024-05-01,CA,Female,73.0,Tablet,Free,2171.44,0.16,15.0,UPI,True,3.0
+C0206,2024-09-01,GB,Female,64.0,Mobile,Enterprise,650.72,0.68,7.0,Bank Transfer,True,3.0
+C0143,2024-05-01,IN,Female,25.0,Mobile,Pro,2360.22,0.74,5.0,Bank Transfer,True,4.0
+C0100,2024-06-01,CA,Male,50.0,Tablet,Basic,1158.5,0.24,13.0,UPI,True,1.0
+C0069,2024-06-01,FR,Female,72.0,Mobile,Enterprise,4310.71,0.55,2.0,UPI,False,3.0
+C0170,2024-04-01,US,Female,76.0,Tablet,Free,388.13,0.56,13.0,Debit Card,False,4.0
+C0201,2024-02-01,JP,Male,64.0,Desktop,Enterprise,290.45,0.17,8.0,Bank Transfer,False,4.0
+C0283,2024-10-01,CA,Male,21.0,Desktop,Free,629.8,0.0,1.0,Credit Card,False,4.0
+C0132,2024-02-01,GB,Male,29.0,Desktop,Pro,315.4,0.71,4.0,Credit Card,False,4.0
+C0049,2024-04-01,JP,Female,27.0,Tablet,Free,315.94,0.61,11.0,UPI,False,4.0
+C0250,2024-09-01,JP,Female,23.0,Mobile,Free,1918.69,0.71,12.0,Debit Card,False,1.0
+C0189,2024-02-01,FR,Female,24.0,Tablet,Basic,1092.52,0.37,3.0,UPI,False,4.0
+C0211,2024-08-01,BR,Male,34.0,Tablet,Free,712.15,0.51,10.0,Bank Transfer,False,2.0
+C0030,2024-09-01,GB,Male,50.0,Tablet,Basic,774.13,0.98,15.0,Debit Card,False,3.0
+C0094,2024-08-01,CA,Male,39.0,Tablet,Free,640.65,0.22,11.0,Bank Transfer,False,3.0
+C0231,2024-04-01,CA,Female,41.0,Tablet,Free,4843.21,0.65,11.0,Debit Card,False,5.0
+C0250,2024-01-01,CA,Female,29.0,Desktop,Enterprise,565.69,0.13,3.0,Debit Card,False,2.0
+C0131,2024-11-01,BR,Female,23.0,Desktop,Enterprise,333.65,0.06,10.0,Credit Card,False,2.0
+C0242,2024-04-01,IN,Female,79.0,Desktop,Enterprise,2244.97,0.95,11.0,PayPal,True,4.0
+C0253,2024-10-01,GB,Female,53.0,Tablet,Free,903.09,0.12,2.0,Bank Transfer,False,4.0
+C0117,2024-03-01,DE,Other,28.0,Desktop,Basic,6869.84,0.65,5.0,Bank Transfer,False,2.0
+C0270,2024-02-01,CA,Male,67.0,Desktop,Basic,682.95,0.51,14.0,Credit Card,False,2.0
+C0087,2024-10-01,FR,Male,68.0,Mobile,Basic,2348.16,0.8,15.0,PayPal,False,5.0
+C0072,2024-12-01,FR,Male,77.0,Mobile,Basic,2904.39,0.54,3.0,Credit Card,True,5.0
+C0205,2024-11-01,US,Male,23.0,Mobile,Pro,685.95,0.69,11.0,PayPal,False,1.0
+C0192,2024-10-01,JP,Male,55.0,Desktop,Basic,561.93,0.89,8.0,PayPal,True,2.0
+C0042,2024-03-01,GB,Male,78.0,Desktop,Basic,2137.15,0.82,9.0,Credit Card,False,4.0
+C0250,2024-11-01,IN,Other,67.0,Tablet,Enterprise,1839.78,0.72,8.0,Credit Card,False,1.0
+C0060,2024-09-01,CA,Male,28.0,Desktop,Enterprise,308.11,0.16,14.0,Credit Card,False,1.0
+C0242,2024-03-01,US,Other,72.0,Mobile,Basic,397.19,0.16,7.0,PayPal,False,1.0
+C0003,2024-02-01,IN,Female,41.0,Desktop,Free,111.86,0.49,9.0,PayPal,True,3.0
+C0240,2024-11-01,IN,Female,45.0,Mobile,Pro,1874.03,0.65,11.0,Credit Card,False,3.0
+C0237,2024-04-01,DE,Female,50.0,Tablet,Basic,866.41,0.66,9.0,UPI,False,2.0
+C0235,2024-10-01,IN,Male,64.0,Tablet,Enterprise,947.73,0.78,14.0,PayPal,False,1.0
+C0200,2024-02-01,JP,Female,21.0,Mobile,Basic,239.3,0.1,4.0,Debit Card,True,4.0
+C0142,2024-04-01,FR,Male,49.0,Mobile,Free,408.18,0.17,15.0,PayPal,False,5.0
+C0212,2024-04-01,GB,Female,67.0,Mobile,Free,713.25,0.14,11.0,Debit Card,True,2.0
+C0084,2024-04-01,IN,Male,,Desktop,Free,598.79,0.54,15.0,Debit Card,False,4.0
+C0235,2024-09-01,DE,Male,31.0,Mobile,Basic,1219.32,0.63,6.0,Debit Card,False,4.0
+C0167,2024-11-01,US,Female,16.0,Tablet,Basic,1854.04,0.11,8.0,Debit Card,False,3.0
+C0138,2024-11-01,CA,Female,49.0,Mobile,Enterprise,8456.17,0.86,1.0,UPI,False,3.0
+C0152,2024-09-01,GB,Male,60.0,Desktop,Enterprise,1077.05,0.3,14.0,Debit Card,False,1.0
+C0171,2024-03-01,DE,Female,49.0,Desktop,Free,2992.49,0.66,13.0,Debit Card,False,5.0
+C0012,2024-12-01,IN,Male,78.0,Mobile,Enterprise,519.58,0.75,5.0,PayPal,False,5.0
+C0042,2024-07-01,US,Female,53.0,Tablet,Pro,242.88,0.03,1.0,Debit Card,False,4.0
+C0074,2024-07-01,US,Male,47.0,Mobile,Basic,798.65,0.86,11.0,PayPal,False,5.0
+C0035,2024-09-01,IN,Male,16.0,Tablet,Basic,260.36,0.97,11.0,Credit Card,False,4.0
+C0132,2024-10-01,BR,Male,50.0,Tablet,Basic,1111.21,0.95,8.0,Credit Card,False,4.0
+C0201,2024-12-01,CA,Male,24.0,Desktop,Free,543.26,0.13,3.0,Bank Transfer,True,5.0
+C0197,2024-07-01,CA,Male,61.0,Tablet,Enterprise,188.89,0.39,14.0,UPI,True,1.0
+C0142,2024-08-01,GB,Male,23.0,Desktop,Free,5231.34,0.23,7.0,PayPal,False,2.0
+C0257,2024-09-01,JP,Male,73.0,Mobile,Free,676.0,0.45,11.0,PayPal,False,2.0
+C0170,2024-04-01,FR,Male,33.0,Mobile,Basic,251.17,0.97,13.0,Credit Card,True,4.0
+C0024,2024-04-01,IN,Female,42.0,Tablet,Free,2461.08,0.76,9.0,Bank Transfer,False,2.0
+C0230,2024-08-01,IN,Male,22.0,Desktop,Free,569.21,0.77,2.0,UPI,False,2.0
+C0173,2024-01-01,FR,Female,27.0,Tablet,Basic,2925.29,0.42,14.0,Bank Transfer,False,3.0
+C0191,2024-04-01,DE,Female,74.0,Mobile,Basic,566.77,0.93,11.0,UPI,False,4.0
+C0170,2024-09-01,IN,Male,32.0,Tablet,Free,673.97,0.92,14.0,UPI,False,3.0
+C0167,2024-12-01,CA,Female,47.0,Tablet,Enterprise,1495.7,0.8,10.0,PayPal,False,1.0
+C0028,2024-07-01,BR,Male,78.0,Mobile,Enterprise,1870.38,0.81,14.0,Credit Card,False,4.0
+C0168,2024-05-01,FR,Male,54.0,Desktop,Pro,2189.95,0.65,14.0,PayPal,True,3.0
+C0239,2024-06-01,CA,Female,15.0,Tablet,Pro,1011.54,0.09,4.0,Bank Transfer,False,1.0
+C0092,2024-09-01,CA,Female,36.0,Mobile,Enterprise,1764.73,0.28,3.0,PayPal,False,4.0
+C0181,2024-07-01,CA,Female,38.0,Mobile,Basic,2145.37,0.76,3.0,Credit Card,True,2.0
+C0010,2024-01-01,GB,Male,31.0,Mobile,Basic,1313.58,0.32,12.0,PayPal,True,3.0
+C0105,2024-07-01,CA,Female,29.0,Desktop,Free,964.5,0.17,4.0,Credit Card,False,5.0
+C0132,2024-05-01,FR,Male,46.0,Mobile,Pro,298.64,0.94,7.0,Credit Card,False,2.0
+C0295,2024-09-01,BR,Male,38.0,Desktop,Free,1880.43,0.48,12.0,Debit Card,False,5.0
+C0065,2024-11-01,JP,Male,32.0,Tablet,Pro,1139.06,0.86,7.0,Debit Card,False,3.0
+C0083,2024-12-01,US,Other,40.0,Mobile,Enterprise,755.78,0.28,1.0,Credit Card,False,5.0
+C0123,2024-08-01,DE,Male,36.0,Mobile,Free,3463.34,0.35,6.0,Credit Card,False,5.0
+C0298,2024-05-01,US,Female,28.0,Desktop,Pro,303.37,0.34,2.0,PayPal,True,5.0
+C0257,2024-06-01,GB,Female,43.0,Mobile,Basic,4815.68,0.37,6.0,UPI,False,2.0
+C0011,2024-03-01,DE,Female,76.0,Mobile,Basic,1074.87,0.43,12.0,Credit Card,False,4.0
+C0071,2024-12-01,JP,Female,46.0,Mobile,Pro,1459.38,0.29,8.0,UPI,False,2.0
+C0247,2024-11-01,JP,Female,53.0,Mobile,Free,768.52,0.81,11.0,PayPal,False,5.0
+C0018,2024-11-01,DE,Male,78.0,Tablet,Enterprise,244.6,0.32,2.0,PayPal,True,5.0
+C0257,2024-04-01,GB,Male,,Mobile,Basic,967.15,0.44,12.0,Debit Card,True,4.0
+C0085,2024-04-01,FR,Female,27.0,Desktop,Basic,1482.18,0.86,7.0,Credit Card,False,5.0
+C0276,2024-11-01,CA,Male,39.0,Tablet,Enterprise,2015.46,0.43,5.0,Bank Transfer,False,3.0
+C0089,2024-07-01,CA,Male,45.0,Desktop,Free,917.61,0.01,10.0,PayPal,False,1.0
+C0131,2024-09-01,US,Male,44.0,Desktop,Basic,152.43,0.0,3.0,Bank Transfer,False,5.0
+C0199,2024-06-01,US,Male,23.0,Desktop,Enterprise,273.83,0.43,8.0,Debit Card,False,3.0
+C0038,2024-06-01,BR,Male,20.0,Tablet,Basic,6952.23,0.64,7.0,Credit Card,False,1.0
+C0168,2024-08-01,GB,Male,36.0,Mobile,Free,410.23,0.94,3.0,Debit Card,False,1.0
+C0152,2024-10-01,US,Female,74.0,Mobile,Basic,3961.37,0.13,15.0,Debit Card,False,4.0
+C0236,2024-05-01,IN,Male,61.0,Tablet,Enterprise,473.11,0.54,6.0,PayPal,False,5.0
+C0299,2024-10-01,DE,Other,69.0,Mobile,Enterprise,930.56,0.28,1.0,PayPal,True,4.0
+C0200,2024-03-01,DE,Other,24.0,Mobile,Enterprise,1925.01,0.45,7.0,Credit Card,False,3.0
+C0123,2024-05-01,FR,Male,40.0,Mobile,Basic,524.17,0.44,15.0,UPI,False,2.0
+C0122,2024-11-01,US,Female,51.0,Mobile,Enterprise,4596.24,0.31,11.0,Debit Card,True,3.0
+C0126,2024-12-01,BR,Female,42.0,Mobile,Basic,1173.98,0.01,10.0,PayPal,False,2.0
+C0245,2024-12-01,BR,Female,40.0,Desktop,Enterprise,1660.32,0.07,14.0,Debit Card,False,2.0
+C0097,2024-04-01,DE,Male,37.0,Desktop,Enterprise,861.91,0.52,2.0,UPI,False,1.0
+C0051,2024-11-01,US,Male,16.0,Mobile,Free,1983.96,0.22,9.0,PayPal,False,3.0
+C0101,2024-12-01,FR,Male,70.0,Tablet,Enterprise,4541.05,0.32,5.0,Debit Card,False,2.0
+C0007,2024-12-01,BR,Female,75.0,Mobile,Pro,974.42,0.09,11.0,Credit Card,False,1.0
+C0032,2024-01-01,GB,Other,18.0,Tablet,Pro,5201.7,0.04,13.0,PayPal,False,2.0
+C0028,2024-09-01,GB,Female,40.0,Tablet,Enterprise,632.43,0.12,2.0,Bank Transfer,False,4.0
+C0232,2024-12-01,FR,Female,47.0,Desktop,Free,2181.32,0.37,3.0,UPI,False,3.0
+C0217,2024-10-01,GB,Other,65.0,Desktop,Pro,1703.1,0.16,15.0,Bank Transfer,False,3.0
+C0210,2024-03-01,DE,Female,79.0,Mobile,Free,419.17,0.23,8.0,Credit Card,False,3.0
+C0139,2024-10-01,GB,Male,40.0,Mobile,Basic,1329.33,0.3,5.0,Bank Transfer,False,3.0
+C0216,2024-02-01,GB,Female,63.0,Tablet,Free,1103.93,0.29,3.0,Bank Transfer,False,3.0
+C0049,2024-06-01,BR,Male,75.0,Desktop,Free,508.84,0.01,6.0,Debit Card,False,5.0
+C0271,2024-08-01,DE,Male,68.0,Mobile,Enterprise,1513.53,0.11,1.0,Credit Card,False,4.0
+C0151,2024-06-01,DE,Female,32.0,Tablet,Basic,1250.95,0.95,4.0,PayPal,False,1.0
+C0282,2024-09-01,BR,Female,67.0,Tablet,Basic,1027.28,0.66,3.0,Bank Transfer,False,5.0
+C0046,2024-03-01,GB,Male,40.0,Mobile,Basic,1031.0,0.12,2.0,Credit Card,False,1.0
+C0150,2024-08-01,IN,Male,14.0,Mobile,Pro,1011.3,0.28,15.0,PayPal,False,1.0
+C0209,2024-08-01,JP,Male,63.0,Mobile,Pro,787.66,0.38,12.0,Bank Transfer,False,3.0
+C0149,2024-08-01,IN,Male,68.0,Mobile,Pro,1243.71,0.9,15.0,Credit Card,False,2.0
+C0134,2024-04-01,FR,Male,36.0,Desktop,Enterprise,614.3,0.87,4.0,UPI,False,4.0
+C0050,2024-04-01,GB,Female,43.0,Mobile,Basic,11981.61,0.77,5.0,Credit Card,False,4.0
+C0115,2024-04-01,US,Female,37.0,Desktop,Enterprise,308.46,0.1,5.0,Credit Card,False,1.0
+C0072,2024-06-01,IN,Male,20.0,Mobile,Enterprise,647.9,0.49,9.0,UPI,False,3.0
+C0091,2024-08-01,CA,Male,79.0,Tablet,Pro,695.64,0.48,3.0,Debit Card,False,4.0
+C0206,2024-05-01,DE,Male,14.0,Tablet,Free,6880.48,0.63,4.0,Credit Card,True,4.0
+C0190,2024-05-01,GB,Male,50.0,Desktop,Basic,334.25,0.84,15.0,Bank Transfer,False,3.0
+C0183,2024-04-01,BR,Female,14.0,Desktop,Pro,1608.94,0.32,6.0,Debit Card,False,4.0
+C0109,2024-03-01,IN,Female,59.0,Mobile,Basic,1371.36,0.55,12.0,Bank Transfer,False,3.0
+C0288,2024-08-01,FR,Female,73.0,Mobile,Basic,1480.66,0.26,4.0,Credit Card,False,2.0
+C0027,2024-10-01,DE,Male,56.0,Desktop,Basic,3336.6,0.21,14.0,UPI,False,3.0
+C0103,2024-04-01,FR,Female,53.0,Mobile,Free,3275.57,0.31,11.0,PayPal,False,4.0
+C0036,2024-11-01,IN,Male,68.0,Desktop,Free,730.8,0.73,13.0,UPI,False,1.0
+C0102,2024-07-01,CA,Male,78.0,Desktop,Enterprise,1305.86,0.43,8.0,UPI,True,4.0
+C0289,2024-03-01,US,Female,70.0,Mobile,Free,204.86,0.68,14.0,PayPal,False,2.0
+C0110,2024-05-01,BR,Female,28.0,Desktop,Enterprise,,0.69,6.0,Credit Card,False,1.0
+C0273,2024-01-01,BR,Female,50.0,Desktop,Basic,536.68,0.36,8.0,Bank Transfer,True,4.0
+C0149,2024-01-01,GB,Female,67.0,Tablet,Enterprise,927.28,0.95,1.0,PayPal,True,2.0
+C0210,2024-05-01,US,Female,32.0,Mobile,Basic,240.61,0.04,3.0,PayPal,False,3.0
+C0138,2024-06-01,GB,Female,58.0,Desktop,Enterprise,1578.74,0.89,12.0,UPI,False,4.0
+C0080,2024-10-01,JP,Male,14.0,Tablet,Pro,238.19,0.0,5.0,Debit Card,True,3.0
+C0230,2024-02-01,CA,Male,71.0,Mobile,Enterprise,1253.2,0.38,2.0,UPI,False,4.0
+C0291,2024-11-01,CA,Male,54.0,Tablet,Free,363.63,0.82,5.0,PayPal,False,5.0
+C0080,2024-03-01,US,Male,62.0,Tablet,Enterprise,510.47,0.68,6.0,Bank Transfer,False,4.0
+C0234,2024-02-01,FR,Male,68.0,Desktop,Basic,3100.31,0.32,11.0,Bank Transfer,False,1.0
+C0079,2024-09-01,US,Male,27.0,Tablet,Basic,1861.48,0.88,2.0,Credit Card,False,2.0
+C0216,2024-10-01,BR,Female,43.0,Tablet,Free,3084.93,0.13,1.0,Credit Card,True,3.0
+C0237,2024-08-01,DE,Female,70.0,Mobile,Enterprise,4463.79,0.67,11.0,Bank Transfer,False,3.0
+C0135,2024-02-01,BR,Female,24.0,Tablet,Pro,547.0,0.51,3.0,Debit Card,True,2.0
+C0222,2024-02-01,BR,Male,68.0,Mobile,Enterprise,4226.27,0.2,7.0,UPI,False,1.0
+C0082,2024-05-01,CA,Female,32.0,Mobile,Pro,293.26,0.92,11.0,Credit Card,False,1.0
+C0024,2024-06-01,DE,Male,51.0,Mobile,Free,2146.28,0.76,8.0,Credit Card,False,1.0
+C0029,2024-12-01,GB,Male,47.0,Desktop,Basic,703.45,0.0,2.0,UPI,True,5.0
+C0135,2024-04-01,FR,Male,58.0,Tablet,Basic,474.72,0.08,11.0,PayPal,False,2.0
+C0271,2024-03-01,US,Male,69.0,Desktop,Free,1906.5,0.05,1.0,PayPal,False,5.0
+C0039,2024-12-01,IN,Male,36.0,Desktop,Enterprise,2566.91,0.41,4.0,Bank Transfer,True,2.0
+C0137,2024-02-01,FR,Female,24.0,Mobile,Enterprise,2499.24,0.41,2.0,Credit Card,False,2.0
+C0212,2024-01-01,JP,Female,41.0,Desktop,Pro,1330.58,0.72,8.0,Debit Card,False,3.0
+C0061,2024-06-01,FR,Female,54.0,Desktop,Pro,1234.92,0.67,11.0,UPI,True,5.0
+C0217,2024-05-01,JP,Male,63.0,Desktop,Pro,1761.96,0.01,10.0,UPI,False,3.0
+C0092,2024-08-01,US,Female,63.0,Mobile,Pro,1441.43,0.47,3.0,Credit Card,False,1.0
+C0243,2024-11-01,DE,Female,35.0,Mobile,Free,1785.08,0.78,6.0,UPI,False,2.0
+C0174,2024-12-01,FR,Male,75.0,Tablet,Pro,1317.64,0.89,3.0,Bank Transfer,False,5.0
+C0165,2024-04-01,GB,Female,18.0,Desktop,Enterprise,2341.4,0.29,6.0,Credit Card,False,1.0
+C0054,2024-12-01,IN,Male,20.0,Desktop,Enterprise,253.54,0.04,4.0,Bank Transfer,False,5.0
+C0139,2024-08-01,IN,Male,14.0,Mobile,Pro,974.43,0.15,12.0,UPI,False,5.0
+C0257,2024-01-01,CA,Male,75.0,Tablet,Enterprise,315.62,0.34,12.0,UPI,False,2.0
+C0006,2024-12-01,FR,Female,25.0,Desktop,Pro,1406.74,0.44,13.0,PayPal,False,3.0
+C0228,2024-02-01,GB,Male,53.0,Desktop,Basic,4806.56,0.35,4.0,PayPal,False,3.0
+C0148,2024-08-01,GB,Male,67.0,Tablet,Basic,715.74,0.09,1.0,PayPal,False,4.0
+C0216,2024-10-01,IN,Male,64.0,Mobile,Pro,1229.7,0.34,1.0,Credit Card,False,4.0
+C0199,2024-03-01,CA,Other,76.0,Desktop,Enterprise,2166.43,0.28,13.0,Debit Card,False,1.0
+C0130,2024-04-01,IN,Male,16.0,Tablet,Free,170.55,0.48,14.0,Bank Transfer,False,2.0
+C0093,2024-06-01,JP,Male,40.0,Desktop,Basic,685.47,0.07,4.0,Credit Card,False,5.0
+C0189,2024-11-01,US,Male,46.0,Mobile,Pro,1522.43,0.79,14.0,PayPal,False,2.0
+C0043,2024-03-01,GB,Female,59.0,Mobile,Enterprise,80.86,0.41,8.0,UPI,False,2.0
+C0176,2024-08-01,GB,Female,54.0,Mobile,Basic,455.26,0.31,3.0,Credit Card,False,4.0
+C0029,2024-06-01,JP,Female,50.0,Desktop,Pro,2953.58,0.9,5.0,Credit Card,False,1.0
+C0195,2024-02-01,IN,Male,33.0,Desktop,Free,2704.57,0.74,4.0,Bank Transfer,True,1.0
+C0189,2024-09-01,GB,Male,20.0,Mobile,Basic,1535.92,0.13,12.0,Credit Card,False,4.0
+C0026,2024-10-01,GB,Female,41.0,Tablet,Enterprise,2425.95,0.14,3.0,Credit Card,False,1.0
+C0228,2024-07-01,GB,Male,30.0,Mobile,Pro,1330.88,0.0,3.0,Credit Card,False,5.0
+C0125,2024-03-01,US,Female,50.0,Desktop,Enterprise,1807.78,0.56,11.0,PayPal,False,2.0
+C0237,2024-02-01,CA,Female,66.0,Tablet,Free,825.44,0.35,5.0,Bank Transfer,False,1.0
+C0013,2024-06-01,DE,Male,50.0,Mobile,Basic,1217.11,0.37,4.0,Credit Card,False,4.0
+C0054,2024-07-01,DE,Other,52.0,Mobile,Enterprise,620.71,0.5,13.0,PayPal,False,1.0
+C0149,2024-07-01,DE,Female,15.0,Mobile,Enterprise,3419.11,0.53,14.0,PayPal,False,2.0
+C0057,2024-03-01,CA,Male,56.0,Desktop,Enterprise,4313.06,0.0,9.0,Debit Card,False,2.0
+C0099,2024-07-01,GB,Male,42.0,Mobile,Basic,3796.83,0.1,13.0,Credit Card,False,3.0
+C0199,2024-04-01,GB,Male,21.0,Tablet,Enterprise,759.53,0.78,13.0,UPI,False,3.0
+C0044,2024-09-01,GB,Female,27.0,Mobile,Basic,464.8,0.95,9.0,Credit Card,False,1.0
+C0204,2024-10-01,GB,Male,65.0,Tablet,Enterprise,3460.87,0.83,13.0,Credit Card,True,2.0
+C0032,2024-08-01,IN,Male,74.0,Desktop,Enterprise,1789.19,0.9,1.0,UPI,False,1.0
+C0053,2024-01-01,FR,Female,47.0,Mobile,Basic,1473.99,0.46,1.0,Bank Transfer,False,1.0
+C0177,2024-12-01,IN,Male,78.0,Mobile,Basic,620.01,0.82,14.0,Bank Transfer,False,4.0
+C0239,2024-01-01,US,Male,25.0,Mobile,Enterprise,1608.56,0.88,3.0,PayPal,False,3.0
+C0052,2024-12-01,US,Female,33.0,Mobile,Basic,412.92,0.89,11.0,Debit Card,False,1.0
+C0090,2024-01-01,GB,Male,75.0,Mobile,Basic,1940.41,0.14,7.0,Debit Card,False,2.0
+C0278,2024-07-01,JP,Male,24.0,Desktop,Pro,3793.32,0.14,12.0,PayPal,False,4.0
+C0297,2024-02-01,FR,Male,57.0,Mobile,Enterprise,4759.71,0.4,10.0,Credit Card,False,2.0
+C0175,2024-02-01,CA,Male,27.0,Tablet,Free,2074.91,0.5,2.0,UPI,False,3.0
+C0135,2024-09-01,GB,Male,35.0,Mobile,Enterprise,316.14,0.95,6.0,PayPal,False,4.0
+C0105,2024-09-01,CA,Female,45.0,Mobile,Basic,1309.76,0.31,11.0,Bank Transfer,False,4.0
+C0184,2024-02-01,IN,Other,37.0,Mobile,Free,7522.95,0.83,14.0,Credit Card,False,4.0
+C0178,2024-12-01,FR,Male,71.0,Mobile,Basic,501.82,0.88,13.0,Debit Card,True,2.0
+C0089,2024-04-01,JP,Other,78.0,Tablet,Basic,1039.75,0.96,14.0,Debit Card,True,3.0
+C0007,2024-04-01,FR,Female,46.0,Mobile,Pro,3913.44,0.18,15.0,UPI,False,5.0
+C0046,2024-04-01,CA,Female,48.0,Mobile,Pro,1911.07,0.24,14.0,Credit Card,False,5.0
+C0288,2024-06-01,GB,Female,16.0,Tablet,Free,10220.4,0.21,9.0,Bank Transfer,False,1.0
+C0126,2024-03-01,IN,Female,28.0,Desktop,Basic,567.03,0.73,6.0,Bank Transfer,True,5.0
+C0145,2024-06-01,JP,Female,15.0,Mobile,Free,449.99,0.68,8.0,Debit Card,False,5.0
+C0141,2024-03-01,IN,Male,70.0,Tablet,Basic,3300.12,0.4,12.0,UPI,True,5.0
+C0235,2024-01-01,JP,Female,28.0,Mobile,Pro,373.8,0.08,7.0,UPI,False,2.0
+C0020,2024-05-01,BR,Male,35.0,Mobile,Enterprise,918.65,0.52,13.0,Credit Card,False,3.0
+C0025,2024-09-01,JP,Male,69.0,Desktop,Free,1033.72,0.73,11.0,Bank Transfer,False,1.0
+C0083,2024-10-01,DE,Female,60.0,Tablet,Pro,2786.08,0.47,4.0,PayPal,False,1.0
+C0146,2024-05-01,CA,Male,54.0,Mobile,Basic,1906.15,0.26,14.0,Debit Card,True,3.0
+C0202,2024-04-01,US,Male,15.0,Tablet,Basic,1654.67,0.59,13.0,UPI,False,2.0
+C0148,2024-10-01,DE,Male,50.0,Mobile,Pro,763.42,0.66,9.0,Debit Card,True,2.0
+C0133,2024-09-01,IN,Male,50.0,Tablet,Free,3273.14,0.59,3.0,Debit Card,False,2.0
+C0282,2024-10-01,JP,Female,34.0,Mobile,Enterprise,41078.56,0.87,4.0,Debit Card,False,3.0
+C0049,2024-11-01,BR,Female,62.0,Desktop,Basic,2042.96,0.31,13.0,Credit Card,False,1.0
+C0172,2024-10-01,JP,Male,75.0,Desktop,Free,1199.55,0.6,1.0,Bank Transfer,False,5.0
+C0163,2024-12-01,JP,Male,30.0,Mobile,Enterprise,341.01,0.85,8.0,PayPal,False,4.0
+C0143,2024-05-01,GB,Male,35.0,Desktop,Enterprise,617.86,0.21,10.0,Bank Transfer,False,4.0
+C0243,2024-05-01,IN,Male,34.0,Tablet,Pro,904.75,0.28,4.0,Credit Card,True,5.0
+C0081,2024-04-01,CA,Female,68.0,Desktop,Pro,677.81,0.04,13.0,PayPal,False,4.0
+C0287,2024-03-01,DE,Female,18.0,Desktop,Free,1080.88,0.37,8.0,UPI,False,2.0
+C0100,2024-09-01,IN,Male,73.0,Tablet,Basic,5432.82,0.04,1.0,PayPal,False,5.0
+C0164,2024-09-01,CA,Male,64.0,Tablet,Basic,3369.27,0.74,5.0,Bank Transfer,False,3.0
+C0157,2024-10-01,CA,Other,45.0,Mobile,Enterprise,950.56,0.08,6.0,Debit Card,False,3.0
+C0255,2024-03-01,DE,Female,52.0,Tablet,Basic,369.65,0.69,4.0,Credit Card,False,3.0
+C0132,2024-06-01,JP,Male,72.0,Tablet,Pro,3654.19,0.57,15.0,Credit Card,False,1.0
+C0086,2024-03-01,IN,Male,64.0,Tablet,Basic,1049.27,0.98,6.0,UPI,True,5.0
+C0007,2024-11-01,IN,Male,31.0,Tablet,Pro,231.86,0.34,8.0,Credit Card,False,5.0
+C0110,2024-04-01,GB,Female,16.0,Tablet,Free,2082.21,0.34,9.0,Credit Card,False,4.0
+C0248,2024-02-01,BR,Male,57.0,Tablet,Pro,2760.36,0.24,4.0,Credit Card,True,2.0
+C0003,2024-07-01,US,Male,22.0,Mobile,Free,123.55,0.53,9.0,Debit Card,True,5.0
+C0269,2024-11-01,IN,Other,18.0,Tablet,Pro,522.12,0.21,6.0,Credit Card,True,1.0
+C0163,2024-11-01,BR,Female,78.0,Mobile,Free,992.86,0.11,1.0,UPI,True,2.0
+C0043,2024-02-01,JP,Male,44.0,Desktop,Enterprise,2124.01,0.94,7.0,PayPal,True,1.0
+C0091,2024-04-01,BR,Male,56.0,Tablet,Enterprise,689.4,0.67,9.0,Debit Card,True,2.0
+C0167,2024-02-01,JP,Male,27.0,Mobile,Pro,518.57,0.11,2.0,Credit Card,False,2.0
+C0095,2024-04-01,JP,Female,19.0,Tablet,Enterprise,2110.02,0.61,12.0,UPI,False,4.0
+C0033,2024-07-01,FR,Male,17.0,Desktop,Enterprise,719.47,0.3,10.0,Credit Card,False,2.0
+C0200,2024-04-01,FR,Female,36.0,Mobile,Free,1786.21,0.18,5.0,PayPal,False,5.0
+C0202,2024-01-01,JP,Female,13.0,Mobile,Pro,403.28,0.47,9.0,Debit Card,False,2.0
+C0036,2024-07-01,GB,Female,41.0,Desktop,Basic,324.7,0.78,5.0,UPI,False,3.0
+C0085,2024-01-01,IN,Female,34.0,Desktop,Enterprise,2164.06,0.0,10.0,Debit Card,False,3.0
+C0074,2024-03-01,JP,Male,48.0,Desktop,Enterprise,1376.46,0.35,3.0,Debit Card,False,5.0
+C0198,2024-01-01,GB,Male,52.0,Mobile,Enterprise,2515.46,0.92,10.0,Credit Card,False,4.0
+C0220,2024-02-01,CA,Female,33.0,Mobile,Basic,679.03,0.39,1.0,UPI,False,5.0
+C0219,2024-06-01,DE,Male,43.0,Mobile,Free,536.15,0.09,1.0,Credit Card,False,5.0
+C0282,2024-11-01,JP,Male,18.0,Mobile,Free,3731.8,0.42,4.0,PayPal,False,1.0
+C0231,2024-10-01,IN,Male,33.0,Tablet,Free,278.48,0.68,3.0,Debit Card,True,1.0
+C0097,2024-02-01,BR,Male,78.0,Mobile,Enterprise,3382.31,0.99,8.0,UPI,False,3.0
+C0033,2024-01-01,DE,Male,79.0,Tablet,Pro,3599.15,0.62,3.0,UPI,True,1.0
+C0185,2024-05-01,DE,Female,45.0,Mobile,Basic,2378.16,0.05,4.0,PayPal,True,3.0
+C0275,2024-08-01,GB,Female,75.0,Desktop,Basic,590.5,0.8,2.0,PayPal,True,3.0
+C0293,2024-09-01,CA,Female,46.0,Tablet,Free,525.91,0.78,14.0,UPI,False,2.0
+C0070,2024-10-01,DE,Female,21.0,Desktop,Pro,907.73,0.65,12.0,Bank Transfer,False,1.0
+C0071,2024-05-01,JP,Male,71.0,Mobile,Basic,341.88,0.89,4.0,Debit Card,False,5.0
+C0012,2024-03-01,DE,Female,40.0,Desktop,Enterprise,461.5,0.76,2.0,PayPal,False,2.0
+C0043,2024-01-01,IN,Female,54.0,Mobile,Free,1959.14,0.23,13.0,Debit Card,False,5.0
+C0167,2024-02-01,CA,Male,56.0,Tablet,Enterprise,1967.29,0.42,11.0,PayPal,False,4.0
+C0165,2024-01-01,US,Female,33.0,Tablet,Free,426.4,0.5,14.0,UPI,False,4.0
+C0112,2024-11-01,GB,Male,62.0,Desktop,Basic,2015.27,0.48,3.0,Bank Transfer,False,4.0
+C0093,2024-04-01,JP,Male,46.0,Desktop,Basic,1650.57,0.63,6.0,Debit Card,True,2.0
+C0249,2024-10-01,CA,Male,37.0,Desktop,Pro,4267.99,0.7,2.0,UPI,False,2.0
+C0139,2024-07-01,CA,Male,32.0,Tablet,Pro,1830.28,0.1,7.0,Credit Card,True,5.0
+C0243,2024-07-01,DE,Male,63.0,Desktop,Free,2843.31,0.56,3.0,PayPal,False,4.0
+C0289,2024-06-01,JP,Female,29.0,Tablet,Basic,1684.75,0.03,1.0,Credit Card,False,2.0
+C0096,2024-10-01,GB,Female,21.0,Desktop,Pro,2649.0,0.51,8.0,UPI,False,4.0
+C0061,2024-01-01,BR,Male,72.0,Mobile,Basic,344.33,0.42,15.0,Credit Card,False,2.0
+C0286,2024-02-01,FR,Female,35.0,Tablet,Free,982.82,0.2,10.0,Debit Card,False,5.0
+C0191,2024-06-01,IN,Male,55.0,Desktop,Free,1058.83,0.99,12.0,UPI,False,3.0
+C0088,2024-05-01,DE,Female,61.0,Tablet,Pro,880.62,0.25,13.0,Debit Card,False,2.0
+C0187,2024-07-01,DE,Male,69.0,Desktop,Basic,1635.16,0.05,15.0,Debit Card,False,4.0
+C0155,2024-09-01,GB,Male,54.0,Desktop,Pro,1940.97,0.35,2.0,Credit Card,False,4.0
+C0272,2024-08-01,GB,Female,60.0,Desktop,Free,1560.92,0.75,4.0,PayPal,False,2.0
+C0077,2024-04-01,FR,Female,69.0,Desktop,Pro,935.19,0.0,10.0,PayPal,True,4.0
+C0298,2024-04-01,IN,Female,76.0,Tablet,Free,565.58,0.49,13.0,UPI,False,2.0
+C0281,2024-10-01,US,Female,16.0,Desktop,Pro,2943.83,0.41,12.0,Credit Card,False,2.0
+C0055,2024-03-01,JP,Female,62.0,Tablet,Enterprise,1502.31,0.86,11.0,Credit Card,False,5.0
+C0050,2024-07-01,GB,Male,24.0,Desktop,Basic,438.45,0.0,5.0,PayPal,False,4.0
+C0160,2024-07-01,FR,Male,72.0,Mobile,Free,921.2,0.01,6.0,Bank Transfer,False,1.0
+C0014,2024-10-01,FR,Male,16.0,Tablet,Free,228.38,0.56,2.0,Bank Transfer,False,4.0
+C0090,2024-09-01,FR,Male,29.0,Desktop,Basic,1132.1,0.17,5.0,UPI,False,2.0
+C0131,2024-06-01,DE,Male,25.0,Tablet,Free,917.32,0.7,3.0,UPI,False,2.0
+C0291,2024-04-01,DE,Male,53.0,Desktop,Enterprise,653.92,0.27,15.0,Credit Card,False,3.0
+C0298,2024-05-01,JP,Male,13.0,Desktop,Enterprise,4564.85,0.56,2.0,Credit Card,True,3.0
+C0046,2024-05-01,CA,Female,14.0,Tablet,Enterprise,387.4,0.03,6.0,PayPal,True,5.0
+C0268,2024-03-01,GB,Male,46.0,Desktop,Enterprise,2070.93,0.69,14.0,UPI,False,3.0
+C0028,2024-08-01,BR,Female,78.0,Tablet,Pro,7848.18,0.51,15.0,UPI,True,2.0
+C0225,2024-03-01,CA,Female,48.0,Desktop,Basic,2891.53,0.0,6.0,Debit Card,False,4.0
+C0254,2024-08-01,IN,Male,42.0,Mobile,Basic,1065.94,0.26,7.0,Debit Card,False,3.0
+C0268,2024-10-01,JP,Male,57.0,Mobile,Basic,395.18,0.05,8.0,Bank Transfer,False,1.0
+C0068,2024-12-01,DE,Female,49.0,Tablet,Enterprise,321.87,0.04,13.0,Bank Transfer,False,4.0
+C0269,2024-02-01,CA,Female,38.0,Desktop,Basic,757.18,0.69,12.0,PayPal,False,3.0
+C0035,2024-10-01,FR,Male,52.0,Desktop,Basic,590.93,0.42,8.0,Debit Card,False,3.0
+C0156,2024-02-01,JP,Male,13.0,Tablet,Pro,573.87,0.8,6.0,PayPal,False,1.0
+C0141,2024-05-01,US,Female,29.0,Desktop,Basic,817.55,0.25,6.0,Debit Card,True,3.0
+C0095,2024-03-01,US,Female,58.0,Desktop,Basic,1000.22,0.71,10.0,UPI,False,4.0
+C0007,2024-02-01,CA,Male,35.0,Tablet,Free,1697.12,0.61,13.0,Credit Card,True,4.0
+C0232,2024-03-01,FR,Male,16.0,Mobile,Free,359.96,0.66,2.0,PayPal,False,4.0
+C0101,2024-01-01,FR,Female,21.0,Mobile,Free,593.47,0.82,12.0,Credit Card,True,5.0
+C0199,2024-10-01,US,Male,71.0,Tablet,Basic,949.84,0.7,8.0,PayPal,False,3.0
+C0124,2024-01-01,US,Female,35.0,Mobile,Enterprise,919.71,0.74,3.0,PayPal,False,3.0
+C0113,2024-05-01,JP,Male,14.0,Tablet,Basic,5726.05,0.73,2.0,Credit Card,False,3.0
+C0266,2024-09-01,GB,Female,61.0,Mobile,Pro,1351.57,0.44,6.0,UPI,False,2.0
+C0029,2024-12-01,FR,Male,48.0,Mobile,Basic,256.66,0.72,4.0,Debit Card,False,2.0
+C0221,2024-11-01,GB,Male,43.0,Tablet,Basic,1597.77,0.84,2.0,UPI,False,4.0
+C0225,2024-02-01,GB,Female,72.0,Desktop,Free,1792.02,0.73,5.0,Credit Card,False,2.0
+C0114,2024-12-01,US,Male,34.0,Tablet,Pro,979.84,0.6,13.0,PayPal,False,4.0
+C0079,2024-08-01,CA,Other,51.0,Desktop,Pro,367.95,0.07,11.0,UPI,False,4.0
+C0002,2024-03-01,CA,Male,62.0,Mobile,Basic,5336.09,0.43,4.0,Debit Card,False,5.0
+C0282,2024-06-01,IN,Female,53.0,Tablet,Pro,418.68,0.06,11.0,Bank Transfer,False,1.0
+C0285,2024-12-01,GB,Female,26.0,Mobile,Basic,1987.62,0.1,7.0,PayPal,False,2.0
+C0073,2024-05-01,FR,Female,58.0,Mobile,Basic,1312.97,0.36,12.0,PayPal,False,4.0
+C0010,2024-03-01,DE,Male,62.0,Tablet,Pro,1883.2,0.46,4.0,Credit Card,False,3.0
+C0037,2024-11-01,BR,Female,21.0,Mobile,Pro,5095.8,0.52,1.0,UPI,False,4.0
+C0021,2024-12-01,GB,Female,24.0,Desktop,Free,1817.97,0.9,5.0,PayPal,False,4.0
+C0250,2024-12-01,IN,Female,58.0,Desktop,Basic,663.28,0.76,15.0,Bank Transfer,False,5.0
+C0268,2024-12-01,GB,Male,20.0,Tablet,Basic,2967.26,0.42,9.0,PayPal,False,2.0
+C0046,2024-11-01,FR,Male,71.0,Mobile,Enterprise,621.42,0.33,1.0,Credit Card,False,2.0
+C0225,2024-06-01,US,Male,20.0,Mobile,Basic,1270.55,0.71,15.0,PayPal,True,3.0
+C0054,2024-03-01,JP,Female,78.0,Desktop,Enterprise,342.48,0.27,13.0,Credit Card,False,3.0
+C0111,2024-08-01,IN,Other,57.0,Desktop,Pro,432.7,0.88,9.0,Debit Card,False,5.0
+C0180,2024-03-01,IN,Male,42.0,Tablet,Free,1148.54,0.78,12.0,Bank Transfer,False,1.0
+C0216,2024-06-01,FR,Female,30.0,Desktop,Basic,1527.33,0.68,3.0,Bank Transfer,False,2.0
+C0263,2024-08-01,FR,Female,36.0,Mobile,Enterprise,236.95,0.24,9.0,Bank Transfer,False,5.0
+C0014,2024-12-01,GB,Male,63.0,Tablet,Basic,1715.67,0.62,14.0,Debit Card,False,4.0
+C0059,2024-04-01,GB,Male,63.0,Desktop,Pro,524.54,0.82,7.0,PayPal,False,4.0
+C0085,2024-04-01,IN,Female,26.0,Tablet,Enterprise,3469.34,0.07,1.0,PayPal,False,2.0
+C0094,2024-09-01,BR,Female,49.0,Tablet,Pro,798.9,0.17,12.0,Debit Card,False,4.0
+C0300,2024-01-01,DE,Male,79.0,Mobile,Free,,0.51,11.0,Bank Transfer,False,2.0
+C0234,2024-07-01,IN,Female,30.0,Desktop,Basic,1174.06,0.35,12.0,Bank Transfer,True,4.0
+C0097,2024-09-01,DE,Female,59.0,Desktop,Basic,480.77,0.7,10.0,Credit Card,False,1.0
+C0292,2024-07-01,CA,Female,24.0,Desktop,Basic,3435.96,0.4,3.0,PayPal,True,2.0
+C0150,2024-05-01,GB,Female,68.0,Mobile,Enterprise,1097.16,0.99,2.0,UPI,False,4.0
+C0151,2024-10-01,CA,Female,24.0,Desktop,Free,956.7,0.29,12.0,PayPal,False,4.0
+C0131,2024-05-01,GB,Female,32.0,Desktop,Pro,1867.99,0.36,13.0,UPI,False,5.0
+C0044,2024-09-01,US,Male,43.0,Mobile,Enterprise,443.88,0.0,2.0,Debit Card,False,5.0
+C0281,2024-06-01,GB,Female,37.0,Mobile,Enterprise,343.7,0.24,9.0,Credit Card,False,1.0
+C0005,2024-01-01,GB,Male,24.0,Mobile,Pro,1583.7,0.23,8.0,UPI,True,1.0
+C0053,2024-07-01,IN,Female,55.0,Tablet,Enterprise,407.6,0.76,6.0,Bank Transfer,False,2.0
+C0069,2024-01-01,FR,Male,14.0,Tablet,Basic,407.48,0.33,10.0,Bank Transfer,True,5.0
+C0084,2024-12-01,GB,Female,78.0,Desktop,Pro,2328.73,0.2,14.0,Debit Card,False,3.0
+C0040,2024-08-01,BR,Male,16.0,Desktop,Pro,1759.1,0.31,13.0,Bank Transfer,False,5.0
+C0006,2024-05-01,DE,Male,35.0,Mobile,Free,354.8,0.56,3.0,Debit Card,False,1.0
+C0204,2024-06-01,DE,Male,75.0,Mobile,Free,628.15,0.78,7.0,UPI,False,5.0
+C0291,2024-08-01,DE,Female,23.0,Tablet,Enterprise,486.21,0.97,15.0,Debit Card,False,1.0
+C0037,2024-04-01,US,Female,17.0,Mobile,Free,5424.53,0.04,4.0,UPI,False,5.0
+C0089,2024-04-01,BR,Male,62.0,Mobile,Basic,2478.5,0.84,13.0,UPI,True,5.0
+C0152,2024-06-01,IN,Female,17.0,Tablet,Pro,750.88,0.38,8.0,PayPal,False,2.0
+C0279,2024-04-01,BR,Female,73.0,Desktop,Pro,1841.94,0.8,8.0,UPI,False,2.0
+C0209,2024-10-01,CA,Male,43.0,Mobile,Pro,323.58,0.03,4.0,UPI,False,3.0
+C0230,2024-02-01,JP,Female,71.0,Desktop,Enterprise,598.61,0.62,14.0,PayPal,True,4.0
+C0175,2024-10-01,DE,Male,29.0,Tablet,Enterprise,1205.17,0.93,8.0,UPI,False,1.0
+C0126,2024-05-01,GB,Male,22.0,Desktop,Enterprise,1647.49,0.03,9.0,UPI,False,2.0
+C0060,2024-07-01,JP,Female,77.0,Desktop,Pro,1004.54,0.79,7.0,Credit Card,False,4.0
+C0260,2024-02-01,GB,Male,64.0,Desktop,Enterprise,1370.89,0.11,2.0,Bank Transfer,False,5.0
+C0242,2024-05-01,DE,Female,74.0,Desktop,Pro,1176.74,0.98,12.0,Credit Card,True,1.0
+C0008,2024-10-01,JP,Female,34.0,Tablet,Pro,946.51,0.74,5.0,Bank Transfer,False,5.0
+C0215,2024-04-01,CA,Female,40.0,Mobile,Enterprise,840.06,0.91,4.0,PayPal,False,5.0
+C0026,2024-02-01,CA,Female,51.0,Mobile,Enterprise,747.22,0.89,12.0,Bank Transfer,True,5.0
+C0222,2024-07-01,IN,Female,43.0,Mobile,Free,1351.19,0.31,3.0,Credit Card,False,2.0
+C0248,2024-02-01,CA,Other,29.0,Desktop,Enterprise,1587.21,0.41,11.0,Debit Card,False,4.0
+C0040,2024-04-01,IN,Male,38.0,Desktop,Pro,1310.97,0.69,8.0,Credit Card,False,1.0
+C0131,2024-06-01,FR,Male,53.0,Desktop,Enterprise,379.65,0.17,12.0,UPI,True,1.0
+C0038,2024-07-01,CA,Female,15.0,Tablet,Pro,446.29,0.3,1.0,Bank Transfer,True,1.0
+C0171,2024-08-01,BR,Male,35.0,Desktop,Enterprise,1570.26,0.09,12.0,PayPal,False,3.0
+C0279,2024-09-01,CA,Male,32.0,Mobile,Basic,4123.7,0.88,4.0,PayPal,False,4.0
+C0025,2024-11-01,GB,Male,17.0,Desktop,Free,1257.87,0.24,14.0,Bank Transfer,False,1.0
+C0120,2024-01-01,GB,Female,21.0,Desktop,Free,757.1,0.41,6.0,Credit Card,False,1.0
+C0292,2024-05-01,GB,Male,46.0,Desktop,Basic,1341.99,0.45,1.0,PayPal,False,2.0
+C0091,2024-01-01,GB,Male,19.0,Desktop,Free,394.2,0.37,8.0,Debit Card,False,1.0
+C0040,2024-01-01,BR,Male,36.0,Tablet,Basic,3561.9,0.77,1.0,PayPal,False,5.0
+C0147,2024-03-01,DE,Male,50.0,Mobile,Free,1297.16,0.91,5.0,PayPal,True,1.0
+C0153,2024-08-01,BR,Female,71.0,Mobile,Free,600.34,0.57,11.0,PayPal,False,2.0
+C0199,2024-11-01,DE,Male,19.0,Desktop,Pro,943.77,0.83,9.0,UPI,True,2.0
+C0095,2024-10-01,GB,Female,42.0,Mobile,Enterprise,682.44,0.11,11.0,PayPal,False,2.0
+C0287,2024-08-01,US,Female,19.0,Mobile,Free,3570.65,0.96,14.0,UPI,False,5.0
+C0157,2024-10-01,FR,Male,41.0,Desktop,Pro,914.14,0.11,8.0,PayPal,False,2.0
+C0086,2024-03-01,CA,Female,45.0,Desktop,Pro,1261.21,0.06,9.0,UPI,True,3.0
+C0289,2024-11-01,JP,Female,66.0,Desktop,Pro,1837.85,0.02,1.0,Debit Card,False,3.0
+C0278,2024-11-01,GB,Female,42.0,Mobile,Free,563.02,0.24,5.0,Debit Card,False,2.0
+C0150,2024-02-01,DE,Male,75.0,Tablet,Pro,1305.5,0.83,11.0,Debit Card,False,3.0
+C0008,2024-06-01,BR,Male,22.0,Desktop,Free,1403.88,0.3,1.0,PayPal,False,1.0
+C0180,2024-10-01,FR,Other,16.0,Mobile,Free,270.79,0.79,6.0,Bank Transfer,False,3.0
+C0167,2024-06-01,IN,Female,13.0,Mobile,Basic,1376.68,0.42,3.0,Credit Card,False,1.0
+C0045,2024-11-01,FR,Female,36.0,Mobile,Enterprise,1052.38,0.1,13.0,Credit Card,False,3.0
+C0191,2024-12-01,IN,Female,25.0,Desktop,Free,1232.71,0.47,9.0,UPI,False,2.0
+C0253,2024-06-01,IN,Male,19.0,Desktop,Enterprise,1132.37,0.23,10.0,PayPal,False,2.0
+C0032,2024-01-01,BR,Female,28.0,Desktop,Enterprise,1384.72,0.29,11.0,Credit Card,False,1.0
+C0217,2024-05-01,IN,Male,78.0,Desktop,Enterprise,3654.11,0.51,4.0,Debit Card,True,5.0
+C0043,2024-03-01,GB,Female,66.0,Tablet,Basic,379.34,0.79,1.0,Credit Card,False,1.0
+C0225,2024-06-01,FR,Male,14.0,Tablet,Free,805.98,0.58,6.0,Credit Card,False,1.0
+C0126,2024-08-01,BR,Male,74.0,Desktop,Free,1998.11,0.22,3.0,Credit Card,False,1.0
+C0002,2024-06-01,DE,Female,26.0,Tablet,Enterprise,1690.59,0.71,5.0,PayPal,False,5.0
+C0290,2024-03-01,IN,Female,40.0,Tablet,Free,1658.16,0.69,5.0,Bank Transfer,False,2.0
+C0050,2024-04-01,JP,Female,34.0,Tablet,Pro,13071.89,0.23,12.0,UPI,True,3.0
+C0179,2024-09-01,CA,Male,40.0,Mobile,Basic,1905.92,0.85,5.0,Credit Card,False,4.0
+C0055,2024-01-01,CA,Male,63.0,Desktop,Enterprise,3034.63,0.84,3.0,Bank Transfer,True,1.0
+C0280,2024-03-01,BR,Other,60.0,Desktop,Pro,831.84,0.6,15.0,Debit Card,False,1.0
+C0222,2024-11-01,DE,Male,52.0,Mobile,Pro,448.71,0.29,1.0,Credit Card,False,1.0
+C0242,2024-02-01,CA,Male,55.0,Mobile,Enterprise,826.43,0.35,4.0,Credit Card,False,4.0
+C0130,2024-05-01,DE,Female,61.0,Desktop,Enterprise,2081.33,0.43,6.0,Debit Card,False,5.0
+C0141,2024-03-01,US,Male,25.0,Desktop,Basic,1581.53,0.18,1.0,PayPal,False,4.0
+C0191,2024-02-01,JP,Female,39.0,Tablet,Pro,1576.44,0.3,14.0,Debit Card,False,5.0
+C0236,2024-06-01,GB,Male,20.0,Tablet,Pro,904.24,0.13,6.0,UPI,False,5.0
+C0255,2024-07-01,CA,Female,60.0,Mobile,Enterprise,783.35,0.15,12.0,Debit Card,False,2.0
+C0006,2024-03-01,GB,Female,42.0,Tablet,Basic,932.74,0.74,3.0,Bank Transfer,False,1.0
+C0200,2024-01-01,JP,Female,55.0,Desktop,Basic,2104.91,0.12,8.0,PayPal,False,1.0
+C0033,2024-02-01,FR,Female,50.0,Desktop,Enterprise,2337.07,0.46,2.0,PayPal,True,4.0
+C0087,2024-08-01,DE,Male,31.0,Tablet,Enterprise,443.36,0.42,4.0,UPI,False,4.0
+C0249,2024-11-01,GB,Female,22.0,Desktop,Pro,2177.88,0.04,7.0,UPI,False,5.0
+C0076,2024-03-01,JP,Female,78.0,Mobile,Free,610.54,0.83,13.0,Bank Transfer,False,3.0
+C0240,2024-04-01,IN,Female,32.0,Mobile,Basic,1672.42,0.98,5.0,PayPal,False,5.0
+C0139,2024-05-01,DE,Female,20.0,Desktop,Basic,922.63,0.63,12.0,Bank Transfer,False,5.0
+C0070,2024-05-01,GB,Female,33.0,Mobile,Pro,4488.21,0.67,2.0,Credit Card,False,5.0
+C0101,2024-03-01,FR,Female,73.0,Mobile,Pro,752.75,0.23,4.0,Bank Transfer,False,5.0
+C0160,2024-01-01,GB,Female,30.0,Tablet,Enterprise,1287.88,0.84,10.0,Bank Transfer,True,1.0
+C0230,2024-07-01,BR,Male,79.0,Mobile,Free,1893.03,0.78,8.0,PayPal,False,4.0
+C0182,2024-05-01,DE,Male,43.0,Mobile,Basic,499.41,0.43,8.0,Bank Transfer,True,5.0
+C0280,2024-05-01,US,Female,70.0,Desktop,Pro,1027.03,0.7,11.0,UPI,False,2.0
+C0261,2024-04-01,US,Male,56.0,Mobile,Enterprise,862.71,0.95,2.0,Debit Card,False,5.0
+C0227,2024-12-01,BR,Female,15.0,Mobile,Free,690.6,0.6,11.0,PayPal,False,2.0
+C0181,2024-08-01,GB,Female,47.0,Tablet,Enterprise,738.23,0.19,13.0,PayPal,True,2.0
+C0087,2024-06-01,GB,Male,40.0,Desktop,Free,2983.38,0.33,12.0,Credit Card,False,4.0
+C0124,2024-03-01,BR,Female,26.0,Tablet,Free,639.9,0.18,5.0,Debit Card,False,1.0
+C0036,2024-10-01,GB,Female,49.0,Desktop,Enterprise,1825.79,0.33,6.0,Debit Card,False,3.0
+C0113,2024-11-01,DE,Female,19.0,Desktop,Enterprise,1455.54,0.89,15.0,UPI,False,5.0
+C0278,2024-01-01,US,Male,59.0,Mobile,Enterprise,311.91,0.18,12.0,Credit Card,False,1.0
+C0128,2024-12-01,GB,Female,68.0,Desktop,Pro,1749.79,0.89,14.0,PayPal,False,1.0
+C0035,2024-09-01,BR,Male,19.0,Mobile,Pro,307.3,0.28,14.0,Credit Card,False,5.0
+C0196,2024-02-01,FR,Female,45.0,Tablet,Pro,1930.01,0.49,7.0,Bank Transfer,False,4.0
+C0289,2024-10-01,CA,Male,56.0,Mobile,Pro,694.73,0.52,2.0,PayPal,True,3.0
+C0261,2024-02-01,JP,Female,17.0,Mobile,Pro,1104.92,0.12,4.0,Debit Card,False,3.0
+C0083,2024-01-01,IN,Female,39.0,Desktop,Basic,342.12,0.18,5.0,Debit Card,True,5.0
+C0137,2024-02-01,DE,Female,30.0,Desktop,Enterprise,1224.32,0.3,13.0,PayPal,False,4.0
+C0160,2024-06-01,GB,Male,15.0,Mobile,Basic,2525.65,0.05,5.0,Credit Card,True,5.0
+C0075,2024-08-01,FR,Female,66.0,Desktop,Pro,530.45,0.75,6.0,PayPal,False,1.0
+C0081,2024-05-01,GB,Female,42.0,Mobile,Pro,634.95,0.54,13.0,UPI,False,3.0
+C0071,2024-02-01,CA,Male,63.0,Tablet,Pro,1651.04,0.84,3.0,Debit Card,False,4.0
+C0299,2024-03-01,GB,Other,52.0,Desktop,Pro,1688.6,0.86,10.0,Bank Transfer,False,1.0
+C0224,2024-11-01,FR,Female,71.0,Tablet,Free,122.64,0.34,9.0,PayPal,False,3.0
+C0253,2024-12-01,IN,Other,79.0,Tablet,Basic,6726.87,0.81,15.0,Credit Card,True,1.0
+C0245,2024-10-01,CA,Other,53.0,Desktop,Basic,1764.63,0.06,8.0,PayPal,False,5.0
+C0288,2024-02-01,CA,Female,36.0,Tablet,Basic,2053.35,0.42,8.0,UPI,True,4.0
+C0032,2024-10-01,JP,Female,41.0,Mobile,Enterprise,963.73,0.66,13.0,PayPal,False,1.0
+C0265,2024-09-01,GB,Female,68.0,Tablet,Enterprise,206.48,0.46,15.0,UPI,False,3.0
+C0020,2024-07-01,IN,Male,41.0,Desktop,Pro,2012.74,0.73,11.0,Bank Transfer,True,1.0
+C0143,2024-02-01,BR,Female,47.0,Tablet,Basic,659.4,0.85,11.0,Bank Transfer,False,5.0
+C0179,2024-12-01,DE,Female,25.0,Mobile,Free,1789.23,0.42,14.0,Credit Card,False,1.0
+C0108,2024-06-01,CA,Female,79.0,Mobile,Enterprise,900.62,0.27,15.0,UPI,False,4.0
+C0044,2024-01-01,BR,Female,56.0,Tablet,Enterprise,1358.63,0.58,12.0,Debit Card,False,1.0
+C0058,2024-03-01,FR,Male,35.0,Desktop,Basic,545.94,0.86,5.0,UPI,True,1.0
+C0248,2024-05-01,CA,Male,52.0,Mobile,Enterprise,2387.38,0.98,10.0,Credit Card,True,5.0
+C0096,2024-01-01,JP,Female,39.0,Desktop,Enterprise,376.33,0.81,4.0,UPI,False,2.0
+C0094,2024-04-01,DE,Male,23.0,Mobile,Pro,8275.15,0.24,8.0,Credit Card,False,1.0
+C0278,2024-06-01,IN,Male,71.0,Desktop,Free,8218.59,0.2,7.0,PayPal,False,4.0
+C0044,2024-12-01,IN,Male,72.0,Tablet,Free,4766.8,0.57,15.0,UPI,False,2.0
+C0275,2024-02-01,DE,Female,68.0,Tablet,Enterprise,3456.22,0.4,9.0,Bank Transfer,False,3.0
+C0277,2024-07-01,FR,Male,37.0,Desktop,Pro,1016.28,0.61,15.0,Bank Transfer,True,5.0
+C0180,2024-11-01,IN,Male,30.0,Desktop,Free,3133.46,0.92,13.0,PayPal,False,4.0
+C0050,2024-10-01,US,Male,16.0,Tablet,Free,1005.7,0.54,13.0,UPI,False,2.0
+C0047,2024-12-01,BR,Male,62.0,Mobile,Enterprise,270.92,0.35,3.0,PayPal,False,2.0
+C0086,2024-03-01,JP,Male,34.0,Mobile,Basic,4242.39,0.86,12.0,PayPal,True,2.0
+C0174,2024-10-01,IN,Female,72.0,Mobile,Basic,3028.86,0.43,4.0,Credit Card,False,4.0
+C0047,2024-12-01,FR,Female,71.0,Tablet,Pro,1066.13,0.6,9.0,Debit Card,False,4.0
+C0137,2024-04-01,IN,Male,21.0,Desktop,Basic,364.07,0.13,8.0,Bank Transfer,False,3.0
+C0035,2024-06-01,BR,Female,74.0,Mobile,Enterprise,647.05,0.5,4.0,Debit Card,False,2.0
+C0163,2024-07-01,JP,Male,22.0,Mobile,Pro,212.93,0.42,15.0,Credit Card,False,1.0
+C0007,2024-06-01,JP,Male,45.0,Mobile,Basic,2567.2,0.12,14.0,Bank Transfer,False,5.0
+C0213,2024-04-01,FR,Female,44.0,Tablet,Basic,259.05,0.21,9.0,Bank Transfer,False,4.0
+C0017,2024-12-01,BR,Female,77.0,Desktop,Enterprise,1419.62,0.7,1.0,PayPal,False,4.0
+C0059,2024-12-01,CA,Female,57.0,Mobile,Pro,513.21,0.18,3.0,PayPal,False,1.0
+C0053,2024-05-01,FR,Male,71.0,Mobile,Enterprise,303.68,0.13,4.0,Debit Card,False,2.0
+C0250,2024-10-01,DE,Male,52.0,Desktop,Basic,1359.02,0.05,15.0,Debit Card,False,2.0
+C0017,2024-05-01,JP,Male,68.0,Desktop,Free,812.07,0.02,7.0,Bank Transfer,False,3.0
+C0129,2024-10-01,FR,Male,70.0,Tablet,Enterprise,2331.74,0.43,1.0,Bank Transfer,False,4.0
+C0178,2024-08-01,JP,Other,70.0,Mobile,Free,350.43,0.48,9.0,UPI,False,5.0
+C0155,2024-06-01,FR,Male,40.0,Mobile,Enterprise,554.69,0.62,15.0,Debit Card,False,3.0
+C0205,2024-02-01,JP,Female,38.0,Mobile,Pro,127.88,0.57,9.0,Credit Card,False,2.0
+C0241,2024-08-01,IN,Female,78.0,Desktop,Free,153.56,0.53,7.0,Credit Card,False,3.0
+C0119,2024-04-01,IN,Female,63.0,Tablet,Enterprise,5532.38,0.99,3.0,UPI,False,4.0
+C0249,2024-03-01,IN,Male,74.0,Desktop,Free,7152.65,0.24,14.0,UPI,True,2.0
+C0096,2024-03-01,FR,Female,51.0,Mobile,Basic,1192.08,0.71,2.0,PayPal,False,3.0
+C0296,2024-12-01,BR,Male,75.0,Desktop,Basic,522.46,0.07,15.0,Bank Transfer,False,4.0
+C0152,2024-02-01,US,Female,61.0,Desktop,Pro,838.32,0.84,4.0,Debit Card,True,3.0
+C0221,2024-10-01,US,Male,62.0,Mobile,Pro,2407.19,0.36,3.0,Credit Card,False,3.0
+C0263,2024-11-01,JP,Female,24.0,Tablet,Pro,690.25,0.34,6.0,Bank Transfer,False,4.0
+C0238,2024-01-01,JP,Female,50.0,Desktop,Basic,1358.14,0.13,1.0,PayPal,False,2.0
+C0256,2024-08-01,BR,Female,62.0,Mobile,Pro,1084.12,0.5,1.0,UPI,False,1.0
+C0161,2024-07-01,DE,Female,63.0,Desktop,Free,657.25,0.39,3.0,Credit Card,False,4.0
+C0014,2024-05-01,DE,Female,77.0,Tablet,Pro,682.95,0.97,11.0,UPI,False,3.0
+C0148,2024-09-01,IN,Female,34.0,Tablet,Free,1427.94,0.17,13.0,PayPal,False,2.0
+C0055,2024-05-01,US,Male,33.0,Mobile,Free,455.23,0.41,4.0,Bank Transfer,True,1.0
+C0267,2024-06-01,CA,Other,77.0,Tablet,Pro,1646.75,0.9,10.0,UPI,False,5.0
+C0072,2024-06-01,GB,Female,79.0,Desktop,Free,717.36,0.8,6.0,UPI,False,4.0
+C0069,2024-10-01,BR,Female,25.0,Desktop,Enterprise,1229.83,0.76,7.0,Debit Card,False,2.0
+C0075,2024-08-01,BR,Male,38.0,Mobile,Free,3810.69,0.52,6.0,UPI,False,4.0
+C0193,2024-05-01,GB,Female,76.0,Tablet,Free,942.59,0.87,14.0,Credit Card,True,3.0
+C0172,2024-12-01,US,Male,26.0,Tablet,Enterprise,2509.46,0.22,8.0,Credit Card,False,2.0
+C0285,2024-10-01,BR,Female,65.0,Mobile,Free,218.58,0.8,8.0,PayPal,False,2.0
+C0125,2024-12-01,IN,Male,20.0,Desktop,Enterprise,718.15,0.58,13.0,Debit Card,False,1.0
+C0085,2024-09-01,DE,Male,24.0,Tablet,Basic,1124.3,0.34,10.0,Bank Transfer,False,5.0
+C0015,2024-05-01,CA,Male,65.0,Desktop,Enterprise,6191.9,0.21,3.0,Debit Card,False,5.0
+C0003,2024-10-01,BR,Male,53.0,Mobile,Enterprise,187.93,0.52,3.0,Bank Transfer,False,5.0
+C0113,2024-04-01,JP,Male,50.0,Tablet,Free,1005.67,0.0,6.0,Credit Card,False,2.0
+C0278,2024-04-01,IN,Female,70.0,Mobile,Basic,4068.46,0.71,2.0,Credit Card,False,5.0
+C0158,2024-06-01,US,Male,33.0,Desktop,Pro,541.03,0.23,11.0,UPI,True,2.0
+C0269,2024-12-01,GB,Female,46.0,Desktop,Enterprise,905.46,0.38,8.0,Bank Transfer,True,5.0
+C0031,2024-07-01,GB,Male,53.0,Tablet,Free,1478.18,0.19,1.0,Credit Card,False,1.0
+C0028,2024-05-01,US,Female,62.0,Desktop,Free,1294.73,0.46,7.0,UPI,True,2.0
+C0251,2024-06-01,CA,Female,35.0,Tablet,Basic,4488.14,0.37,13.0,Debit Card,False,3.0
+C0033,2024-04-01,US,Male,55.0,Tablet,Free,1641.93,0.18,14.0,PayPal,False,5.0
+C0016,2024-08-01,BR,Female,43.0,Tablet,Basic,3622.78,0.88,15.0,UPI,False,2.0
+C0122,2024-05-01,FR,Female,49.0,Tablet,Free,793.13,0.75,14.0,PayPal,False,3.0
+C0278,2024-07-01,FR,Female,70.0,Tablet,Enterprise,563.14,0.38,10.0,Debit Card,False,5.0
+C0207,2024-05-01,US,Male,39.0,Tablet,Enterprise,895.02,0.05,14.0,Debit Card,True,3.0
+C0030,2024-04-01,GB,Male,57.0,Tablet,Free,386.37,0.84,15.0,PayPal,False,4.0
+C0252,2024-12-01,FR,Female,76.0,Desktop,Pro,1694.53,0.69,10.0,Debit Card,False,3.0
+C0254,2024-05-01,GB,Male,64.0,Mobile,Pro,774.88,0.55,7.0,PayPal,False,1.0
+C0241,2024-01-01,BR,Female,79.0,Mobile,Pro,599.08,0.6,15.0,Credit Card,False,2.0
+C0271,2024-05-01,IN,Male,52.0,Tablet,Enterprise,1717.79,0.0,7.0,Debit Card,False,3.0
+C0072,2024-07-01,IN,Female,31.0,Mobile,Pro,391.76,0.47,3.0,Credit Card,True,1.0
+C0294,2024-02-01,BR,Male,79.0,Tablet,Pro,2193.93,0.18,2.0,Credit Card,False,2.0
+C0097,2024-04-01,FR,Male,56.0,Tablet,Free,713.01,0.65,9.0,Debit Card,False,5.0
+C0241,2024-02-01,IN,Other,29.0,Desktop,Free,3112.52,0.93,1.0,UPI,True,1.0
+C0174,2024-07-01,CA,Female,34.0,Tablet,Pro,770.11,0.53,2.0,Credit Card,False,2.0
+C0234,2024-09-01,IN,Female,30.0,Mobile,Enterprise,1936.66,0.6,4.0,Credit Card,False,4.0
+C0189,2024-12-01,CA,Other,68.0,Desktop,Basic,1288.98,0.66,8.0,Bank Transfer,True,3.0
+C0193,2024-05-01,BR,Male,19.0,Tablet,Pro,2142.04,0.92,8.0,UPI,False,2.0
+C0185,2024-11-01,CA,Male,62.0,Tablet,Free,,0.03,8.0,PayPal,False,1.0
+C0234,2024-03-01,CA,Male,50.0,Mobile,Basic,245.41,0.31,8.0,PayPal,True,5.0
+C0222,2024-10-01,GB,Female,17.0,Tablet,Enterprise,2718.71,0.26,15.0,Credit Card,True,3.0
+C0041,2024-07-01,JP,Male,54.0,Desktop,Pro,1013.42,0.71,4.0,PayPal,False,3.0
+C0248,2024-10-01,US,Female,63.0,Tablet,Free,2231.8,0.44,8.0,Bank Transfer,False,1.0
+C0161,2024-10-01,DE,Male,61.0,Desktop,Enterprise,2041.05,0.77,10.0,UPI,True,2.0
+C0097,2024-07-01,US,Male,48.0,Desktop,Enterprise,546.77,0.47,5.0,Bank Transfer,False,1.0
+C0155,2024-04-01,DE,Male,35.0,Mobile,Basic,481.39,0.97,3.0,Bank Transfer,False,5.0
+C0291,2024-07-01,JP,Male,23.0,Desktop,Basic,1977.96,0.76,1.0,UPI,False,4.0
+C0258,2024-10-01,DE,Male,13.0,Tablet,Pro,834.7,0.01,5.0,Credit Card,False,3.0
+C0251,2024-12-01,IN,Female,37.0,Tablet,Enterprise,2547.29,0.98,4.0,PayPal,True,4.0
+C0139,2024-12-01,GB,Male,55.0,Mobile,Basic,934.13,0.95,3.0,Bank Transfer,False,1.0
+C0236,2024-03-01,JP,Female,15.0,Mobile,Free,2754.71,0.04,5.0,UPI,False,5.0
+C0116,2024-08-01,FR,Female,79.0,Tablet,Free,1605.15,0.39,11.0,Bank Transfer,False,3.0
+C0206,2024-02-01,FR,Female,52.0,Desktop,Enterprise,1421.09,0.97,13.0,UPI,True,3.0
+C0192,2024-09-01,DE,Female,32.0,Tablet,Enterprise,783.2,0.83,8.0,UPI,False,5.0
+C0075,2024-12-01,GB,Male,77.0,Mobile,Enterprise,1351.79,0.46,1.0,Bank Transfer,False,1.0
+C0080,2024-01-01,FR,Male,25.0,Desktop,Free,3208.53,0.54,12.0,Credit Card,False,3.0
+C0019,2024-08-01,BR,Male,77.0,Mobile,Free,1044.41,0.02,3.0,UPI,False,1.0
+C0042,2024-12-01,CA,Other,31.0,Tablet,Basic,1768.8,0.56,1.0,Credit Card,False,3.0
+C0131,2024-11-01,FR,Female,38.0,Tablet,Free,1143.36,0.66,9.0,PayPal,False,2.0
+C0144,2024-05-01,CA,Male,41.0,Mobile,Basic,1226.77,0.35,7.0,Bank Transfer,True,3.0
+C0050,2024-02-01,JP,Male,79.0,Mobile,Pro,5172.28,0.3,5.0,Bank Transfer,False,4.0
+C0126,2024-12-01,IN,Female,29.0,Tablet,Basic,3234.27,0.82,15.0,Debit Card,False,2.0
+C0182,2024-12-01,DE,Female,78.0,Mobile,Free,1177.87,0.44,2.0,PayPal,False,1.0
+C0070,2024-07-01,DE,Female,36.0,Tablet,Basic,1330.1,0.26,1.0,Bank Transfer,False,1.0
+C0102,2024-12-01,IN,Female,32.0,Tablet,Pro,583.08,0.37,9.0,Bank Transfer,False,4.0
+C0111,2024-01-01,US,Female,55.0,Mobile,Pro,938.54,0.49,7.0,UPI,False,3.0
+C0152,2024-08-01,JP,Female,59.0,Mobile,Basic,1448.75,0.25,13.0,Credit Card,False,5.0
+C0110,2024-01-01,GB,Male,36.0,Tablet,Basic,2357.96,0.56,1.0,UPI,False,5.0
+C0222,2024-12-01,US,Male,21.0,Mobile,Pro,2152.31,0.86,7.0,PayPal,False,1.0
+C0099,2024-09-01,GB,Other,39.0,Desktop,Free,404.1,0.74,3.0,PayPal,False,4.0
+C0131,2024-11-01,GB,Female,49.0,Mobile,Enterprise,2641.98,0.23,1.0,Debit Card,False,1.0
+C0114,2024-07-01,US,Male,15.0,Desktop,Enterprise,1012.42,0.47,7.0,Debit Card,False,1.0
+C0055,2024-01-01,IN,Female,18.0,Desktop,Free,451.11,0.54,12.0,PayPal,False,4.0
+C0206,2024-01-01,JP,Male,74.0,Tablet,Enterprise,3650.96,0.68,3.0,UPI,False,3.0
+C0071,2024-05-01,JP,Female,15.0,Tablet,Free,4092.66,0.75,13.0,UPI,False,5.0
+C0090,2024-09-01,DE,Male,40.0,Desktop,Basic,1390.44,0.48,8.0,Bank Transfer,False,1.0
+C0238,2024-02-01,FR,Female,64.0,Desktop,Pro,2075.41,0.31,8.0,Credit Card,False,3.0
+C0285,2024-11-01,CA,Female,34.0,Desktop,Basic,2187.91,0.65,14.0,Debit Card,False,2.0
+C0202,2024-03-01,JP,Male,46.0,Tablet,Free,3851.41,0.12,5.0,Bank Transfer,False,5.0
+C0275,2024-06-01,IN,Male,18.0,Mobile,Free,2111.73,0.67,4.0,Bank Transfer,True,4.0
+C0257,2024-03-01,CA,Female,66.0,Mobile,Pro,331.98,0.89,12.0,Debit Card,True,4.0
+C0145,2024-06-01,IN,Male,55.0,Desktop,Free,6693.06,0.7,2.0,Bank Transfer,True,2.0
+C0232,2024-06-01,IN,Male,70.0,Tablet,Basic,2861.47,0.43,14.0,Debit Card,True,5.0
+C0099,2024-01-01,DE,Female,70.0,Tablet,Basic,693.28,0.82,13.0,Credit Card,False,5.0
+C0139,2024-07-01,BR,Male,36.0,Mobile,Enterprise,434.13,0.53,15.0,Debit Card,False,4.0
+C0161,2024-10-01,IN,Male,15.0,Mobile,Enterprise,1727.33,0.54,7.0,UPI,True,3.0
+C0289,2024-12-01,GB,Male,36.0,Desktop,Enterprise,853.69,0.85,10.0,Credit Card,False,5.0
+C0255,2024-04-01,GB,Female,22.0,Desktop,Pro,1475.86,0.19,14.0,Credit Card,False,4.0
+C0147,2024-11-01,DE,Male,48.0,Desktop,Pro,2141.08,0.77,2.0,PayPal,False,1.0
+C0196,2024-11-01,CA,Male,22.0,Mobile,Basic,658.66,0.67,5.0,PayPal,False,5.0
+C0061,2024-12-01,GB,Male,74.0,Tablet,Free,401.62,0.52,8.0,PayPal,True,1.0
+C0242,2024-05-01,US,Male,53.0,Tablet,Enterprise,1551.9,0.07,10.0,Bank Transfer,False,4.0
+C0166,2024-11-01,IN,Male,29.0,Tablet,Basic,678.55,0.76,11.0,Debit Card,True,2.0
+C0160,2024-07-01,US,Male,74.0,Desktop,Basic,1250.73,0.21,14.0,Bank Transfer,False,5.0
+C0230,2024-01-01,US,Male,64.0,Mobile,Free,327.34,0.89,8.0,Debit Card,False,4.0
+C0190,2024-04-01,FR,Male,42.0,Desktop,Basic,873.96,0.79,3.0,Bank Transfer,False,5.0
+C0022,2024-09-01,DE,Female,22.0,Mobile,Pro,2086.95,0.36,3.0,PayPal,True,4.0
+C0087,2024-02-01,DE,Male,36.0,Mobile,Basic,1891.9,0.43,13.0,Debit Card,False,3.0
+C0054,2024-06-01,JP,Male,52.0,Desktop,Pro,539.41,0.02,7.0,Debit Card,False,5.0
+C0221,2024-10-01,FR,Female,64.0,Desktop,Free,383.2,0.49,10.0,UPI,True,2.0
+C0011,2024-02-01,US,Female,30.0,Mobile,Free,1112.3,0.05,9.0,UPI,False,3.0
+C0061,2024-06-01,DE,Female,62.0,Tablet,Enterprise,1816.98,0.98,13.0,Debit Card,False,2.0
+C0180,2024-03-01,GB,Male,31.0,Mobile,Basic,1579.17,0.64,4.0,Debit Card,True,1.0
+C0209,2024-07-01,JP,Male,29.0,Desktop,Basic,691.63,0.23,3.0,Bank Transfer,False,5.0
+C0151,2024-03-01,GB,Male,42.0,Desktop,Basic,1433.74,0.8,12.0,PayPal,True,3.0
+C0259,2024-12-01,US,Male,23.0,Desktop,Pro,4239.16,0.01,7.0,Credit Card,False,1.0
+C0276,2024-01-01,BR,Male,40.0,Tablet,Pro,1319.0,0.54,13.0,PayPal,True,5.0
+C0040,2024-12-01,DE,Female,36.0,Tablet,Basic,252.19,0.11,2.0,Credit Card,False,5.0
+C0286,2024-10-01,IN,Male,31.0,Tablet,Enterprise,1316.7,0.05,5.0,UPI,False,4.0
+C0185,2024-11-01,BR,Female,64.0,Desktop,Enterprise,6901.96,0.24,15.0,Credit Card,True,2.0
+C0191,2024-11-01,US,Male,35.0,Mobile,Free,344.24,0.29,13.0,PayPal,False,5.0
+C0029,2024-03-01,JP,Male,59.0,Desktop,Pro,1126.37,0.72,1.0,Credit Card,False,4.0
+C0187,2024-12-01,JP,Female,61.0,Desktop,Enterprise,894.53,0.89,13.0,Debit Card,False,2.0
+C0218,2024-08-01,GB,Female,57.0,Desktop,Basic,1195.47,0.77,1.0,Credit Card,False,2.0
+C0175,2024-12-01,FR,Male,31.0,Desktop,Free,1306.13,0.73,2.0,Credit Card,False,5.0
+C0026,2024-11-01,FR,Female,68.0,Mobile,Free,3059.4,0.56,14.0,Credit Card,True,5.0
+C0157,2024-07-01,BR,Male,28.0,Desktop,Pro,1183.59,0.37,2.0,UPI,False,4.0
+C0281,2024-05-01,IN,Male,31.0,Tablet,Enterprise,3461.76,0.25,5.0,Bank Transfer,False,1.0
+C0218,2024-02-01,GB,Female,71.0,Desktop,Free,986.45,0.94,3.0,Debit Card,False,2.0
+C0042,2024-02-01,US,Male,35.0,Tablet,Pro,800.21,0.52,9.0,PayPal,True,2.0
+C0288,2024-05-01,BR,Male,59.0,Tablet,Basic,600.48,0.56,1.0,UPI,False,3.0
+C0288,2024-10-01,IN,Male,15.0,Tablet,Basic,213.71,0.01,5.0,Debit Card,False,5.0
+C0051,2024-07-01,FR,Male,54.0,Mobile,Pro,1405.58,0.45,5.0,Credit Card,False,5.0
+C0241,2024-06-01,BR,Male,71.0,Tablet,Enterprise,6964.63,0.68,10.0,PayPal,False,2.0
+C0123,2024-03-01,CA,Male,60.0,Desktop,Free,1656.42,0.49,8.0,Credit Card,False,1.0
+C0179,2024-07-01,GB,Other,52.0,Desktop,Free,2034.64,0.61,3.0,UPI,False,2.0
+C0134,2024-08-01,IN,Female,69.0,Desktop,Basic,756.17,0.8,7.0,Credit Card,False,2.0
+C0235,2024-12-01,BR,Male,32.0,Mobile,Basic,880.16,0.02,7.0,PayPal,False,5.0
+C0299,2024-09-01,IN,Male,38.0,Tablet,Pro,2660.26,0.9,6.0,Bank Transfer,True,1.0
+C0239,2024-08-01,IN,Female,17.0,Desktop,Pro,6686.36,0.81,9.0,Debit Card,False,5.0
+C0280,2024-11-01,CA,Male,59.0,Tablet,Free,4184.54,0.41,5.0,Debit Card,False,4.0
+C0284,2024-06-01,JP,Female,61.0,Tablet,Basic,2263.62,0.76,6.0,UPI,False,1.0
+C0028,2024-12-01,BR,Female,63.0,Desktop,Pro,1131.88,0.06,12.0,UPI,False,4.0
+C0077,2024-05-01,JP,Male,63.0,Tablet,Basic,1324.44,0.3,4.0,Debit Card,False,3.0
+C0217,2024-02-01,IN,Male,21.0,Desktop,Pro,556.6,0.1,5.0,Debit Card,False,1.0
+C0178,2024-06-01,IN,Male,57.0,Desktop,Basic,297.87,0.63,3.0,Credit Card,False,2.0
+C0016,2024-02-01,GB,Male,64.0,Tablet,Basic,397.77,0.85,11.0,Debit Card,False,2.0
+C0029,2024-02-01,IN,Male,26.0,Tablet,Free,1146.9,0.6,11.0,UPI,False,2.0
+C0157,2024-11-01,CA,Female,44.0,Tablet,Free,843.2,0.71,11.0,PayPal,False,3.0
+C0185,2024-10-01,IN,Male,74.0,Tablet,Free,292.22,0.14,3.0,PayPal,False,4.0
+C0051,2024-03-01,FR,Female,40.0,Desktop,Pro,1060.41,0.93,7.0,UPI,False,1.0
+C0052,2024-11-01,JP,Female,63.0,Tablet,Free,823.38,0.19,5.0,PayPal,False,1.0
+C0039,2024-01-01,BR,Male,48.0,Mobile,Pro,381.62,0.52,12.0,UPI,False,4.0
+C0170,2024-04-01,US,Male,57.0,Tablet,Enterprise,785.91,0.68,6.0,Debit Card,False,3.0
+C0003,2024-09-01,DE,Male,54.0,Desktop,Pro,821.51,0.85,7.0,Debit Card,False,2.0
+C0172,2024-04-01,FR,Female,56.0,Desktop,Pro,629.56,0.93,7.0,UPI,False,2.0
+C0143,2024-09-01,JP,Male,65.0,Tablet,Free,2525.02,0.59,12.0,Debit Card,False,1.0
+C0140,2024-11-01,DE,Female,73.0,Mobile,Basic,197.83,0.57,11.0,PayPal,False,5.0
+C0204,2024-01-01,GB,Female,32.0,Tablet,Enterprise,183.6,0.41,13.0,Credit Card,True,5.0
+C0157,2024-01-01,JP,Female,75.0,Desktop,Basic,1099.88,0.56,7.0,Credit Card,False,3.0
+C0219,2024-12-01,CA,Other,55.0,Desktop,Enterprise,1195.73,0.67,13.0,UPI,False,2.0
+C0230,2024-07-01,DE,Female,52.0,Mobile,Pro,1577.81,0.64,14.0,Credit Card,False,2.0
+C0277,2024-07-01,IN,Female,34.0,Desktop,Basic,675.14,0.59,8.0,Credit Card,False,2.0
+C0240,2024-06-01,FR,Female,40.0,Tablet,Free,480.04,0.44,11.0,Debit Card,True,5.0
+C0156,2024-06-01,CA,Female,56.0,Mobile,Free,1089.44,0.19,14.0,Credit Card,False,1.0
+C0148,2024-09-01,CA,Female,37.0,Desktop,Basic,736.99,0.05,13.0,Debit Card,False,5.0
+C0071,2024-07-01,DE,Female,32.0,Tablet,Basic,4429.16,0.42,5.0,UPI,False,2.0
+C0180,2024-02-01,US,Male,67.0,Desktop,Pro,819.09,0.39,11.0,Debit Card,False,2.0
+C0042,2024-08-01,FR,Female,40.0,Desktop,Pro,1045.38,0.6,7.0,Bank Transfer,False,5.0
+C0280,2024-09-01,JP,Female,56.0,Desktop,Basic,10176.91,0.9,3.0,Credit Card,False,5.0
+C0254,2024-02-01,CA,Female,15.0,Mobile,Pro,920.31,0.7,6.0,PayPal,False,5.0
+C0036,2024-05-01,IN,Male,18.0,Desktop,Enterprise,1809.02,0.8,15.0,UPI,False,2.0
+C0236,2024-10-01,GB,Female,69.0,Tablet,Pro,1961.92,0.57,15.0,PayPal,False,3.0
+C0036,2024-08-01,DE,Female,22.0,Desktop,Enterprise,2118.07,0.92,12.0,PayPal,False,2.0
+C0217,2024-02-01,IN,Other,66.0,Desktop,Basic,1423.02,0.93,15.0,Credit Card,False,1.0
+C0027,2024-01-01,CA,Male,73.0,Mobile,Enterprise,1305.65,0.15,9.0,PayPal,False,2.0
+C0147,2024-07-01,IN,Female,45.0,Tablet,Basic,1200.27,0.63,12.0,Debit Card,False,1.0
+C0198,2024-06-01,BR,Female,72.0,Tablet,Free,653.02,0.5,3.0,PayPal,False,1.0
+C0219,2024-12-01,CA,Female,41.0,Tablet,Free,1469.93,0.97,5.0,Debit Card,False,3.0
+C0126,2024-07-01,BR,Female,76.0,Desktop,Free,6807.51,0.58,3.0,Debit Card,False,4.0
+C0277,2024-12-01,JP,Female,28.0,Desktop,Enterprise,3260.43,0.01,15.0,PayPal,False,2.0
+C0233,2024-03-01,GB,Female,41.0,Desktop,Free,1441.62,0.2,10.0,Bank Transfer,False,3.0
+C0063,2024-06-01,JP,Male,39.0,Mobile,Enterprise,2369.06,0.12,14.0,Bank Transfer,False,4.0
+C0202,2024-02-01,DE,Other,65.0,Mobile,Enterprise,501.57,0.2,7.0,PayPal,False,5.0
+C0220,2024-07-01,IN,Male,15.0,Desktop,Basic,867.43,0.09,7.0,UPI,False,3.0
+C0101,2024-03-01,GB,Female,68.0,Desktop,Enterprise,2573.61,0.78,11.0,UPI,False,2.0
+C0222,2024-06-01,GB,Female,14.0,Mobile,Enterprise,4181.61,0.49,9.0,Bank Transfer,False,4.0
+C0270,2024-05-01,FR,Male,34.0,Tablet,Enterprise,547.97,0.67,6.0,Debit Card,False,1.0
+C0246,2024-03-01,GB,Male,52.0,Desktop,Basic,709.65,0.99,5.0,Bank Transfer,True,1.0
+C0229,2024-02-01,DE,Male,22.0,Tablet,Basic,7810.61,0.64,8.0,PayPal,False,2.0
+C0191,2024-07-01,DE,Female,45.0,Mobile,Free,1195.88,0.47,2.0,PayPal,False,2.0
+C0082,2024-12-01,GB,Female,79.0,Mobile,Enterprise,5659.13,0.26,3.0,UPI,False,1.0
+C0239,2024-03-01,BR,Male,68.0,Mobile,Enterprise,1321.04,0.75,1.0,Bank Transfer,False,1.0
+C0110,2024-05-01,GB,Female,15.0,Tablet,Pro,1368.63,0.5,3.0,PayPal,True,5.0
+C0160,2024-03-01,JP,Male,52.0,Mobile,Free,833.02,0.75,3.0,Credit Card,False,4.0
+C0095,2024-10-01,GB,Female,53.0,Tablet,Enterprise,2561.38,0.02,2.0,PayPal,False,4.0
+C0094,2024-05-01,JP,Male,17.0,Tablet,Basic,3721.94,0.16,1.0,PayPal,False,1.0
+C0048,2024-12-01,GB,Male,56.0,Mobile,Pro,432.03,0.12,13.0,Bank Transfer,False,4.0
+C0289,2024-03-01,IN,Male,47.0,Desktop,Pro,798.55,0.68,3.0,Bank Transfer,True,2.0
+C0045,2024-01-01,US,Female,58.0,Mobile,Free,2498.81,0.51,9.0,Bank Transfer,False,4.0
+C0026,2024-07-01,JP,Male,32.0,Desktop,Free,975.94,0.31,2.0,Credit Card,False,3.0
+C0281,2024-08-01,JP,Female,30.0,Mobile,Free,703.42,0.3,15.0,PayPal,False,2.0
+C0167,2024-12-01,US,Male,62.0,Tablet,Enterprise,2720.55,0.6,4.0,Bank Transfer,False,2.0
+C0132,2024-11-01,FR,Male,61.0,Tablet,Enterprise,2960.48,0.96,12.0,Bank Transfer,False,1.0
+C0222,2024-11-01,FR,Male,23.0,Mobile,Basic,731.66,0.99,10.0,UPI,False,5.0
+C0115,2024-08-01,US,Male,27.0,Mobile,Basic,1327.6,0.47,12.0,Bank Transfer,False,3.0
+C0039,2024-05-01,DE,Female,52.0,Tablet,Basic,369.58,0.67,10.0,Bank Transfer,True,4.0
+C0219,2024-06-01,BR,Male,68.0,Desktop,Basic,489.83,0.08,8.0,Credit Card,False,5.0
+C0053,2024-02-01,CA,Other,26.0,Desktop,Pro,1226.29,0.94,12.0,Bank Transfer,True,1.0
+C0166,2024-06-01,JP,Male,27.0,Tablet,Basic,1128.07,0.01,13.0,PayPal,False,2.0
+C0285,2024-05-01,IN,Male,67.0,Mobile,Pro,459.35,0.34,6.0,UPI,False,1.0
+C0281,2024-01-01,US,Male,59.0,Tablet,Basic,575.72,0.72,15.0,Credit Card,False,1.0
+C0109,2024-03-01,DE,Male,73.0,Desktop,Pro,420.51,0.96,15.0,Bank Transfer,True,5.0
+C0235,2024-07-01,US,Female,65.0,Desktop,Enterprise,1651.69,0.17,11.0,Debit Card,False,4.0
+C0184,2024-05-01,FR,Female,76.0,Desktop,Free,186.63,0.66,14.0,UPI,False,3.0
+C0144,2024-12-01,IN,Male,25.0,Tablet,Free,441.24,0.18,2.0,Debit Card,True,2.0
+C0042,2024-06-01,IN,Female,31.0,Desktop,Pro,205.07,0.05,9.0,Bank Transfer,True,3.0
+C0113,2024-12-01,IN,Female,28.0,Mobile,Free,1598.98,0.42,10.0,UPI,False,3.0
+C0196,2024-08-01,GB,Female,16.0,Mobile,Free,216.49,0.57,14.0,Credit Card,False,2.0
+C0296,2024-01-01,JP,Other,65.0,Tablet,Enterprise,1128.4,0.26,2.0,Credit Card,False,1.0
+C0002,2024-03-01,US,Female,57.0,Desktop,Basic,4796.16,0.97,13.0,Bank Transfer,True,3.0
+C0216,2024-09-01,CA,Female,18.0,Mobile,Pro,4944.79,0.61,2.0,Debit Card,False,3.0
+C0254,2024-07-01,GB,Female,26.0,Mobile,Enterprise,215.87,0.43,6.0,PayPal,False,4.0
+C0286,2024-04-01,IN,Male,25.0,Mobile,Free,1434.5,0.48,11.0,Credit Card,False,2.0
+C0128,2024-07-01,GB,Female,39.0,Tablet,Basic,450.31,0.46,5.0,Bank Transfer,False,1.0
+C0036,2024-11-01,BR,Male,43.0,Tablet,Free,374.72,0.11,13.0,PayPal,False,5.0
+C0082,2024-05-01,IN,Female,32.0,Desktop,Basic,990.17,0.6,14.0,Debit Card,False,3.0
+C0256,2024-01-01,IN,Other,75.0,Mobile,Free,3312.51,0.78,3.0,Bank Transfer,False,4.0
+C0264,2024-04-01,JP,Male,27.0,Desktop,Enterprise,1881.25,0.42,4.0,Debit Card,False,1.0
+C0192,2024-12-01,FR,Female,50.0,Mobile,Basic,576.15,0.42,2.0,Bank Transfer,False,1.0
+C0037,2024-10-01,GB,Female,42.0,Desktop,Free,2068.4,0.91,11.0,UPI,False,1.0
+C0037,2024-11-01,JP,Male,38.0,Desktop,Free,145.57,0.61,14.0,UPI,False,4.0
+C0144,2024-11-01,JP,Female,68.0,Tablet,Free,556.88,0.29,10.0,Credit Card,False,2.0
+C0177,2024-02-01,GB,Female,78.0,Mobile,Free,522.43,0.0,2.0,Debit Card,False,4.0
+C0010,2024-04-01,FR,Other,13.0,Mobile,Free,1176.72,0.82,3.0,Credit Card,True,5.0
+C0206,2024-01-01,IN,Male,44.0,Mobile,Pro,913.66,0.62,1.0,Bank Transfer,False,4.0
+C0164,2024-01-01,GB,Male,20.0,Desktop,Enterprise,965.53,0.62,8.0,Credit Card,False,5.0
+C0004,2024-11-01,FR,Female,42.0,Desktop,Enterprise,937.06,0.28,11.0,Credit Card,False,5.0
+C0029,2024-12-01,US,Male,54.0,Mobile,Enterprise,1118.97,0.18,3.0,Credit Card,False,4.0
+C0137,2024-02-01,CA,Male,40.0,Tablet,Enterprise,1783.12,0.49,13.0,Bank Transfer,True,5.0
+C0217,2024-09-01,CA,Male,33.0,Desktop,Basic,1254.38,0.75,4.0,Bank Transfer,False,4.0
+C0248,2024-07-01,GB,Male,33.0,Tablet,Basic,849.02,0.29,8.0,PayPal,True,2.0
+C0130,2024-01-01,DE,Female,33.0,Desktop,Pro,1574.31,0.52,11.0,Credit Card,False,1.0
+C0089,2024-11-01,US,Female,34.0,Mobile,Basic,2306.56,0.99,9.0,UPI,False,2.0
+C0291,2024-11-01,FR,Female,38.0,Mobile,Pro,664.86,0.21,8.0,Bank Transfer,False,3.0
+C0138,2024-07-01,IN,Female,59.0,Desktop,Enterprise,1039.54,0.23,6.0,Credit Card,False,2.0
+C0095,2024-09-01,DE,Male,19.0,Desktop,Free,3120.4,0.23,7.0,PayPal,False,1.0
+C0133,2024-05-01,FR,Male,15.0,Tablet,Enterprise,406.47,0.91,4.0,Credit Card,False,3.0
+C0004,2024-10-01,FR,Male,47.0,Tablet,Enterprise,5564.89,0.52,,Bank Transfer,False,3.0
+C0091,2024-06-01,FR,Male,58.0,Mobile,Pro,328.57,0.91,,UPI,False,5.0
+C0155,2024-12-01,US,Male,30.0,Mobile,Basic,803.66,0.94,14.0,Bank Transfer,True,5.0
+C0276,2024-01-01,JP,Male,26.0,Mobile,Basic,466.3,0.42,13.0,UPI,False,4.0
+C0222,2024-03-01,BR,Male,54.0,Mobile,Free,7856.8,0.05,5.0,PayPal,False,5.0
+C0235,2024-12-01,JP,Male,38.0,Mobile,Basic,697.14,0.3,5.0,Bank Transfer,False,2.0
+C0164,2024-04-01,DE,Female,62.0,Mobile,Pro,698.72,0.54,1.0,Debit Card,False,5.0
+C0034,2024-04-01,CA,Female,22.0,Desktop,Pro,785.5,0.38,5.0,PayPal,True,5.0
+C0118,2024-10-01,DE,Female,21.0,Mobile,Free,1195.17,0.0,9.0,UPI,False,1.0
+C0300,2024-03-01,JP,Female,50.0,Mobile,Pro,815.99,0.98,5.0,UPI,False,4.0
+C0014,2024-07-01,US,Female,39.0,Mobile,Enterprise,973.02,0.3,12.0,PayPal,False,3.0
+C0264,2024-04-01,US,Male,61.0,Tablet,Free,45.77,0.61,1.0,Debit Card,False,2.0
+C0206,2024-03-01,FR,Female,46.0,Desktop,Free,1154.52,0.94,7.0,Credit Card,False,3.0
+C0086,2024-12-01,FR,Male,36.0,Tablet,Enterprise,1114.35,0.54,5.0,UPI,False,5.0
+C0234,2024-03-01,BR,Male,23.0,Mobile,Pro,2792.55,0.69,8.0,Bank Transfer,False,5.0
+C0252,2024-02-01,GB,Male,23.0,Mobile,Pro,3562.28,0.03,1.0,Credit Card,False,2.0
+C0013,2024-09-01,JP,Male,63.0,Desktop,Enterprise,926.17,0.69,7.0,Debit Card,False,3.0
+C0032,2024-11-01,GB,Male,28.0,Desktop,Pro,2286.11,0.84,12.0,PayPal,False,3.0
+C0200,2024-02-01,FR,Female,46.0,Mobile,Pro,406.91,0.91,13.0,UPI,False,4.0
+C0300,2024-09-01,CA,Female,67.0,Mobile,Free,2187.7,0.08,4.0,PayPal,False,3.0
+C0008,2024-07-01,FR,Female,73.0,Desktop,Enterprise,655.09,0.22,7.0,UPI,False,2.0
+C0200,2024-10-01,BR,Female,30.0,Mobile,Enterprise,377.58,0.04,11.0,Bank Transfer,False,5.0
+C0041,2024-02-01,CA,Female,20.0,Desktop,Basic,927.94,0.91,7.0,Bank Transfer,False,2.0
+C0196,2024-12-01,CA,Male,64.0,Tablet,Pro,3867.74,0.27,9.0,UPI,False,2.0
+C0187,2024-08-01,DE,Female,59.0,Desktop,Pro,1290.65,0.53,6.0,UPI,False,2.0
+C0028,2024-11-01,DE,Female,35.0,Desktop,Free,4216.83,0.47,13.0,Debit Card,False,2.0
+C0205,2024-05-01,US,Male,52.0,Desktop,Free,559.0,0.68,10.0,UPI,True,3.0
+C0270,2024-12-01,FR,Male,25.0,Tablet,Pro,2815.98,0.89,15.0,Bank Transfer,True,4.0
+C0260,2024-08-01,CA,Female,59.0,Desktop,Pro,609.75,0.32,12.0,UPI,False,1.0
+C0009,2024-02-01,DE,Female,61.0,Desktop,Pro,1343.18,0.79,6.0,PayPal,False,5.0
+C0074,2024-12-01,GB,Male,33.0,Tablet,Basic,1332.77,0.29,5.0,UPI,True,2.0
+C0073,2024-10-01,IN,Female,44.0,Mobile,Enterprise,1988.91,0.19,2.0,PayPal,False,1.0
+C0136,2024-04-01,DE,Male,35.0,Mobile,Basic,1374.25,0.1,10.0,PayPal,False,4.0
+C0043,2024-07-01,US,Male,15.0,Desktop,Free,563.82,0.37,12.0,UPI,False,2.0
+C0257,2024-05-01,CA,Male,21.0,Mobile,Free,2421.82,0.56,6.0,Bank Transfer,False,4.0
+C0234,2024-07-01,FR,Male,77.0,Mobile,Enterprise,5210.81,0.78,1.0,Bank Transfer,False,5.0
+C0243,2024-12-01,US,Female,43.0,Mobile,Pro,648.44,0.84,13.0,Credit Card,False,4.0
+C0060,2024-11-01,IN,Male,22.0,Tablet,Basic,210.25,0.52,4.0,Debit Card,False,4.0
+C0005,2024-03-01,JP,Female,15.0,Desktop,Free,1718.81,0.4,9.0,Bank Transfer,True,3.0
+C0274,2024-12-01,CA,Male,36.0,Tablet,Free,813.98,0.17,1.0,UPI,False,2.0
+C0087,2024-06-01,JP,Female,78.0,Mobile,Free,974.58,0.91,1.0,Debit Card,False,4.0
+C0197,2024-09-01,IN,Female,38.0,Desktop,Free,1809.06,0.39,14.0,PayPal,False,2.0
+C0273,2024-10-01,IN,Female,79.0,Desktop,Pro,727.23,0.76,11.0,PayPal,False,5.0
+C0011,2024-06-01,US,Female,45.0,Desktop,Free,860.95,0.62,1.0,Credit Card,False,3.0
+C0002,2024-06-01,JP,Other,64.0,Tablet,Free,1002.14,0.93,2.0,Credit Card,False,3.0
+C0002,2024-06-01,JP,Female,65.0,Tablet,Basic,4116.58,0.97,8.0,Bank Transfer,False,4.0
+C0047,2024-11-01,JP,Female,14.0,Desktop,Pro,1126.72,0.7,11.0,PayPal,False,1.0
+C0016,2024-05-01,IN,Female,13.0,Tablet,Basic,360.64,0.66,7.0,Debit Card,False,3.0
+C0246,2024-04-01,US,Male,74.0,Mobile,Free,373.8,0.13,14.0,Bank Transfer,False,4.0
+C0182,2024-05-01,CA,Male,75.0,Mobile,Pro,1243.03,0.01,10.0,Credit Card,False,4.0
+C0295,2024-03-01,CA,Male,21.0,Tablet,Basic,396.83,0.54,10.0,Bank Transfer,False,2.0
+C0241,2024-05-01,BR,Male,56.0,Mobile,Free,268.79,0.7,5.0,Credit Card,True,1.0
+C0289,2024-02-01,IN,Male,74.0,Mobile,Pro,1942.99,0.74,11.0,PayPal,False,1.0
+C0072,2024-02-01,IN,Male,76.0,Mobile,Enterprise,2030.52,0.25,14.0,Bank Transfer,False,5.0
+C0087,2024-09-01,IN,Female,32.0,Mobile,Pro,787.35,0.5,1.0,PayPal,False,2.0
+C0255,2024-01-01,BR,Male,67.0,Desktop,Free,1428.38,0.86,12.0,PayPal,False,1.0
+C0074,2024-07-01,JP,Female,56.0,Mobile,Basic,1298.95,0.09,14.0,Debit Card,True,3.0
+C0018,2024-10-01,BR,Male,75.0,Desktop,Pro,1885.93,0.38,7.0,Debit Card,False,5.0
+C0201,2024-09-01,GB,Female,22.0,Tablet,Enterprise,1889.89,0.94,12.0,Debit Card,False,2.0
+C0241,2024-06-01,JP,Male,53.0,Mobile,Enterprise,105.09,0.19,6.0,Credit Card,False,1.0
+C0291,2024-03-01,IN,Male,14.0,Tablet,Enterprise,883.2,0.31,3.0,Debit Card,False,1.0
+C0279,2024-12-01,JP,Male,36.0,Desktop,Enterprise,1747.8,0.46,13.0,Debit Card,False,1.0
+C0037,2024-11-01,CA,Female,13.0,Desktop,Pro,757.93,0.68,5.0,PayPal,False,2.0
+C0232,2024-08-01,BR,Male,42.0,Desktop,Pro,1132.95,0.25,12.0,Debit Card,False,1.0
+C0254,2024-02-01,CA,Female,67.0,Mobile,Pro,2155.18,0.79,5.0,Credit Card,False,4.0
+C0210,2024-01-01,FR,Male,57.0,Mobile,Pro,1179.48,0.23,6.0,PayPal,False,2.0
+C0246,2024-04-01,DE,Female,34.0,Desktop,Pro,4260.44,0.36,11.0,UPI,True,3.0
+C0252,2024-02-01,GB,Male,41.0,Tablet,Free,3023.85,0.57,6.0,Debit Card,False,3.0
+C0134,2024-11-01,CA,Female,37.0,Desktop,Enterprise,985.64,0.01,13.0,PayPal,False,4.0
+C0013,2024-03-01,BR,Male,62.0,Desktop,Free,917.6,0.76,1.0,Debit Card,False,4.0
+C0137,2024-04-01,US,Male,30.0,Desktop,Basic,84.33,0.66,1.0,PayPal,False,3.0
+C0061,2024-12-01,CA,Male,19.0,Desktop,Basic,817.42,0.83,2.0,Credit Card,False,5.0
+C0035,2024-10-01,IN,Male,46.0,Mobile,Enterprise,324.43,0.27,4.0,UPI,False,1.0
+C0038,2024-03-01,FR,Male,68.0,Desktop,Free,1338.23,0.39,1.0,UPI,True,3.0
+C0210,2024-05-01,US,Other,44.0,Tablet,Basic,1258.38,0.89,6.0,Debit Card,False,2.0
+C0152,2024-07-01,BR,Male,26.0,Mobile,Basic,2051.38,0.06,1.0,PayPal,True,3.0
+C0162,2024-08-01,DE,Male,16.0,Tablet,Free,3854.53,0.49,12.0,Debit Card,False,1.0
+C0224,2024-12-01,DE,Other,76.0,Tablet,Free,1071.01,0.48,3.0,PayPal,False,2.0
+C0165,2024-11-01,BR,Male,63.0,Mobile,Basic,8538.79,0.44,15.0,Debit Card,True,5.0
+C0190,2024-12-01,JP,Male,23.0,Desktop,Enterprise,1351.82,0.43,13.0,UPI,False,5.0
+C0026,2024-01-01,DE,Female,17.0,Tablet,Basic,337.24,0.74,11.0,PayPal,False,3.0
+C0256,2024-03-01,CA,Female,21.0,Desktop,Enterprise,661.25,0.19,12.0,Bank Transfer,False,1.0
+C0135,2024-07-01,DE,Female,38.0,Tablet,Pro,784.09,0.89,12.0,Debit Card,False,4.0
+C0047,2024-01-01,US,Male,67.0,Tablet,Enterprise,1868.54,0.89,13.0,UPI,False,2.0
+C0244,2024-05-01,IN,Other,23.0,Desktop,Enterprise,467.54,0.17,9.0,UPI,False,2.0
+C0221,2024-02-01,US,Male,67.0,Tablet,Pro,838.67,0.97,10.0,Bank Transfer,False,1.0
+C0016,2024-12-01,BR,Other,13.0,Tablet,Pro,948.67,0.26,8.0,Bank Transfer,False,2.0
+C0058,2024-01-01,FR,Female,62.0,Tablet,Free,732.67,0.05,10.0,PayPal,False,2.0
+C0005,2024-02-01,GB,Female,31.0,Tablet,Pro,2276.23,0.39,6.0,Bank Transfer,False,1.0
+C0082,2024-03-01,DE,Male,77.0,Mobile,Free,1953.13,0.79,2.0,Credit Card,False,3.0
+C0030,2024-02-01,JP,Male,44.0,Mobile,Pro,3133.51,0.84,14.0,PayPal,False,5.0
+C0213,2024-07-01,FR,Female,31.0,Mobile,Pro,814.1,0.64,11.0,Bank Transfer,False,1.0
+C0157,2024-05-01,IN,Female,29.0,Mobile,Enterprise,3236.59,0.81,11.0,PayPal,False,1.0
+C0295,2024-11-01,IN,Female,68.0,Tablet,Pro,321.31,0.26,5.0,UPI,False,1.0
+C0225,2024-04-01,DE,Female,40.0,Desktop,Basic,314.33,0.87,12.0,Bank Transfer,False,3.0
+C0184,2024-07-01,DE,Female,36.0,Desktop,Basic,367.81,0.63,8.0,PayPal,False,5.0
+C0153,2024-08-01,JP,Male,62.0,Mobile,Pro,1105.76,0.13,2.0,Bank Transfer,False,2.0
+C0017,2024-08-01,FR,Male,49.0,Tablet,Basic,3236.15,0.12,15.0,Credit Card,False,1.0
+C0022,2024-10-01,JP,Male,57.0,Desktop,Basic,637.83,0.26,15.0,PayPal,False,1.0
+C0185,2024-03-01,FR,Male,42.0,Tablet,Basic,714.07,0.06,14.0,UPI,False,4.0
+C0002,2024-07-01,GB,Male,17.0,Mobile,Pro,902.87,0.28,8.0,Bank Transfer,False,2.0
+C0013,2024-10-01,BR,Female,13.0,Mobile,Free,1836.37,0.99,4.0,Bank Transfer,False,2.0
+C0066,2024-11-01,FR,Female,15.0,Mobile,Pro,713.47,0.24,1.0,Bank Transfer,False,2.0
+C0266,2024-08-01,BR,Female,51.0,Mobile,Basic,678.53,0.63,12.0,Debit Card,False,5.0
+C0138,2024-08-01,US,Male,47.0,Tablet,Basic,326.73,0.97,14.0,UPI,False,2.0
+C0213,2024-11-01,BR,Female,63.0,Desktop,Basic,655.53,0.25,2.0,Credit Card,False,4.0
+C0124,2024-08-01,GB,Female,72.0,Desktop,Free,3164.39,0.69,11.0,Bank Transfer,True,4.0
+C0052,2024-12-01,JP,Female,24.0,Mobile,Pro,1190.15,0.45,1.0,Debit Card,False,1.0
+C0112,2024-02-01,JP,Female,77.0,Mobile,Pro,563.48,0.28,12.0,PayPal,False,2.0
+C0028,2024-05-01,FR,Female,75.0,Tablet,Enterprise,3336.01,0.95,1.0,UPI,True,5.0
+C0232,2024-02-01,CA,Female,54.0,Tablet,Basic,647.62,0.65,15.0,Bank Transfer,False,5.0
+C0056,2024-02-01,FR,Male,48.0,Tablet,Pro,3936.16,0.43,3.0,Bank Transfer,False,3.0
+C0113,2024-06-01,IN,Female,24.0,Tablet,Pro,3878.66,0.81,7.0,PayPal,False,1.0
+C0295,2024-03-01,FR,Male,24.0,Desktop,Pro,1153.33,0.9,11.0,PayPal,False,2.0
+C0178,2024-05-01,JP,Male,14.0,Mobile,Pro,284.66,0.78,13.0,Credit Card,False,5.0
+C0138,2024-06-01,IN,Male,56.0,Tablet,Enterprise,8608.89,0.86,6.0,Bank Transfer,False,4.0
+C0163,2024-08-01,IN,Female,42.0,Tablet,Enterprise,1553.94,0.32,15.0,Credit Card,False,1.0
+C0236,2024-12-01,GB,Female,25.0,Desktop,Free,819.34,0.34,1.0,UPI,False,4.0
+C0077,2024-11-01,JP,Female,21.0,Mobile,Basic,2592.86,0.23,8.0,Debit Card,False,1.0
+C0191,2024-05-01,FR,Male,17.0,Tablet,Pro,2063.32,0.69,15.0,Debit Card,False,2.0
+C0262,2024-04-01,CA,Male,55.0,Tablet,Pro,3568.3,0.8,5.0,Bank Transfer,False,3.0
+C0172,2024-10-01,JP,Female,58.0,Mobile,Basic,604.19,0.66,9.0,Debit Card,True,2.0
+C0134,2024-02-01,FR,Male,55.0,Mobile,Free,1460.63,0.59,7.0,UPI,False,4.0
+C0044,2024-07-01,BR,Female,20.0,Tablet,Pro,377.18,0.77,6.0,Debit Card,False,1.0
+C0075,2024-06-01,GB,Male,15.0,Mobile,Pro,1997.6,0.18,12.0,Bank Transfer,False,5.0
+C0284,2024-03-01,IN,Female,20.0,Tablet,Free,1074.22,0.36,8.0,PayPal,False,3.0
+C0163,2024-08-01,DE,Female,63.0,Tablet,Pro,1412.21,0.7,11.0,UPI,False,2.0
+C0091,2024-04-01,FR,Female,62.0,Mobile,Enterprise,961.3,0.05,8.0,Credit Card,False,5.0
+C0126,2024-03-01,US,Male,32.0,Mobile,Pro,874.9,0.91,15.0,Credit Card,False,3.0
+C0174,2024-08-01,US,Female,16.0,Desktop,Enterprise,502.0,0.17,8.0,Debit Card,False,3.0
+C0162,2024-03-01,IN,Female,34.0,Desktop,Basic,2233.64,0.78,12.0,UPI,False,1.0
+C0210,2024-09-01,BR,Female,67.0,Tablet,Free,4191.16,0.61,10.0,Bank Transfer,False,5.0
+C0078,2024-02-01,CA,Female,22.0,Desktop,Pro,664.48,0.84,13.0,Credit Card,False,5.0
+C0195,2024-06-01,JP,Male,66.0,Mobile,Free,1804.77,0.77,14.0,UPI,False,1.0
+C0133,2024-10-01,DE,Male,44.0,Tablet,Free,1618.03,0.51,4.0,Debit Card,True,5.0
+C0283,2024-03-01,FR,Male,22.0,Tablet,Free,1104.65,0.75,5.0,Credit Card,False,4.0
+C0048,2024-10-01,CA,Male,75.0,Desktop,Enterprise,277.57,0.34,5.0,PayPal,True,3.0
+C0045,2024-09-01,FR,Female,47.0,Tablet,Enterprise,339.87,0.58,8.0,PayPal,False,5.0
+C0139,2024-11-01,GB,Male,57.0,Tablet,Basic,543.0,0.91,8.0,Bank Transfer,False,3.0
+C0153,2024-03-01,GB,Male,19.0,Tablet,Pro,159.96,0.08,1.0,UPI,False,4.0
+C0208,2024-09-01,BR,Male,37.0,Tablet,Basic,3894.14,0.35,14.0,Debit Card,False,1.0
+C0122,2024-12-01,DE,Male,55.0,Desktop,Free,1526.81,0.01,13.0,Bank Transfer,False,1.0
+C0275,2024-10-01,JP,Male,56.0,Mobile,Enterprise,1067.46,0.53,10.0,Debit Card,False,3.0
+C0143,2024-03-01,JP,Female,17.0,Desktop,Enterprise,152.75,0.78,5.0,PayPal,False,2.0
+C0039,2024-10-01,IN,Male,53.0,Tablet,Basic,212.41,0.03,13.0,Bank Transfer,False,5.0
+C0036,2024-02-01,BR,Female,76.0,Tablet,Basic,1094.32,0.54,5.0,Credit Card,False,1.0
+C0293,2024-08-01,GB,Male,65.0,Tablet,Enterprise,6460.36,0.41,5.0,Bank Transfer,False,4.0
+C0041,2024-06-01,FR,Male,26.0,Desktop,Basic,584.77,0.78,15.0,Debit Card,False,4.0
+C0285,2024-07-01,GB,Female,74.0,Desktop,Basic,2386.11,0.22,14.0,UPI,True,5.0
+C0084,2024-07-01,GB,Male,58.0,Mobile,Basic,712.01,0.16,9.0,Debit Card,False,5.0
+C0029,2024-01-01,GB,Male,16.0,Mobile,Basic,1152.53,0.09,3.0,Credit Card,False,5.0
+C0092,2024-07-01,IN,Other,21.0,Mobile,Pro,3272.19,0.4,2.0,PayPal,False,2.0
+C0185,2024-12-01,JP,Female,74.0,Tablet,Free,803.23,0.48,15.0,UPI,False,4.0
+C0129,2024-06-01,US,Female,27.0,Tablet,Basic,589.28,0.91,4.0,UPI,True,1.0
+C0236,2024-04-01,DE,Male,19.0,Mobile,Basic,3929.48,0.46,11.0,UPI,False,3.0
+C0184,2024-12-01,US,Female,43.0,Desktop,Basic,1142.53,0.17,6.0,PayPal,False,2.0
+C0121,2024-02-01,US,Other,48.0,Desktop,Basic,2928.03,0.69,8.0,Bank Transfer,False,2.0
+C0191,2024-06-01,GB,Female,51.0,Mobile,Basic,591.86,0.06,15.0,UPI,False,3.0
+C0292,2024-07-01,CA,Male,57.0,Desktop,Basic,3889.39,0.34,9.0,Credit Card,False,1.0
+C0124,2024-06-01,CA,Male,79.0,Desktop,Enterprise,1402.85,0.65,7.0,Debit Card,False,3.0
+C0047,2024-12-01,DE,Male,63.0,Tablet,Pro,1621.83,0.25,7.0,UPI,False,3.0
+C0123,2024-06-01,FR,Male,14.0,Tablet,Pro,1234.56,0.59,4.0,Credit Card,False,2.0
+C0253,2024-12-01,CA,Female,18.0,Mobile,Basic,695.81,0.45,9.0,Debit Card,False,3.0
+C0066,2024-01-01,US,Male,13.0,Desktop,Enterprise,1094.97,0.95,9.0,Debit Card,False,4.0
+C0285,2024-09-01,CA,Male,39.0,Tablet,Free,736.32,0.28,2.0,Bank Transfer,False,4.0
+C0177,2024-08-01,IN,Male,36.0,Tablet,Pro,2600.84,0.9,7.0,UPI,False,1.0
+C0181,2024-03-01,US,Male,75.0,Tablet,Free,913.47,0.62,10.0,Bank Transfer,True,3.0
+C0096,2024-03-01,GB,Male,37.0,Tablet,Enterprise,285.19,0.74,1.0,UPI,False,4.0
+C0277,2024-09-01,IN,Male,15.0,Mobile,Basic,241.9,0.16,15.0,UPI,False,4.0
+C0011,2024-08-01,JP,Male,72.0,Tablet,Basic,231.82,0.01,13.0,Bank Transfer,False,3.0
+C0090,2024-08-01,JP,Other,30.0,Tablet,Free,1912.51,0.73,10.0,PayPal,False,1.0
+C0126,2024-01-01,DE,Male,74.0,Tablet,Enterprise,389.03,0.48,1.0,Debit Card,False,1.0
+C0144,2024-08-01,JP,Female,64.0,Tablet,Basic,1436.66,0.3,8.0,Debit Card,False,2.0
+C0143,2024-12-01,JP,Male,71.0,Mobile,Basic,1240.06,0.89,14.0,PayPal,False,4.0
+C0045,2024-01-01,JP,Male,67.0,Mobile,Enterprise,1034.59,0.32,1.0,Credit Card,False,4.0
+C0068,2024-06-01,JP,Male,22.0,Desktop,Free,1627.12,0.43,12.0,Credit Card,False,4.0
+C0029,2024-06-01,FR,Male,54.0,Desktop,Basic,1264.55,0.72,13.0,Credit Card,False,2.0
+C0172,2024-11-01,IN,Male,40.0,Mobile,Free,95.7,0.96,2.0,PayPal,False,3.0
+C0106,2024-04-01,CA,Male,55.0,Mobile,Free,819.54,0.89,4.0,UPI,False,1.0
+C0170,2024-06-01,FR,Female,62.0,Tablet,Free,1607.75,0.65,11.0,Credit Card,False,4.0
+C0177,2024-09-01,CA,Male,46.0,Desktop,Free,4799.44,0.11,14.0,PayPal,False,2.0
+C0211,2024-01-01,CA,Male,33.0,Mobile,Enterprise,5003.09,0.1,12.0,PayPal,False,3.0
+C0165,2024-10-01,US,Female,74.0,Desktop,Basic,321.55,0.69,8.0,PayPal,False,3.0
+C0195,2024-10-01,DE,Male,57.0,Desktop,Enterprise,800.51,0.5,10.0,Credit Card,False,2.0
+C0177,2024-09-01,US,Male,72.0,Mobile,Basic,267.87,0.13,8.0,Bank Transfer,False,1.0
+C0196,2024-08-01,IN,Male,28.0,Tablet,Enterprise,4306.57,0.69,9.0,Credit Card,False,5.0
+C0185,2024-09-01,CA,Male,69.0,Desktop,Free,2728.67,0.94,12.0,UPI,False,1.0
+C0095,2024-10-01,CA,Male,34.0,Mobile,Free,1503.47,0.06,1.0,UPI,False,5.0
+C0074,2024-11-01,CA,Other,43.0,Mobile,Free,1273.45,0.82,4.0,Debit Card,False,1.0
+C0237,2024-06-01,CA,Other,70.0,Tablet,Enterprise,3799.28,0.34,1.0,Debit Card,False,1.0
+C0103,2024-06-01,BR,Other,36.0,Mobile,Pro,3262.32,0.39,12.0,Credit Card,False,5.0
+C0165,2024-08-01,FR,Male,29.0,Mobile,Pro,3109.57,0.71,11.0,UPI,False,5.0
+C0060,2024-03-01,CA,Male,74.0,Desktop,Enterprise,1654.1,0.24,1.0,PayPal,False,5.0
+C0130,2024-11-01,FR,Male,77.0,Desktop,Basic,800.87,0.15,2.0,Debit Card,False,4.0
+C0159,2024-10-01,BR,Male,33.0,Mobile,Pro,2187.28,0.96,4.0,UPI,False,3.0
+C0188,2024-08-01,US,Male,33.0,Desktop,Pro,2285.72,0.34,4.0,Bank Transfer,False,1.0
+C0158,2024-04-01,BR,Male,28.0,Mobile,Pro,923.74,0.16,8.0,Debit Card,False,3.0
+C0109,2024-05-01,JP,Male,14.0,Desktop,Pro,799.41,0.68,8.0,Debit Card,False,3.0
+C0289,2024-06-01,BR,Male,50.0,Mobile,Basic,3041.12,0.21,6.0,Credit Card,False,4.0
+C0154,2024-08-01,DE,Male,30.0,Desktop,Free,4903.5,0.77,3.0,UPI,False,1.0
+C0243,2024-10-01,US,Female,69.0,Tablet,Free,558.66,0.07,10.0,Debit Card,False,1.0
+C0222,2024-09-01,IN,Male,24.0,Tablet,Pro,865.2,0.51,12.0,Bank Transfer,False,3.0
+C0168,2024-12-01,BR,Female,55.0,Mobile,Pro,1503.93,0.4,10.0,Debit Card,False,5.0
+C0266,2024-12-01,BR,Male,46.0,Mobile,Pro,1699.24,0.95,13.0,PayPal,False,5.0
+C0039,2024-09-01,JP,Female,53.0,Mobile,Pro,685.31,0.52,14.0,Credit Card,False,3.0
+C0277,2024-05-01,CA,Male,20.0,Desktop,Free,5973.98,0.92,13.0,Debit Card,False,2.0
+C0256,2024-08-01,DE,Male,44.0,Desktop,Basic,1603.41,0.24,10.0,Credit Card,False,3.0
+C0152,2024-06-01,JP,Male,54.0,Tablet,Basic,1769.13,0.47,1.0,UPI,False,3.0
+C0221,2024-08-01,BR,Male,35.0,Tablet,Enterprise,5340.08,0.81,6.0,Credit Card,False,4.0
+C0157,2024-10-01,GB,Female,71.0,Tablet,Pro,732.05,0.16,7.0,Credit Card,False,2.0
+C0081,2024-05-01,JP,Male,48.0,Mobile,Pro,1012.74,0.92,11.0,UPI,False,2.0
+C0240,2024-07-01,IN,Male,37.0,Mobile,Pro,354.96,0.77,13.0,UPI,True,3.0
+C0074,2024-01-01,FR,Female,15.0,Tablet,Basic,939.06,0.67,10.0,Debit Card,False,5.0
+C0095,2024-09-01,CA,Male,24.0,Tablet,Enterprise,287.14,0.24,6.0,UPI,False,5.0
+C0156,2024-06-01,BR,Female,44.0,Mobile,Pro,2149.66,0.81,12.0,UPI,False,4.0
+C0252,2024-06-01,CA,Female,39.0,Mobile,Enterprise,1600.38,0.84,11.0,PayPal,False,2.0
+C0116,2024-07-01,IN,Male,71.0,Tablet,Pro,854.6,0.29,12.0,UPI,False,3.0
+C0149,2024-03-01,FR,Male,65.0,Desktop,Pro,1001.87,0.58,9.0,Bank Transfer,True,3.0
+C0013,2024-08-01,JP,Male,23.0,Tablet,Free,2176.17,0.06,10.0,Debit Card,False,5.0
+C0035,2024-09-01,BR,Female,52.0,Desktop,Pro,394.56,0.39,6.0,Credit Card,False,2.0
+C0017,2024-05-01,CA,Male,43.0,Tablet,Free,1317.84,0.15,6.0,UPI,True,5.0
+C0022,2024-02-01,DE,Male,19.0,Tablet,Pro,2058.14,0.55,5.0,Credit Card,True,4.0
+C0261,2024-05-01,BR,Male,57.0,Mobile,Pro,220.51,0.54,4.0,PayPal,True,4.0
+C0253,2024-03-01,DE,Female,48.0,Mobile,Pro,2031.33,0.53,10.0,Debit Card,False,4.0
+C0247,2024-05-01,JP,Female,18.0,Tablet,Basic,243.07,0.67,6.0,Debit Card,False,4.0
+C0017,2024-08-01,IN,Female,44.0,Mobile,Free,986.5,0.92,3.0,UPI,False,4.0
+C0024,2024-02-01,GB,Female,62.0,Mobile,Pro,384.89,0.19,1.0,Credit Card,False,4.0
+C0085,2024-09-01,IN,Female,34.0,Tablet,Pro,3976.36,0.21,13.0,Debit Card,False,2.0
+C0170,2024-03-01,BR,Male,36.0,Mobile,Basic,387.06,0.21,7.0,Bank Transfer,False,3.0
+C0101,2024-11-01,US,Female,20.0,Mobile,Pro,248.35,0.92,9.0,PayPal,False,3.0
+C0147,2024-09-01,GB,Female,26.0,Mobile,Enterprise,1236.47,0.09,14.0,UPI,False,5.0
+C0052,2024-04-01,JP,Male,78.0,Desktop,Pro,755.72,0.03,2.0,UPI,False,4.0
+C0220,2024-07-01,GB,Female,54.0,Desktop,Free,283.12,0.16,15.0,UPI,False,5.0
+C0095,2024-02-01,US,Female,24.0,Tablet,Enterprise,1760.29,0.76,11.0,Bank Transfer,False,4.0
+C0020,2024-02-01,IN,Male,45.0,Tablet,Basic,182.66,0.57,10.0,Bank Transfer,False,3.0
+C0223,2024-12-01,US,Male,25.0,Desktop,Pro,431.55,0.91,7.0,UPI,False,3.0
+C0271,2024-10-01,CA,Male,42.0,Tablet,Enterprise,653.47,0.2,11.0,Bank Transfer,False,4.0
+C0005,2024-02-01,FR,Female,22.0,Mobile,Basic,2257.47,0.39,4.0,Credit Card,False,5.0
+C0132,2024-04-01,CA,Male,54.0,Desktop,Pro,3518.96,0.55,5.0,Debit Card,False,2.0
+C0249,2024-03-01,US,Female,51.0,Mobile,Free,2958.7,0.07,15.0,Debit Card,False,2.0
+C0212,2024-05-01,GB,Male,55.0,Mobile,Enterprise,955.33,0.91,5.0,PayPal,False,2.0
+C0257,2024-04-01,US,Female,42.0,Tablet,Free,123.4,0.8,11.0,PayPal,False,1.0
+C0125,2024-04-01,DE,Male,32.0,Mobile,Pro,1558.95,0.14,14.0,UPI,False,4.0
+C0112,2024-07-01,FR,Female,29.0,Desktop,Basic,4119.62,0.84,9.0,Debit Card,True,5.0
+C0213,2024-03-01,JP,Male,27.0,Desktop,Free,3328.95,0.44,5.0,UPI,False,4.0
+C0047,2024-11-01,GB,Male,41.0,Mobile,Basic,1663.46,0.33,13.0,Debit Card,False,1.0
+C0072,2024-09-01,JP,Male,43.0,Tablet,Enterprise,375.95,0.94,13.0,UPI,False,2.0
+C0181,2024-10-01,BR,Male,58.0,Mobile,Free,683.5,0.51,9.0,Debit Card,False,5.0
+C0201,2024-03-01,GB,Male,16.0,Mobile,Basic,6250.6,0.22,2.0,Bank Transfer,True,1.0
+C0036,2024-09-01,CA,Female,31.0,Desktop,Free,306.42,0.8,7.0,PayPal,True,4.0
+C0153,2024-11-01,DE,Female,70.0,Mobile,Free,390.31,0.71,7.0,Credit Card,False,3.0
+C0110,2024-03-01,US,Female,74.0,Tablet,Free,2561.37,0.19,3.0,Bank Transfer,False,5.0
+C0151,2024-10-01,CA,Female,75.0,Mobile,Pro,743.94,0.67,7.0,PayPal,False,3.0
+C0288,2024-05-01,CA,Male,33.0,Mobile,Enterprise,378.58,0.62,3.0,Debit Card,False,3.0
+C0023,2024-10-01,IN,Female,22.0,Mobile,Pro,4338.02,0.27,11.0,UPI,False,4.0
+C0299,2024-06-01,CA,Female,26.0,Mobile,Enterprise,1660.63,0.43,7.0,Credit Card,False,5.0
+C0135,2024-10-01,CA,Male,21.0,Mobile,Pro,777.73,0.83,11.0,Credit Card,True,3.0
+C0232,2024-02-01,JP,Other,76.0,Desktop,Basic,391.04,0.17,7.0,UPI,False,4.0
+C0128,2024-05-01,GB,Male,72.0,Mobile,Enterprise,6923.43,0.72,11.0,PayPal,False,5.0
+C0094,2024-04-01,BR,Female,67.0,Mobile,Free,1072.76,0.83,11.0,Debit Card,False,3.0
+C0232,2024-03-01,FR,Other,61.0,Mobile,Pro,3856.81,0.93,3.0,Debit Card,False,4.0
+C0207,2024-04-01,FR,Female,35.0,Mobile,Free,2451.05,0.32,7.0,Bank Transfer,False,2.0
+C0044,2024-05-01,FR,Male,44.0,Desktop,Enterprise,686.21,0.26,12.0,Bank Transfer,True,2.0
+C0212,2024-02-01,BR,Female,69.0,Tablet,Free,691.15,0.93,9.0,UPI,False,1.0
+C0226,2024-09-01,FR,Male,67.0,Mobile,Free,4030.65,0.46,4.0,Credit Card,False,4.0
+C0117,2024-07-01,BR,Female,47.0,Tablet,Basic,4089.86,0.56,13.0,PayPal,False,2.0
+C0278,2024-10-01,FR,Male,69.0,Tablet,Pro,202.51,0.51,3.0,PayPal,False,5.0
+C0193,2024-09-01,IN,Female,36.0,Mobile,Free,1798.67,0.51,15.0,Bank Transfer,False,5.0
+C0101,2024-02-01,IN,Female,40.0,Desktop,Basic,983.29,0.62,11.0,Bank Transfer,False,5.0
+C0004,2024-01-01,CA,Male,69.0,Desktop,Basic,432.68,0.42,5.0,PayPal,False,2.0
+C0203,2024-06-01,CA,Male,38.0,Desktop,Pro,1387.93,0.39,3.0,Credit Card,False,4.0
+C0063,2024-06-01,FR,Female,63.0,Mobile,Enterprise,325.5,0.4,14.0,Debit Card,False,4.0
+C0227,2024-03-01,US,Male,43.0,Desktop,Pro,720.68,0.65,8.0,PayPal,False,3.0
+C0158,2024-10-01,JP,Male,32.0,Mobile,Pro,534.52,0.81,13.0,PayPal,False,3.0
+C0141,2024-07-01,US,Male,27.0,Tablet,Basic,699.38,0.55,13.0,UPI,False,3.0
+C0050,2024-09-01,DE,Male,53.0,Desktop,Enterprise,1028.31,0.67,2.0,UPI,False,2.0
+C0214,2024-02-01,GB,Female,45.0,Mobile,Free,439.65,0.41,11.0,PayPal,False,3.0
+C0050,2024-10-01,IN,Female,37.0,Desktop,Free,4518.16,0.77,6.0,UPI,True,5.0
+C0126,2024-03-01,JP,Male,62.0,Tablet,Free,1709.5,0.39,14.0,Credit Card,False,2.0
+C0251,2024-06-01,FR,Male,13.0,Tablet,Basic,5514.34,0.42,4.0,Bank Transfer,True,1.0
+C0277,2024-06-01,GB,Male,19.0,Mobile,Basic,949.49,0.05,1.0,Debit Card,False,1.0
+C0297,2024-10-01,FR,Male,77.0,Tablet,Enterprise,669.2,0.26,10.0,Debit Card,False,3.0
+C0288,2024-04-01,IN,Female,57.0,Mobile,Pro,5337.83,0.73,9.0,Credit Card,False,2.0
+C0167,2024-03-01,DE,Male,49.0,Mobile,Basic,651.81,0.08,9.0,UPI,False,3.0
+C0061,2024-05-01,FR,Female,13.0,Mobile,Free,934.06,0.22,4.0,Bank Transfer,False,5.0
+C0252,2024-05-01,GB,Female,53.0,Tablet,Pro,2096.54,0.77,8.0,Credit Card,False,1.0
+C0241,2024-03-01,JP,Female,42.0,Tablet,Basic,359.98,0.87,15.0,Debit Card,False,1.0
+C0298,2024-03-01,US,Female,53.0,Desktop,Enterprise,2080.09,0.41,12.0,Credit Card,False,2.0
+C0196,2024-03-01,US,Male,15.0,Tablet,Basic,1853.84,0.4,15.0,Credit Card,False,3.0
+C0043,2024-06-01,FR,Male,49.0,Mobile,Pro,3437.13,0.5,5.0,PayPal,False,4.0
+C0151,2024-05-01,CA,Male,51.0,Mobile,Enterprise,2443.14,0.77,14.0,Debit Card,False,1.0
+C0135,2024-05-01,DE,Female,32.0,Tablet,Basic,3533.28,0.46,6.0,PayPal,False,1.0
+C0253,2024-09-01,IN,Female,16.0,Tablet,Basic,992.89,0.17,15.0,UPI,False,1.0
+C0118,2024-03-01,CA,Male,78.0,Mobile,Pro,504.51,0.43,13.0,PayPal,False,5.0
+C0099,2024-11-01,DE,Male,60.0,Mobile,Basic,7324.55,0.25,3.0,Credit Card,False,1.0
+C0025,2024-10-01,US,Male,54.0,Desktop,Free,277.54,0.68,15.0,Debit Card,False,4.0
+C0251,2024-03-01,FR,Female,64.0,Mobile,Basic,303.73,0.14,10.0,UPI,False,3.0
+C0227,2024-04-01,GB,Female,57.0,Tablet,Free,1823.69,0.6,12.0,Credit Card,False,1.0
+C0013,2024-03-01,CA,Female,22.0,Tablet,Pro,4733.82,0.12,9.0,UPI,False,3.0
+C0131,2024-04-01,GB,Female,43.0,Mobile,Free,1300.62,0.97,4.0,UPI,False,2.0
+C0144,2024-05-01,FR,Male,72.0,Mobile,Basic,2695.59,0.64,15.0,UPI,False,
+C0141,2024-02-01,FR,Female,32.0,Tablet,Enterprise,181.96,0.13,2.0,UPI,False,
+C0276,2024-01-01,US,Female,78.0,Desktop,Pro,699.53,0.95,13.0,PayPal,False,
+C0046,2024-06-01,DE,Male,17.0,Mobile,Pro,203.05,0.57,4.0,PayPal,True,4.0
+C0092,2024-09-01,IN,Female,35.0,Mobile,Pro,2213.59,0.6,12.0,Credit Card,False,1.0
+C0055,2024-04-01,BR,Male,36.0,Tablet,Basic,272.46,0.06,7.0,PayPal,False,3.0
+C0074,2024-11-01,JP,Female,54.0,Tablet,Pro,347.22,0.18,4.0,Bank Transfer,False,4.0
+C0273,2024-05-01,CA,Female,24.0,Mobile,Free,1741.71,0.8,4.0,Bank Transfer,False,1.0
+C0283,2024-11-01,GB,Female,28.0,Tablet,Pro,2851.62,0.46,5.0,Debit Card,False,4.0
+C0014,2024-03-01,GB,Female,57.0,Mobile,Pro,950.44,0.61,14.0,PayPal,False,3.0
+C0190,2024-07-01,FR,Male,32.0,Mobile,Enterprise,1831.98,0.98,12.0,Bank Transfer,False,2.0
+C0070,2024-10-01,BR,Female,71.0,Desktop,Enterprise,1779.36,0.42,11.0,Debit Card,False,3.0
+C0058,2024-01-01,CA,Female,71.0,Desktop,Free,903.36,0.38,10.0,Bank Transfer,False,4.0
+C0088,2024-12-01,IN,Female,33.0,Tablet,Basic,409.43,0.8,7.0,PayPal,False,4.0
+C0059,2024-05-01,US,Female,50.0,Tablet,Pro,1823.3,0.06,14.0,PayPal,False,4.0
+C0148,2024-06-01,GB,Male,35.0,Mobile,Basic,1904.14,0.45,5.0,PayPal,True,1.0
+C0299,2024-08-01,GB,Female,36.0,Desktop,Pro,2451.91,0.85,15.0,PayPal,False,4.0
+C0176,2024-08-01,DE,Female,57.0,Tablet,Enterprise,1452.24,0.22,6.0,Bank Transfer,False,1.0
+C0217,2024-01-01,JP,Male,32.0,Desktop,Basic,383.12,0.3,6.0,Bank Transfer,False,4.0
+C0148,2024-11-01,IN,Male,23.0,Mobile,Enterprise,2041.23,0.47,8.0,UPI,False,2.0
+C0005,2024-08-01,JP,Other,30.0,Mobile,Enterprise,1095.27,0.07,12.0,UPI,False,1.0
+C0026,2024-12-01,FR,Female,75.0,Desktop,Enterprise,710.19,0.07,11.0,PayPal,False,4.0
+C0081,2024-06-01,FR,Female,30.0,Desktop,Free,841.2,0.25,12.0,Bank Transfer,False,3.0
+C0074,2024-08-01,BR,Male,37.0,Desktop,Basic,589.2,0.89,2.0,Debit Card,False,4.0
+C0253,2024-06-01,IN,Other,55.0,Mobile,Free,2440.5,0.22,3.0,Debit Card,False,2.0
+C0254,2024-11-01,BR,Male,19.0,Mobile,Free,306.03,0.73,13.0,PayPal,False,2.0
+C0257,2024-10-01,US,Female,30.0,Desktop,Free,448.48,0.42,15.0,Bank Transfer,True,4.0
+C0192,2024-11-01,FR,Male,24.0,Tablet,Basic,815.75,0.76,2.0,Bank Transfer,False,2.0
+C0167,2024-07-01,BR,Female,74.0,Desktop,Free,4686.19,0.33,14.0,Credit Card,False,5.0
+C0195,2024-10-01,FR,Female,75.0,Desktop,Basic,2832.32,0.87,4.0,Bank Transfer,False,4.0
+C0123,2024-05-01,GB,Female,63.0,Tablet,Enterprise,250.45,0.37,15.0,PayPal,False,5.0
+C0202,2024-06-01,DE,Female,29.0,Tablet,Enterprise,3700.46,0.79,15.0,Credit Card,False,1.0
+C0239,2024-10-01,DE,Male,54.0,Tablet,Enterprise,3694.05,0.83,10.0,Credit Card,False,3.0
+C0229,2024-01-01,IN,Female,57.0,Desktop,Free,381.23,0.43,3.0,Debit Card,False,3.0
+C0185,2024-09-01,BR,Female,71.0,Tablet,Pro,113.37,0.66,12.0,Bank Transfer,False,5.0
+C0018,2024-01-01,IN,Male,23.0,Desktop,Pro,1027.62,0.11,2.0,PayPal,False,3.0
+C0218,2024-07-01,DE,Female,62.0,Desktop,Free,3011.47,0.49,6.0,UPI,False,5.0
+C0110,2024-06-01,BR,Female,26.0,Desktop,Enterprise,4592.3,0.37,10.0,PayPal,False,2.0
+C0224,2024-06-01,IN,Female,51.0,Tablet,Basic,500.82,0.95,2.0,UPI,False,5.0
+C0162,2024-06-01,CA,Female,71.0,Tablet,Enterprise,5307.0,0.93,6.0,Bank Transfer,False,3.0
+C0265,2024-06-01,DE,Male,17.0,Mobile,Free,147.65,0.78,12.0,Credit Card,False,5.0
+C0102,2024-05-01,IN,Female,22.0,Tablet,Pro,787.41,0.94,2.0,Debit Card,True,2.0
+C0280,2024-06-01,BR,Male,67.0,Mobile,Free,753.34,0.97,6.0,Debit Card,False,2.0
+C0254,2024-07-01,FR,Male,14.0,Desktop,Enterprise,3093.64,0.76,1.0,Bank Transfer,False,3.0
+C0100,2024-10-01,BR,Male,58.0,Tablet,Pro,3527.95,0.59,10.0,UPI,False,3.0
+C0145,2024-07-01,JP,Male,46.0,Desktop,Free,2588.42,0.2,2.0,PayPal,False,1.0
+C0160,2024-08-01,DE,Male,36.0,Mobile,Free,325.22,0.81,5.0,Bank Transfer,False,4.0
+C0231,2024-11-01,JP,Female,70.0,Desktop,Basic,2383.58,0.19,8.0,Credit Card,True,3.0
+C0207,2024-12-01,GB,Male,69.0,Desktop,Free,1733.92,0.18,4.0,Bank Transfer,False,1.0
+C0256,2024-02-01,FR,Male,34.0,Desktop,Free,243.69,0.87,4.0,Credit Card,False,3.0
+C0111,2024-09-01,US,Male,13.0,Mobile,Enterprise,170.66,0.11,13.0,PayPal,False,4.0
+C0152,2024-03-01,FR,Female,21.0,Desktop,Enterprise,2791.1,0.14,12.0,PayPal,False,1.0
+C0130,2024-03-01,GB,Male,20.0,Mobile,Pro,932.54,0.51,2.0,Bank Transfer,True,5.0
+C0273,2024-10-01,BR,Male,78.0,Desktop,Enterprise,344.93,0.58,13.0,Credit Card,False,4.0
+C0092,2024-01-01,JP,Female,52.0,Tablet,Pro,909.27,0.04,8.0,Bank Transfer,False,2.0
+C0177,2024-11-01,JP,Male,58.0,Tablet,Free,1521.78,0.37,3.0,PayPal,False,4.0
+C0037,2024-10-01,CA,Female,28.0,Desktop,Pro,1017.84,0.22,14.0,Credit Card,False,5.0
+C0256,2024-12-01,IN,Male,69.0,Tablet,Free,271.3,0.3,6.0,UPI,False,5.0
+C0116,2024-09-01,US,Male,61.0,Mobile,Enterprise,5984.94,0.18,5.0,Bank Transfer,False,4.0
+C0103,2024-11-01,CA,Male,63.0,Tablet,Basic,2707.54,0.67,3.0,UPI,False,2.0
+C0175,2024-02-01,DE,Female,44.0,Desktop,Free,810.91,0.47,14.0,Debit Card,False,1.0
+C0150,2024-11-01,IN,Male,59.0,Tablet,Basic,840.85,0.95,5.0,Debit Card,False,2.0
+C0255,2024-02-01,GB,Female,49.0,Tablet,Pro,1515.56,0.0,9.0,UPI,False,5.0
+C0160,2024-04-01,JP,Male,38.0,Desktop,Enterprise,396.76,0.77,4.0,Bank Transfer,False,2.0
+C0156,2024-02-01,GB,Female,52.0,Desktop,Pro,1466.17,0.9,14.0,PayPal,False,2.0
+C0032,2024-05-01,IN,Male,34.0,Tablet,Free,331.07,0.48,12.0,PayPal,False,5.0
+C0007,2024-09-01,BR,Male,76.0,Mobile,Enterprise,1029.18,0.69,8.0,PayPal,False,2.0
+C0120,2024-04-01,US,Male,61.0,Mobile,Enterprise,383.1,0.44,6.0,PayPal,True,3.0
+C0300,2024-10-01,GB,Female,62.0,Desktop,Basic,400.9,0.59,10.0,UPI,False,2.0
+C0276,2024-08-01,IN,Male,61.0,Desktop,Pro,4822.99,0.9,8.0,PayPal,False,2.0
+C0189,2024-08-01,FR,Other,43.0,Tablet,Enterprise,1156.67,0.53,15.0,Debit Card,True,3.0
+C0190,2024-12-01,DE,Female,76.0,Mobile,Basic,1321.69,0.57,11.0,UPI,False,4.0
+C0118,2024-06-01,JP,Other,26.0,Desktop,Free,179.43,0.98,1.0,Debit Card,False,2.0
+C0054,2024-05-01,GB,Male,51.0,Mobile,Free,640.79,0.49,13.0,Bank Transfer,False,1.0
+C0003,2024-12-01,US,Female,17.0,Mobile,Pro,1660.86,0.17,3.0,PayPal,True,4.0
+C0102,2024-07-01,US,Female,32.0,Tablet,Enterprise,1306.0,0.68,5.0,UPI,False,3.0
+C0095,2024-08-01,US,Female,51.0,Tablet,Pro,157.81,0.69,7.0,UPI,False,4.0
+C0058,2024-04-01,DE,Other,45.0,Tablet,Pro,1321.37,0.23,4.0,UPI,False,3.0
+C0078,2024-03-01,IN,Female,76.0,Mobile,Basic,1525.23,0.72,15.0,PayPal,False,4.0
+C0008,2024-03-01,DE,Female,54.0,Desktop,Basic,3482.08,0.06,15.0,Debit Card,False,4.0
+C0183,2024-03-01,JP,Female,40.0,Tablet,Free,608.07,0.32,3.0,Bank Transfer,False,4.0
+C0279,2024-03-01,JP,Male,41.0,Mobile,Basic,145.79,0.85,5.0,Debit Card,True,4.0
+C0208,2024-09-01,BR,Female,53.0,Tablet,Pro,447.16,0.61,6.0,Credit Card,False,3.0
+C0135,2024-01-01,CA,Male,66.0,Tablet,Enterprise,408.56,0.6,11.0,PayPal,False,2.0
+C0127,2024-08-01,JP,Female,31.0,Desktop,Enterprise,2128.21,0.62,9.0,PayPal,False,3.0
+C0093,2024-12-01,BR,Female,52.0,Desktop,Enterprise,95.1,0.16,11.0,Debit Card,False,4.0
+C0043,2024-10-01,JP,Male,51.0,Mobile,Free,732.51,0.96,1.0,PayPal,False,3.0
+C0180,2024-05-01,IN,Male,13.0,Tablet,Enterprise,3956.9,0.29,8.0,PayPal,False,3.0
+C0170,2024-01-01,JP,Male,74.0,Tablet,Free,1103.77,0.78,4.0,PayPal,True,2.0
+C0003,2024-11-01,GB,Male,51.0,Tablet,Pro,2456.97,0.98,4.0,Bank Transfer,False,1.0
+C0125,2024-01-01,BR,Male,29.0,Tablet,Enterprise,250.23,0.24,12.0,Bank Transfer,False,3.0
+C0084,2024-09-01,CA,Female,55.0,Desktop,Enterprise,259.36,0.63,3.0,UPI,False,5.0
+C0052,2024-09-01,DE,Female,58.0,Tablet,Pro,3997.87,0.04,1.0,Debit Card,False,4.0
+C0211,2024-03-01,IN,Female,74.0,Mobile,Basic,1201.22,0.63,8.0,Credit Card,False,4.0
+C0158,2024-09-01,GB,Male,15.0,Tablet,Pro,1203.45,0.44,12.0,UPI,False,4.0
+C0191,2024-03-01,DE,Female,40.0,Mobile,Pro,400.88,0.07,8.0,PayPal,False,5.0
+C0215,2024-03-01,CA,Male,25.0,Desktop,Pro,1200.75,0.67,3.0,PayPal,False,2.0
+C0295,2024-10-01,CA,Female,51.0,Mobile,Basic,390.98,0.96,12.0,Credit Card,False,4.0
+C0241,2024-12-01,FR,Male,46.0,Mobile,Basic,3191.3,0.08,6.0,PayPal,False,1.0
+C0187,2024-04-01,CA,Male,44.0,Desktop,Pro,12772.47,0.89,11.0,PayPal,False,2.0
+C0264,2024-12-01,DE,Male,78.0,Desktop,,1695.18,0.84,4.0,PayPal,False,1.0
+C0144,2024-11-01,DE,Female,48.0,Mobile,,619.27,0.54,14.0,UPI,True,3.0
+C0296,2024-10-01,JP,Male,40.0,Tablet,Free,112.14,0.9,5.0,Credit Card,True,1.0
+C0229,2024-02-01,BR,Female,17.0,Mobile,Enterprise,240.8,0.3,15.0,UPI,True,2.0
+C0196,2024-04-01,FR,Female,32.0,Tablet,Free,4444.29,0.72,6.0,PayPal,False,1.0
+C0271,2024-09-01,DE,Female,73.0,Mobile,Pro,434.3,0.69,11.0,UPI,False,1.0
+C0155,2024-12-01,BR,Male,43.0,Desktop,Basic,785.44,0.58,8.0,UPI,False,3.0
+C0217,2024-10-01,JP,Male,73.0,Mobile,Pro,1977.9,0.83,2.0,UPI,False,3.0
+C0086,2024-06-01,DE,Male,48.0,Tablet,Basic,4163.29,0.87,2.0,UPI,False,3.0
+C0289,2024-03-01,IN,Male,49.0,Tablet,Enterprise,916.33,0.78,7.0,Debit Card,False,2.0
+C0188,2024-12-01,IN,Female,41.0,Mobile,Free,761.89,0.58,3.0,PayPal,True,3.0
+C0235,2024-04-01,US,Male,50.0,Mobile,Enterprise,1169.65,0.97,10.0,Debit Card,False,1.0
+C0139,2024-05-01,DE,Male,17.0,Desktop,Pro,623.36,0.55,3.0,UPI,False,3.0
+C0261,2024-12-01,FR,Male,16.0,Tablet,Enterprise,654.3,0.63,9.0,UPI,False,5.0
+C0023,2024-07-01,JP,Female,44.0,Mobile,Free,1588.73,0.18,4.0,PayPal,False,1.0
+C0035,2024-04-01,US,Male,53.0,Mobile,Free,1295.64,0.32,3.0,Bank Transfer,True,1.0
+C0153,2024-01-01,JP,Female,49.0,Desktop,Basic,7468.47,0.9,6.0,PayPal,False,4.0
+C0220,2024-06-01,BR,Male,41.0,Mobile,Basic,1627.77,0.49,9.0,Credit Card,False,3.0
+C0243,2024-12-01,IN,Other,32.0,Mobile,Enterprise,3090.32,0.51,6.0,PayPal,True,2.0
+C0133,2024-06-01,GB,Female,60.0,Mobile,Enterprise,418.15,0.81,6.0,Debit Card,False,4.0
+C0195,2024-09-01,GB,Male,53.0,Desktop,Basic,1759.25,0.32,6.0,Credit Card,False,2.0
+C0166,2024-04-01,CA,Male,16.0,Tablet,Enterprise,572.1,0.26,6.0,Credit Card,False,4.0
+C0289,2024-10-01,CA,Male,43.0,Desktop,Free,1565.42,0.0,7.0,Bank Transfer,False,3.0
+C0197,2024-10-01,JP,Male,60.0,Mobile,Pro,2037.88,0.23,13.0,UPI,False,1.0
+C0126,2024-08-01,FR,Male,65.0,Desktop,Free,1146.97,0.51,9.0,Debit Card,False,4.0
+C0291,2024-10-01,DE,Female,32.0,Desktop,Pro,9571.96,0.72,7.0,Credit Card,True,4.0
+C0033,2024-07-01,GB,Female,74.0,Mobile,Basic,3964.69,0.32,12.0,PayPal,False,2.0
+C0296,2024-05-01,JP,Male,56.0,Mobile,Basic,3163.77,0.44,8.0,PayPal,False,4.0
+C0047,2024-09-01,IN,Female,42.0,Mobile,Basic,2181.7,0.22,15.0,Debit Card,False,4.0
+C0087,2024-11-01,GB,Male,55.0,Tablet,Basic,5361.64,0.81,9.0,Credit Card,False,5.0
+C0247,2024-11-01,US,Other,71.0,Tablet,Enterprise,300.88,0.52,4.0,Debit Card,False,5.0
+C0221,2024-03-01,DE,Male,28.0,Mobile,Enterprise,3764.07,0.14,9.0,PayPal,False,2.0
+C0292,2024-09-01,GB,Female,23.0,Mobile,Basic,449.39,0.6,12.0,Credit Card,False,5.0
+C0225,2024-01-01,US,Female,42.0,Desktop,Basic,659.9,0.33,4.0,Debit Card,False,1.0
+C0192,2024-07-01,DE,Male,18.0,Mobile,Pro,1817.57,0.86,4.0,Credit Card,False,2.0
+C0104,2024-07-01,JP,Male,68.0,Tablet,Pro,3327.24,0.26,9.0,UPI,False,4.0
+C0002,2024-05-01,FR,Male,78.0,Tablet,Free,388.3,0.86,14.0,Credit Card,False,3.0
+C0038,2024-12-01,JP,Female,53.0,Mobile,Pro,691.39,0.69,6.0,Credit Card,False,2.0
+C0090,2024-11-01,CA,Female,78.0,Mobile,Enterprise,1197.25,0.13,8.0,Credit Card,False,1.0
+C0013,2024-01-01,CA,Female,17.0,Mobile,Enterprise,927.29,0.75,10.0,PayPal,True,4.0
+C0153,2024-03-01,GB,Female,55.0,Desktop,Pro,2365.23,0.72,10.0,UPI,False,5.0
+C0234,2024-03-01,CA,Female,42.0,Tablet,Basic,24157.13,0.45,3.0,Bank Transfer,False,4.0
+C0289,2024-11-01,CA,Male,31.0,Desktop,Basic,1599.41,0.16,6.0,Debit Card,False,3.0
+C0147,2024-07-01,CA,Female,33.0,Mobile,Pro,565.85,0.47,15.0,Debit Card,False,4.0
+C0263,2024-09-01,GB,Female,49.0,Mobile,Basic,341.43,0.6,14.0,Debit Card,False,2.0
+C0296,2024-10-01,US,Male,55.0,Mobile,Free,818.33,0.13,12.0,Bank Transfer,False,5.0
+C0258,2024-10-01,FR,Female,23.0,Mobile,Pro,470.49,0.34,1.0,UPI,False,1.0
+C0140,2024-02-01,CA,Male,54.0,Desktop,Free,1670.36,0.7,7.0,Debit Card,True,3.0
+C0098,2024-02-01,CA,Male,75.0,Desktop,Enterprise,1647.18,0.55,1.0,PayPal,False,2.0
+C0294,2024-05-01,FR,Female,13.0,Mobile,Basic,722.81,0.99,5.0,UPI,True,5.0
+C0073,2024-05-01,US,Male,71.0,Mobile,Basic,6545.02,0.21,13.0,Credit Card,False,2.0
+C0124,2024-09-01,DE,Male,53.0,Tablet,Free,565.72,0.77,6.0,PayPal,False,4.0
+C0023,2024-02-01,BR,Male,35.0,Tablet,Free,984.87,0.42,3.0,Credit Card,False,1.0
+C0239,2024-05-01,FR,Female,62.0,Desktop,Enterprise,1949.34,0.22,11.0,Credit Card,False,1.0
+C0195,2024-03-01,GB,Female,54.0,Desktop,Pro,2447.57,0.95,12.0,PayPal,False,3.0
+C0026,2024-03-01,GB,Male,64.0,Desktop,Enterprise,3462.75,0.62,10.0,UPI,False,4.0
+C0067,2024-03-01,IN,Male,18.0,Desktop,Enterprise,1612.67,0.53,13.0,Debit Card,False,2.0
+C0167,2024-03-01,GB,Male,16.0,Mobile,Free,2823.75,0.29,11.0,Credit Card,False,4.0
+C0163,2024-07-01,BR,Other,56.0,Desktop,Basic,602.69,0.88,10.0,UPI,True,3.0
+C0241,2024-05-01,US,Male,33.0,Tablet,Enterprise,2505.58,0.03,14.0,PayPal,False,5.0
+C0080,2024-06-01,CA,Other,28.0,Desktop,Basic,2475.64,0.11,5.0,Debit Card,True,2.0
+C0278,2024-06-01,IN,Female,41.0,Tablet,Pro,4279.53,0.17,7.0,UPI,False,2.0
+C0134,2024-09-01,FR,Male,61.0,Desktop,Pro,244.3,0.65,9.0,Debit Card,False,5.0
+C0247,2024-11-01,DE,Female,25.0,Mobile,Pro,484.7,0.1,11.0,Bank Transfer,False,2.0
+C0072,2024-07-01,JP,Female,78.0,Desktop,Enterprise,2300.37,0.79,8.0,PayPal,False,2.0
+C0012,2024-08-01,CA,Female,41.0,Tablet,Enterprise,100.86,0.19,7.0,Debit Card,False,5.0
+C0017,2024-09-01,FR,Male,23.0,Desktop,Pro,1707.53,0.67,3.0,UPI,False,5.0
+C0112,2024-09-01,BR,Female,17.0,Desktop,Pro,2846.44,0.79,10.0,Bank Transfer,False,1.0
+C0286,2024-02-01,BR,Female,70.0,Mobile,Basic,652.79,0.87,2.0,Debit Card,False,5.0
+C0015,2024-12-01,FR,Female,20.0,Tablet,Free,744.59,0.29,8.0,Credit Card,False,4.0
+C0111,2024-02-01,US,Other,41.0,Desktop,Pro,417.08,0.07,7.0,Debit Card,False,2.0
+C0033,2024-05-01,DE,Male,57.0,Mobile,Free,685.81,0.75,12.0,PayPal,False,3.0
+C0280,2024-08-01,US,Female,47.0,Desktop,Pro,703.94,0.44,8.0,Bank Transfer,True,2.0
+C0203,2024-05-01,DE,Female,30.0,Mobile,Basic,593.15,0.94,1.0,Debit Card,True,1.0
+C0229,2024-03-01,FR,Male,20.0,Tablet,Enterprise,564.58,0.18,8.0,Credit Card,False,1.0
+C0214,2024-12-01,US,Male,60.0,Tablet,Enterprise,859.28,0.57,4.0,Credit Card,False,1.0
+C0198,2024-01-01,US,Male,45.0,Mobile,Pro,849.97,0.11,6.0,UPI,False,3.0
+C0233,2024-03-01,JP,Female,16.0,Tablet,Pro,5923.71,0.48,5.0,Credit Card,True,5.0
+C0003,2024-12-01,DE,Male,25.0,Mobile,Basic,769.11,0.0,3.0,Credit Card,False,3.0
+C0260,2024-09-01,US,Female,50.0,Desktop,Basic,1494.78,0.75,15.0,PayPal,False,1.0
+C0222,2024-02-01,BR,Male,24.0,Desktop,Free,652.5,0.6,4.0,Bank Transfer,False,3.0
+C0222,2024-10-01,BR,Male,39.0,Mobile,Free,645.07,0.09,8.0,Debit Card,False,4.0
+C0119,2024-12-01,JP,Female,21.0,Tablet,Pro,236.53,0.49,13.0,UPI,False,5.0
+C0241,2024-02-01,JP,Male,66.0,Tablet,Enterprise,266.61,0.42,6.0,UPI,False,4.0
+C0115,2024-05-01,CA,Female,55.0,Desktop,Free,370.07,0.67,15.0,PayPal,False,2.0
+C0015,2024-06-01,FR,Male,65.0,Mobile,Basic,1293.78,0.49,7.0,Bank Transfer,False,4.0
+C0273,2024-02-01,GB,Female,16.0,Tablet,Pro,2888.68,0.45,15.0,Bank Transfer,False,1.0
+C0071,2024-03-01,JP,Male,38.0,Desktop,Pro,219.64,0.83,7.0,Debit Card,False,3.0
+C0031,2024-03-01,GB,Other,30.0,Tablet,Pro,669.03,0.51,1.0,Bank Transfer,False,3.0
+C0187,2024-03-01,GB,Female,54.0,Desktop,Pro,320.47,0.81,14.0,Credit Card,True,1.0
+C0071,2024-05-01,JP,Male,68.0,Mobile,Free,864.5,0.88,13.0,Bank Transfer,False,1.0
+C0258,2024-06-01,CA,Male,28.0,Mobile,Basic,2887.63,0.84,15.0,Credit Card,False,5.0
+C0134,2024-03-01,GB,Male,64.0,Mobile,Basic,733.48,0.95,2.0,Credit Card,False,2.0
+C0002,2024-04-01,BR,Female,51.0,Mobile,Free,1050.72,0.69,13.0,Credit Card,False,1.0
+C0286,2024-03-01,CA,Female,68.0,Mobile,Basic,4063.12,0.56,6.0,Credit Card,True,3.0
+C0155,2024-10-01,JP,Male,18.0,Mobile,Basic,1655.92,0.53,13.0,UPI,True,2.0
+C0079,2024-03-01,IN,Male,79.0,Tablet,Enterprise,553.31,0.2,15.0,PayPal,True,5.0
+C0204,2024-11-01,BR,Female,42.0,Tablet,Basic,1265.25,0.82,3.0,PayPal,True,5.0
+C0160,2024-07-01,US,Female,31.0,Mobile,Enterprise,520.72,0.69,6.0,Credit Card,False,5.0
+C0009,2024-10-01,JP,Female,25.0,Mobile,Pro,1601.08,0.87,5.0,Debit Card,False,2.0
+C0228,2024-08-01,,Male,78.0,Tablet,Pro,1743.77,0.7,5.0,Credit Card,False,5.0
+C0121,2024-04-01,,Female,72.0,Desktop,Enterprise,320.4,0.48,9.0,Credit Card,False,2.0
+C0210,2024-08-01,US,Other,21.0,Desktop,Enterprise,1283.87,0.29,7.0,PayPal,False,2.0
+C0269,2024-04-01,DE,Male,42.0,Tablet,Free,986.52,0.98,10.0,PayPal,False,5.0
+C0184,2024-02-01,US,Male,62.0,Desktop,Basic,1790.43,0.73,11.0,Debit Card,False,4.0
+C0202,2024-04-01,JP,Male,52.0,Tablet,Pro,2317.43,0.87,4.0,Debit Card,False,1.0
+C0077,2024-04-01,DE,Female,25.0,Desktop,Enterprise,1685.31,0.58,1.0,Bank Transfer,False,5.0
+C0072,2024-02-01,BR,Male,37.0,Desktop,Free,834.74,0.51,12.0,UPI,False,1.0
+C0125,2024-01-01,IN,Female,37.0,Mobile,Basic,2540.2,0.03,3.0,Debit Card,True,4.0
+C0256,2024-12-01,DE,Female,32.0,Desktop,Free,499.82,0.06,3.0,Bank Transfer,False,3.0
+C0158,2024-07-01,CA,Female,77.0,Tablet,Free,334.13,0.7,10.0,Credit Card,False,1.0
+C0105,2024-05-01,CA,Female,26.0,Desktop,Enterprise,61.82,0.22,4.0,Debit Card,False,4.0
+C0234,2024-12-01,US,Male,60.0,Mobile,Free,1029.55,0.08,3.0,PayPal,True,4.0
+C0257,2024-03-01,DE,Female,74.0,Desktop,Enterprise,523.54,0.77,5.0,UPI,False,5.0
+C0271,2024-05-01,DE,Male,66.0,Tablet,Enterprise,1568.66,0.62,8.0,Credit Card,False,4.0
+C0090,2024-11-01,FR,Female,66.0,Tablet,Enterprise,186.03,0.11,13.0,Bank Transfer,True,4.0
+C0213,2024-08-01,FR,Female,23.0,Desktop,Free,612.49,0.49,15.0,Debit Card,False,5.0
+C0178,2024-05-01,IN,Female,21.0,Tablet,Free,1674.45,0.46,11.0,PayPal,False,5.0
+C0135,2024-04-01,JP,Female,65.0,Mobile,Basic,434.04,0.0,14.0,Debit Card,True,3.0
+C0120,2024-01-01,US,Male,63.0,Desktop,Pro,1584.99,0.6,8.0,PayPal,False,1.0
+C0035,2024-02-01,GB,Female,62.0,Desktop,Enterprise,664.26,0.39,7.0,Bank Transfer,True,2.0
+C0083,2024-02-01,JP,Female,41.0,Mobile,Basic,1064.73,0.87,13.0,PayPal,False,4.0
+C0165,2024-10-01,BR,Female,48.0,Tablet,Free,1873.65,0.11,5.0,Bank Transfer,True,1.0
+C0266,2024-08-01,DE,Male,14.0,Tablet,Enterprise,2585.09,0.84,13.0,UPI,True,1.0
+C0260,2024-06-01,CA,Male,32.0,Mobile,Enterprise,1191.83,0.0,15.0,Credit Card,False,2.0
+C0057,2024-10-01,DE,Female,48.0,Mobile,Pro,527.1,0.76,6.0,UPI,False,5.0
+C0204,2024-02-01,FR,Male,21.0,Tablet,Pro,726.16,0.78,10.0,UPI,False,2.0
+C0026,2024-03-01,US,Female,21.0,Tablet,Enterprise,1945.47,0.4,12.0,PayPal,False,5.0
+C0203,2024-05-01,US,Female,16.0,Tablet,Basic,437.41,0.28,12.0,Debit Card,False,5.0
+C0103,2024-12-01,DE,Female,27.0,Mobile,Free,934.25,0.14,4.0,PayPal,False,2.0
+C0135,2024-08-01,FR,Male,79.0,Tablet,Pro,774.88,0.33,15.0,UPI,False,2.0
+C0216,2024-11-01,JP,Female,59.0,Tablet,Basic,999.22,0.66,8.0,PayPal,False,5.0
+C0128,2024-03-01,DE,Male,76.0,Tablet,Enterprise,442.15,0.72,1.0,UPI,False,4.0
+C0243,2024-11-01,CA,Male,30.0,Tablet,Enterprise,207.11,0.18,2.0,Debit Card,False,4.0
+C0161,2024-01-01,FR,Female,53.0,Tablet,Basic,1752.27,0.01,11.0,Debit Card,False,5.0
+C0300,2024-03-01,IN,Male,72.0,Desktop,Basic,2611.6,0.56,7.0,Bank Transfer,True,1.0
+C0192,2024-07-01,BR,Male,36.0,Mobile,Basic,218.56,0.58,2.0,Credit Card,True,2.0
+C0089,2024-01-01,FR,Male,57.0,Mobile,Pro,1528.49,0.98,8.0,Debit Card,False,4.0
+C0233,2024-11-01,DE,Female,59.0,Tablet,Pro,2906.96,0.76,9.0,UPI,False,1.0
+C0123,2024-11-01,DE,Female,68.0,Tablet,Pro,1874.92,0.55,2.0,Credit Card,False,5.0
+C0161,2024-07-01,GB,Male,77.0,Mobile,Pro,753.7,0.59,6.0,Bank Transfer,False,3.0
+C0042,2024-04-01,FR,Male,54.0,Desktop,Enterprise,469.12,0.64,7.0,Debit Card,False,2.0
+C0036,2024-02-01,FR,Female,52.0,Mobile,Basic,1179.54,0.45,12.0,Debit Card,False,2.0
+C0173,2024-08-01,DE,Male,71.0,Mobile,Free,1370.6,0.67,10.0,Debit Card,False,1.0
+C0057,2024-07-01,GB,Female,58.0,Desktop,Enterprise,1195.39,0.19,2.0,Credit Card,False,3.0
+C0300,2024-10-01,DE,Female,37.0,Desktop,Enterprise,932.51,0.83,10.0,PayPal,True,5.0
+C0257,2024-08-01,DE,Female,55.0,Desktop,Pro,413.9,0.86,14.0,UPI,True,1.0
+C0211,2024-02-01,DE,Female,49.0,Desktop,Basic,1604.26,0.43,1.0,Debit Card,False,3.0
+C0221,2024-02-01,GB,Female,28.0,Desktop,Basic,1675.34,0.45,15.0,Bank Transfer,False,4.0
+C0179,2024-10-01,FR,Female,47.0,Tablet,Basic,1313.88,0.49,2.0,PayPal,False,3.0
+C0019,2024-02-01,US,Male,54.0,Mobile,Free,1211.84,0.81,10.0,UPI,False,4.0
+C0118,2024-12-01,FR,Male,73.0,Mobile,Pro,4970.74,0.17,6.0,UPI,True,4.0
+C0149,2024-02-01,IN,Female,51.0,Desktop,Basic,625.19,0.34,11.0,PayPal,False,5.0
+C0275,2024-09-01,DE,Male,24.0,Desktop,Basic,3474.8,0.61,13.0,Credit Card,False,4.0
+C0066,2024-12-01,JP,Female,79.0,Tablet,Pro,566.44,0.69,13.0,Bank Transfer,False,4.0
+C0150,2024-06-01,JP,Female,51.0,Tablet,Enterprise,2975.17,0.29,14.0,Debit Card,False,2.0
+C0104,2024-01-01,BR,Other,32.0,Desktop,Free,3327.68,0.11,13.0,Credit Card,False,1.0
+C0041,2024-11-01,BR,Male,63.0,Mobile,Enterprise,842.4,0.5,5.0,UPI,False,1.0
+C0031,2024-03-01,IN,Male,38.0,Mobile,Pro,4889.6,0.63,7.0,Bank Transfer,False,1.0
+C0110,2024-07-01,GB,Female,37.0,Desktop,Enterprise,1672.6,0.76,11.0,PayPal,True,5.0
+C0025,2024-12-01,BR,Male,69.0,Desktop,Basic,497.93,0.0,3.0,Debit Card,False,1.0
+C0021,2024-09-01,JP,Female,71.0,Desktop,Enterprise,783.1,0.01,9.0,Debit Card,False,3.0
+C0106,2024-01-01,FR,Female,48.0,Mobile,Pro,3039.61,0.38,8.0,UPI,True,4.0
+C0061,2024-10-01,JP,Other,37.0,Tablet,Pro,2516.84,0.56,15.0,Debit Card,False,4.0
+C0167,2024-02-01,GB,Female,70.0,Desktop,Pro,423.17,0.0,1.0,Bank Transfer,False,1.0
+C0006,2024-09-01,US,Male,24.0,Desktop,Basic,967.45,0.17,2.0,Debit Card,False,5.0
+C0091,2024-08-01,IN,Male,63.0,Mobile,Pro,1317.08,0.41,1.0,Debit Card,False,3.0
+C0136,2024-04-01,FR,Female,52.0,Tablet,Enterprise,694.47,0.27,9.0,Credit Card,False,1.0
+C0289,2024-06-01,BR,Male,70.0,Desktop,Enterprise,9154.67,0.71,9.0,PayPal,False,1.0
+C0191,2024-02-01,GB,Male,41.0,Mobile,Free,1353.29,0.03,9.0,Credit Card,False,5.0
+C0265,2024-12-01,JP,Male,68.0,Mobile,Pro,1037.29,0.88,4.0,Bank Transfer,False,5.0
+C0103,2024-03-01,BR,Male,14.0,Desktop,Enterprise,3202.75,0.16,5.0,Bank Transfer,False,4.0
+C0135,2024-04-01,GB,Female,63.0,Mobile,Pro,789.43,0.44,7.0,Credit Card,False,2.0
+C0127,2024-07-01,US,Male,17.0,Tablet,Basic,2715.37,0.98,1.0,Credit Card,True,5.0
+C0267,2024-09-01,BR,Female,56.0,Tablet,Basic,244.46,0.66,12.0,Bank Transfer,True,2.0
+C0288,2024-07-01,BR,Male,26.0,Tablet,Pro,729.03,0.99,1.0,Credit Card,False,2.0
+C0289,2024-07-01,US,Female,77.0,Desktop,Pro,2819.07,0.01,11.0,UPI,True,4.0
+C0226,2024-07-01,GB,Male,64.0,Desktop,Basic,4506.06,0.71,7.0,Bank Transfer,False,2.0
+C0151,2024-11-01,DE,Female,20.0,Desktop,Basic,546.77,0.07,15.0,Credit Card,False,3.0
+C0163,2024-05-01,FR,Male,72.0,Desktop,Basic,492.34,0.61,11.0,PayPal,False,4.0
+C0295,2024-10-01,US,Female,29.0,Desktop,Free,1827.5,0.32,8.0,Debit Card,False,1.0
+C0086,2024-10-01,CA,Male,49.0,Desktop,Free,625.95,0.77,11.0,UPI,False,5.0
+C0105,2024-12-01,DE,Male,18.0,Tablet,Free,861.16,0.12,2.0,Bank Transfer,False,1.0
+C0270,2024-11-01,DE,Male,20.0,Mobile,Basic,2413.33,0.89,3.0,PayPal,False,5.0
+C0116,2024-10-01,IN,Female,29.0,Mobile,Pro,672.03,0.48,8.0,Debit Card,False,2.0
+C0071,2024-03-01,CA,Female,48.0,Tablet,Basic,187.0,0.51,13.0,Bank Transfer,False,3.0
+C0169,2024-10-01,US,Male,49.0,Tablet,Enterprise,340.03,0.57,13.0,UPI,False,2.0
+C0098,2024-09-01,CA,Male,70.0,Tablet,Free,1106.5,0.03,6.0,Credit Card,False,3.0
+C0268,2024-04-01,DE,Female,24.0,Desktop,Basic,204.98,0.31,5.0,Debit Card,True,1.0
+C0273,2024-09-01,JP,Female,63.0,Desktop,Free,839.29,0.7,15.0,Debit Card,True,1.0
+C0092,2024-04-01,US,Male,13.0,Mobile,Basic,313.28,0.96,9.0,PayPal,False,3.0
+C0159,2024-07-01,US,Female,32.0,Mobile,Pro,4797.96,0.98,2.0,Bank Transfer,False,4.0
+C0296,2024-10-01,JP,Female,24.0,Tablet,Basic,7697.33,0.53,4.0,Credit Card,False,5.0
+C0223,2024-03-01,JP,Female,21.0,Desktop,Basic,423.11,0.25,13.0,PayPal,False,5.0
+C0065,2024-05-01,FR,Male,52.0,Desktop,Pro,1381.72,0.47,14.0,Bank Transfer,False,5.0
+C0178,2024-10-01,IN,Male,73.0,Mobile,Enterprise,462.03,0.46,14.0,Bank Transfer,False,4.0
+C0186,2024-06-01,CA,Male,57.0,Desktop,Free,830.16,0.39,1.0,PayPal,True,4.0
+C0197,2024-12-01,DE,Female,70.0,Tablet,Free,5558.72,0.36,13.0,Debit Card,False,2.0
+C0008,2024-01-01,CA,Male,52.0,Desktop,Free,720.53,0.86,2.0,Credit Card,True,5.0
+C0090,2024-09-01,JP,Female,16.0,Desktop,Pro,847.73,0.39,13.0,Bank Transfer,False,5.0
+C0257,2024-10-01,JP,Female,36.0,Tablet,Enterprise,98765.43,0.02,14.0,UPI,False,3.0
+C0073,2024-12-01,BR,Female,68.0,Mobile,Free,3076.57,0.72,99.0,Debit Card,False,1.0
+C0090,2024-02-01,BR,Male,210.0,Mobile,Free,58.15,0.66,3.0,PayPal,False,1.0
+C0097,2024-12-01,FR,Male,-7.0,Desktop,Pro,736.19,0.37,11.0,PayPal,False,3.0
+C0054,2024-05-01,IN,Male,68.0,Desktop,Enterprise,1052.27,0.62,2.0,Bank Transfer,True,5.8
+C0047,,DE,Female,17.0,Tablet,Pro,604.88,0.94,9.0,Bank Transfer,True,3.0
+C0105,2024-05-01,BR,Female,77.0,Mobile,Enterprise,2385.56,0.92,5.0,Bank Transfer,False,5.0
+C0263,2024-08-01,JP,Male,63.0,Mobile,Pro,3235.13,0.78,7.0,Credit Card,False,3.0
+C0001,2024-08-01,FR,Female,57.0,Desktop,Free,307.71,0.58,13.0,Credit Card,False,4.0
+C0085,2024-06-01,BR,Male,48.0,Desktop,Basic,7216.59,0.02,15.0,Debit Card,False,4.0
+C0019,2024-01-01,IN,Male,18.0,Tablet,Enterprise,304.62,0.51,7.0,PayPal,False,5.0
+C0169,2024-12-01,DE,Male,40.0,Desktop,Pro,3497.37,0.81,5.0,UPI,False,4.0
+C0076,2024-03-01,FR,Female,67.0,Desktop,Free,1254.94,0.84,13.0,Bank Transfer,False,3.0
+C0238,2024-02-01,CA,Male,73.0,Mobile,Free,696.92,0.77,7.0,Bank Transfer,False,1.0
+C0176,2024-08-01,GB,Male,42.0,Desktop,Pro,758.67,0.98,3.0,Bank Transfer,True,4.0
+C0236,2024-05-01,US,Female,69.0,Desktop,Basic,1064.05,0.51,14.0,Credit Card,False,1.0
+C0191,2024-08-01,GB,Female,65.0,Desktop,Pro,1322.89,0.1,15.0,PayPal,False,2.0
+C0132,2024-11-01,US,Male,16.0,Desktop,Basic,479.08,0.49,5.0,Bank Transfer,False,3.0
+C0259,2024-02-01,FR,Male,54.0,Desktop,Basic,888.43,0.31,3.0,Bank Transfer,False,1.0
+C0143,2024-04-01,BR,Female,54.0,Mobile,Pro,548.07,0.83,3.0,Debit Card,False,4.0
+C0285,2024-07-01,JP,Male,49.0,Mobile,Free,367.4,0.77,9.0,PayPal,False,2.0
+C0299,2024-10-01,CA,Male,64.0,Mobile,Basic,525.54,0.42,5.0,UPI,False,3.0
+C0177,2024-08-01,IN,Female,72.0,Desktop,Basic,389.56,0.38,10.0,Credit Card,False,2.0
+C0203,2024-05-01,US,Male,49.0,Tablet,Enterprise,751.34,0.15,12.0,Debit Card,False,2.0
+C0077,2024-08-01,GB,Female,34.0,Tablet,Pro,1618.46,0.04,1.0,Debit Card,False,2.0
+C0245,2024-12-01,US,Male,78.0,Mobile,Basic,1222.48,0.31,13.0,Bank Transfer,False,1.0
+C0202,2024-06-01,JP,Male,77.0,Mobile,Basic,6482.82,0.24,1.0,Credit Card,False,1.0
+C0271,2024-11-01,US,Male,58.0,Desktop,Free,149.99,0.26,2.0,Credit Card,False,4.0
+C0081,2024-10-01,IN,Male,55.0,Mobile,Free,1673.06,0.99,11.0,UPI,True,1.0
+C0237,2024-04-01,JP,Male,19.0,Desktop,Basic,1102.99,0.68,10.0,UPI,False,3.0
+C0142,2024-03-01,CA,Male,39.0,Desktop,Enterprise,2284.96,0.55,15.0,UPI,False,1.0
+C0056,2024-10-01,US,Female,26.0,Tablet,Free,2089.79,0.17,9.0,Credit Card,False,3.0
+C0052,2024-03-01,GB,Female,47.0,Desktop,Free,945.3,0.84,7.0,UPI,False,4.0
+C0169,2024-05-01,FR,Male,68.0,Tablet,Pro,1280.99,0.64,11.0,Bank Transfer,True,3.0
+C0096,2024-03-01,FR,Female,28.0,Desktop,Free,561.35,0.51,12.0,Credit Card,True,4.0
+C0031,2024-08-01,CA,Female,79.0,Tablet,Enterprise,1905.14,0.46,11.0,PayPal,True,2.0
+C0129,2024-04-01,DE,Female,21.0,Desktop,Enterprise,202.15,0.55,6.0,Credit Card,False,3.0
+C0196,2024-08-01,IN,Male,19.0,Desktop,Enterprise,2206.46,0.83,15.0,Debit Card,False,2.0
+C0096,2024-12-01,DE,Male,78.0,Desktop,Basic,1074.0,0.72,5.0,Bank Transfer,False,3.0
+C0287,2024-10-01,FR,Male,19.0,Desktop,Basic,707.43,0.48,6.0,Debit Card,False,1.0
+C0234,2024-12-01,FR,Male,62.0,Tablet,Basic,889.55,0.66,5.0,UPI,True,2.0
+C0154,2024-01-01,FR,Male,64.0,Desktop,Free,950.25,0.92,5.0,Debit Card,False,4.0
+C0281,2024-06-01,CA,Female,35.0,Mobile,Pro,3524.78,0.32,4.0,PayPal,False,4.0
+C0130,2024-03-01,JP,Female,17.0,Desktop,Enterprise,20133.58,0.9,9.0,UPI,False,2.0
+C0042,2024-12-01,GB,Male,33.0,Desktop,Basic,3287.5,0.6,11.0,UPI,False,2.0
+C0011,2024-09-01,GB,Male,17.0,Desktop,Free,659.32,0.18,7.0,Bank Transfer,False,2.0
+C0282,2024-04-01,BR,Male,58.0,Mobile,Pro,1932.95,0.96,14.0,UPI,False,2.0
+C0288,2024-07-01,DE,Male,72.0,Mobile,Basic,2010.21,0.68,8.0,UPI,False,5.0
+C0222,2024-08-01,DE,Female,79.0,Mobile,Enterprise,476.92,0.38,8.0,Bank Transfer,True,4.0
+C0031,2024-06-01,US,Male,66.0,Desktop,Enterprise,352.58,0.21,2.0,UPI,False,2.0
+C0089,2024-06-01,GB,Female,64.0,Mobile,Enterprise,1035.92,0.91,14.0,Bank Transfer,False,3.0
+C0013,2024-01-01,BR,Other,72.0,Desktop,Basic,2268.64,0.82,3.0,PayPal,True,3.0
+C0016,2024-06-01,JP,Female,64.0,Mobile,Enterprise,257.08,0.04,3.0,Bank Transfer,False,3.0
+C0074,2024-05-01,JP,Female,56.0,Mobile,Free,573.18,0.63,15.0,UPI,False,2.0
+C0172,2024-10-01,GB,Female,79.0,Mobile,Basic,1836.08,0.11,8.0,UPI,False,5.0
+C0020,2024-11-01,US,Male,34.0,Mobile,Basic,1138.6,0.29,2.0,Credit Card,False,2.0
+C0296,2024-10-01,US,Male,40.0,Mobile,Enterprise,3923.13,0.56,7.0,Credit Card,False,3.0
+C0137,2024-01-01,DE,Female,73.0,Tablet,Pro,307.9,0.24,9.0,Credit Card,False,1.0
+C0080,2024-11-01,FR,Male,33.0,Mobile,Basic,9108.36,0.51,1.0,PayPal,False,3.0
+C0155,2024-05-01,CA,Female,33.0,Desktop,Free,274.73,0.42,12.0,Debit Card,False,5.0
+C0238,2024-05-01,CA,Male,23.0,Desktop,Enterprise,176.58,0.58,11.0,Debit Card,False,5.0
+C0094,2024-12-01,IN,Male,31.0,Tablet,Pro,1040.0,0.8,1.0,PayPal,False,3.0
+C0015,2024-11-01,BR,Male,52.0,Desktop,Enterprise,395.04,0.15,10.0,Debit Card,True,1.0
+C0016,2024-01-01,GB,Other,72.0,Desktop,Basic,1059.04,0.79,4.0,Credit Card,False,4.0
+C0256,2024-05-01,US,Male,22.0,Tablet,Free,1026.23,0.22,12.0,UPI,False,4.0
+C0034,2024-09-01,FR,Male,58.0,Tablet,Basic,919.48,0.03,6.0,UPI,False,5.0
+C0191,2024-07-01,IN,Male,64.0,Mobile,Pro,513.8,0.44,4.0,Credit Card,False,3.0
+C0116,2024-04-01,GB,Female,73.0,Tablet,Free,1618.72,0.3,8.0,Debit Card,False,1.0
+C0234,2024-07-01,FR,Other,63.0,Desktop,Free,824.19,0.18,7.0,Debit Card,False,5.0
+C0019,2024-11-01,GB,Male,23.0,Mobile,Enterprise,2961.05,0.42,6.0,PayPal,True,4.0
+C0270,2024-03-01,FR,Female,45.0,Desktop,Pro,932.31,0.86,14.0,Debit Card,False,5.0
+C0210,2024-09-01,DE,Male,76.0,Tablet,Basic,460.27,0.58,10.0,Credit Card,False,1.0
+C0135,2024-09-01,JP,Female,73.0,Mobile,Pro,240.1,0.72,8.0,Debit Card,False,3.0
+C0063,2024-11-01,US,Male,54.0,Mobile,Pro,939.27,0.14,4.0,UPI,False,3.0
+C0294,2024-04-01,IN,Male,77.0,Tablet,Free,349.92,0.07,9.0,PayPal,False,2.0
+C0091,2024-03-01,FR,Female,57.0,Desktop,Basic,325.39,0.33,1.0,Credit Card,False,5.0
+C0148,2024-07-01,GB,Female,17.0,Mobile,Basic,1762.89,0.77,14.0,Bank Transfer,False,1.0
+C0119,2024-07-01,BR,Male,74.0,Tablet,Free,221.43,0.88,1.0,Debit Card,False,1.0
+C0070,2024-05-01,IN,Female,24.0,Desktop,Free,3908.75,0.1,11.0,Debit Card,False,2.0
+C0125,2024-10-01,FR,Other,38.0,Mobile,Basic,1266.16,0.47,6.0,Credit Card,True,5.0
+C0046,2024-10-01,CA,Male,28.0,Mobile,Pro,1054.2,0.39,11.0,Debit Card,True,1.0
+C0001,2024-03-01,IN,Female,61.0,Desktop,Pro,432.12,0.74,6.0,UPI,False,3.0
+C0087,2024-10-01,GB,Female,15.0,Mobile,Enterprise,2181.86,0.2,1.0,PayPal,False,1.0
+C0034,2024-03-01,JP,Male,55.0,Desktop,Basic,1093.77,0.48,15.0,PayPal,False,2.0
+C0125,2024-05-01,FR,Female,70.0,Mobile,Pro,591.41,0.84,12.0,UPI,False,3.0
+C0259,2024-01-01,US,Male,65.0,Mobile,Enterprise,1312.7,0.46,1.0,Credit Card,False,1.0
+C0049,2024-05-01,US,Female,33.0,Tablet,Pro,241.17,0.78,1.0,Debit Card,False,2.0
+C0001,2024-12-01,JP,Male,73.0,Mobile,Enterprise,251.69,0.62,8.0,PayPal,False,3.0
+C0034,2024-06-01,JP,Male,37.0,Tablet,Free,400.15,0.59,15.0,PayPal,False,1.0
+C0153,2024-09-01,GB,Female,58.0,Mobile,Enterprise,1502.03,0.25,9.0,UPI,False,3.0
+C0083,2024-02-01,DE,Female,46.0,Desktop,Pro,1093.42,0.99,1.0,UPI,False,4.0
+C0147,2024-08-01,JP,Female,17.0,Mobile,Pro,2818.84,0.24,11.0,UPI,True,2.0
+C0009,2024-05-01,US,Other,13.0,Desktop,Free,479.15,0.93,7.0,Bank Transfer,False,1.0
+C0100,2024-09-01,US,Male,25.0,Desktop,Pro,1839.41,0.98,10.0,UPI,True,3.0
+C0124,2024-12-01,JP,Male,75.0,Mobile,Enterprise,989.81,0.51,6.0,UPI,False,4.0
+C0130,2024-07-01,US,Male,76.0,Desktop,Pro,469.31,0.86,1.0,Debit Card,False,1.0
+C0166,2024-02-01,JP,Male,40.0,Tablet,Free,1551.19,0.71,1.0,UPI,False,2.0
+C0235,2024-06-01,DE,Male,77.0,Desktop,Basic,1033.38,0.73,10.0,PayPal,False,5.0
+C0141,2024-02-01,CA,Female,16.0,Mobile,Pro,622.53,0.06,10.0,Bank Transfer,False,2.0
+C0253,2024-06-01,IN,Female,77.0,Tablet,Enterprise,1138.88,0.13,5.0,PayPal,False,2.0
+C0159,2024-01-01,CA,Male,28.0,Mobile,Basic,975.96,0.06,2.0,PayPal,False,4.0
+C0079,2024-08-01,US,Male,15.0,Mobile,Enterprise,954.97,0.03,12.0,PayPal,False,3.0
+C0069,2024-04-01,IN,Female,63.0,Desktop,Enterprise,756.47,0.83,3.0,Credit Card,False,2.0
+C0097,2024-03-01,BR,Male,38.0,Mobile,Basic,338.85,0.17,3.0,Debit Card,False,4.0
+C0180,2024-01-01,FR,Male,32.0,Mobile,Free,1172.96,0.0,7.0,Debit Card,False,1.0
+C0073,2024-11-01,JP,Male,63.0,Tablet,Enterprise,532.49,0.93,11.0,PayPal,False,4.0
+C0275,2024-11-01,IN,Male,35.0,Desktop,Pro,437.77,0.27,15.0,PayPal,True,2.0
+C0144,2024-10-01,IN,Male,63.0,Tablet,Enterprise,883.04,0.81,10.0,Credit Card,False,5.0
+C0259,2024-01-01,FR,Female,26.0,Desktop,Enterprise,2123.08,0.96,15.0,Credit Card,False,4.0
+C0205,2024-05-01,CA,Male,18.0,Desktop,Basic,1296.02,0.52,10.0,UPI,True,5.0
+C0101,2024-12-01,DE,Female,34.0,Tablet,Free,679.92,0.92,13.0,Bank Transfer,True,1.0
+C0069,2024-07-01,JP,Female,53.0,Mobile,Enterprise,655.76,0.96,3.0,Credit Card,True,1.0
+C0224,2024-02-01,CA,Female,28.0,Desktop,Pro,1943.47,0.14,1.0,Bank Transfer,False,5.0
+C0100,2024-02-01,JP,Male,22.0,Tablet,Free,126.84,0.14,11.0,Credit Card,True,2.0
+C0075,2024-04-01,FR,Male,63.0,Mobile,Pro,2247.62,0.36,15.0,Debit Card,False,5.0
+C0280,2024-12-01,BR,Male,46.0,Tablet,Free,203.04,0.55,12.0,PayPal,False,4.0
+C0145,2024-03-01,FR,Male,41.0,Mobile,Basic,306.78,0.78,6.0,PayPal,False,3.0
+C0015,2024-11-01,BR,Male,29.0,Desktop,Basic,690.32,0.18,8.0,Bank Transfer,False,1.0
+C0149,2024-09-01,FR,Female,14.0,Tablet,Basic,7731.91,0.19,2.0,Credit Card,True,1.0
+C0139,2024-12-01,FR,Male,16.0,Mobile,Pro,4962.56,0.3,6.0,Credit Card,False,4.0
+C0260,2024-10-01,DE,Male,58.0,Tablet,Enterprise,2071.11,0.27,11.0,UPI,True,1.0
+C0214,2024-04-01,BR,Male,18.0,Mobile,Basic,1511.55,0.94,3.0,UPI,False,1.0
+C0058,2024-10-01,JP,Female,29.0,Mobile,Pro,205.19,0.39,8.0,Debit Card,False,2.0
+C0046,2024-03-01,CA,Female,74.0,Desktop,Enterprise,1262.79,0.86,5.0,PayPal,False,5.0
+C0182,2024-04-01,FR,Female,36.0,Desktop,Pro,668.94,0.05,8.0,Debit Card,False,4.0
+C0015,2024-03-01,IN,Female,62.0,Tablet,Basic,525.84,0.1,12.0,Bank Transfer,False,4.0
+C0096,2024-02-01,FR,Female,36.0,Tablet,Pro,1260.57,0.8,14.0,Credit Card,False,4.0
+C0042,2024-02-01,GB,Female,75.0,Tablet,Basic,717.66,0.24,7.0,PayPal,False,3.0
+C0007,2024-03-01,IN,Male,68.0,Desktop,Basic,2397.95,0.08,13.0,UPI,False,2.0
+C0276,2024-02-01,IN,Female,44.0,Mobile,Pro,192.03,0.59,11.0,Credit Card,True,3.0
+C0027,2024-05-01,FR,Female,58.0,Tablet,Basic,1173.22,0.14,14.0,PayPal,False,3.0
+C0003,2024-01-01,CA,Male,40.0,Desktop,Free,497.11,0.06,12.0,Credit Card,False,5.0
+C0280,2024-01-01,FR,Female,76.0,Mobile,Enterprise,758.49,0.4,9.0,UPI,False,5.0
+C0057,2024-12-01,DE,Male,37.0,Tablet,Pro,1442.54,0.55,11.0,PayPal,False,4.0
+C0245,2024-02-01,IN,Female,69.0,Desktop,Free,401.19,0.52,5.0,Credit Card,False,5.0
+C0010,2024-01-01,BR,Male,54.0,Desktop,Basic,1271.32,0.58,11.0,Debit Card,False,5.0
+C0047,2024-01-01,IN,Female,56.0,Desktop,Basic,905.87,0.02,11.0,Debit Card,False,4.0
+C0034,2024-02-01,JP,Female,36.0,Tablet,Enterprise,605.15,0.29,10.0,Bank Transfer,False,5.0
+C0212,2024-07-01,JP,Male,68.0,Mobile,Enterprise,718.01,0.34,2.0,Debit Card,False,1.0
+C0187,2024-10-01,CA,Male,63.0,Desktop,Pro,954.23,0.29,8.0,Bank Transfer,True,1.0
+C0143,2024-09-01,GB,Male,67.0,Mobile,Basic,549.47,0.55,11.0,UPI,True,3.0
+C0073,2024-07-01,US,Male,66.0,Desktop,Free,1103.66,0.22,3.0,Bank Transfer,False,1.0
+C0027,2024-02-01,GB,Other,23.0,Mobile,Free,853.75,0.63,12.0,Bank Transfer,False,2.0
+C0171,2024-10-01,JP,Male,71.0,Desktop,Free,632.6,0.93,13.0,Debit Card,False,1.0
+C0070,2024-01-01,US,Male,69.0,Tablet,Enterprise,4586.43,0.66,9.0,UPI,False,5.0
+C0178,2024-08-01,CA,Male,29.0,Desktop,Free,1593.54,0.38,15.0,PayPal,False,4.0
+C0207,2024-05-01,US,Other,78.0,Tablet,Pro,777.09,0.43,13.0,Credit Card,False,1.0
+C0255,2024-11-01,IN,Male,48.0,Tablet,Enterprise,1250.47,0.58,7.0,PayPal,False,4.0
+C0149,2024-04-01,US,Female,34.0,Mobile,Basic,435.22,0.72,14.0,UPI,False,4.0
+C0002,2024-08-01,JP,Male,27.0,Desktop,Pro,740.19,0.3,14.0,Credit Card,False,2.0
+C0085,2024-06-01,FR,Male,37.0,Desktop,Enterprise,822.16,0.03,2.0,Bank Transfer,False,5.0
+C0257,2024-07-01,GB,Female,15.0,Desktop,Basic,357.05,0.7,15.0,Debit Card,False,5.0
+C0160,2024-12-01,BR,Male,59.0,Tablet,Basic,1554.05,0.66,1.0,Bank Transfer,False,5.0
+C0186,2024-09-01,BR,Female,60.0,Desktop,Free,695.72,0.1,8.0,Debit Card,False,1.0
+C0138,2024-05-01,FR,Male,57.0,Mobile,Basic,796.38,0.62,15.0,UPI,False,3.0
+C0049,2024-06-01,FR,Female,49.0,Desktop,Enterprise,657.31,0.07,11.0,Debit Card,False,4.0
+C0270,2024-09-01,IN,Female,37.0,Mobile,Pro,15727.74,0.64,5.0,Bank Transfer,True,3.0
+C0232,2024-05-01,GB,Female,61.0,Desktop,Free,604.04,0.74,10.0,Bank Transfer,False,3.0
+C0299,2024-03-01,FR,Male,71.0,Desktop,Pro,170.41,0.01,4.0,PayPal,False,2.0
+C0257,2024-06-01,US,Female,18.0,Tablet,Pro,259.84,0.72,4.0,Bank Transfer,False,3.0
+C0088,2024-01-01,DE,Other,38.0,Mobile,Free,2171.93,0.12,14.0,PayPal,False,4.0
+C0077,2024-03-01,IN,Male,79.0,Desktop,Enterprise,3651.19,0.26,1.0,Debit Card,False,1.0
+C0075,2024-06-01,JP,Male,70.0,Mobile,Free,593.7,0.7,15.0,Bank Transfer,False,4.0
+C0276,2024-10-01,IN,Female,79.0,Desktop,Basic,3467.03,0.35,7.0,UPI,False,4.0
+C0168,2024-10-01,IN,Male,25.0,Desktop,Basic,2137.58,0.97,1.0,Debit Card,False,1.0
+C0137,2024-04-01,BR,Female,44.0,Desktop,Pro,924.7,0.95,12.0,Credit Card,False,4.0
+C0291,2024-06-01,US,Female,21.0,Mobile,Enterprise,867.49,0.98,1.0,PayPal,False,3.0
+C0182,2024-02-01,GB,Male,71.0,Mobile,Free,1290.5,0.1,5.0,Debit Card,False,2.0
+C0273,2024-10-01,GB,Female,47.0,Desktop,Basic,2415.62,0.17,4.0,PayPal,False,3.0
+C0296,2024-03-01,US,Female,29.0,Desktop,Basic,1568.01,0.18,12.0,Credit Card,False,3.0
+C0024,2024-10-01,JP,Male,19.0,Mobile,Enterprise,596.38,0.58,6.0,PayPal,False,2.0
+C0109,2024-11-01,BR,Female,62.0,Desktop,Enterprise,937.5,0.43,10.0,PayPal,False,4.0
+C0221,2024-09-01,US,Male,67.0,Mobile,Basic,6523.31,0.74,2.0,UPI,True,4.0
+C0244,2024-04-01,BR,Male,71.0,Desktop,Pro,1374.84,0.28,11.0,PayPal,False,2.0
+C0045,2024-12-01,BR,Female,78.0,Desktop,Enterprise,2398.01,0.19,11.0,Bank Transfer,False,3.0
+C0096,2024-09-01,FR,Male,67.0,Tablet,Enterprise,1782.72,0.64,5.0,Bank Transfer,False,4.0
+C0165,2024-08-01,FR,Female,65.0,Tablet,Pro,1402.51,0.61,14.0,UPI,False,3.0
+C0240,2024-11-01,CA,Male,67.0,Tablet,Pro,1209.34,0.69,8.0,Bank Transfer,True,3.0
+C0034,2024-11-01,DE,Male,79.0,Mobile,Enterprise,2459.35,0.31,11.0,Bank Transfer,False,5.0
+C0181,2024-01-01,DE,Male,44.0,Tablet,Free,2093.89,0.52,3.0,Credit Card,False,5.0
+C0089,2024-11-01,FR,Female,63.0,Desktop,Basic,1390.62,0.92,14.0,Debit Card,False,2.0
+C0065,2024-10-01,JP,Female,67.0,Desktop,Pro,587.35,0.61,4.0,PayPal,True,4.0
+C0155,2024-03-01,BR,Female,20.0,Tablet,Free,1551.54,0.93,10.0,UPI,False,5.0
+C0125,2024-04-01,IN,Other,59.0,Mobile,Pro,1032.45,0.43,2.0,Credit Card,False,1.0
+C0191,2024-10-01,DE,Female,35.0,Mobile,Enterprise,830.95,0.04,1.0,UPI,False,3.0
+C0096,2024-03-01,BR,Female,21.0,Tablet,Free,12220.84,0.76,2.0,Debit Card,False,4.0
+C0247,2024-06-01,US,Female,24.0,Desktop,Enterprise,274.47,0.46,15.0,PayPal,False,1.0
+C0024,2024-09-01,CA,Female,20.0,Desktop,Basic,2598.43,0.04,4.0,UPI,False,2.0
+C0259,2024-08-01,JP,Female,73.0,Mobile,Enterprise,504.51,0.13,14.0,Credit Card,False,4.0
+C0009,2024-11-01,JP,Female,64.0,Desktop,Pro,1234.07,0.31,9.0,Credit Card,False,5.0
+C0221,2024-02-01,IN,Male,19.0,Mobile,Free,11067.06,0.19,2.0,Debit Card,False,5.0
+C0104,2024-04-01,FR,Male,54.0,Desktop,Pro,461.22,0.68,7.0,Credit Card,False,4.0
+C0116,2024-12-01,FR,Female,57.0,Desktop,Free,571.64,0.61,8.0,Bank Transfer,False,1.0
+C0006,2024-07-01,BR,Male,47.0,Tablet,Free,1079.48,0.32,5.0,Debit Card,True,1.0
+C0211,2024-03-01,JP,Male,53.0,Tablet,Enterprise,511.58,0.08,10.0,PayPal,False,5.0
+C0050,2024-04-01,GB,Other,73.0,Mobile,Enterprise,2430.01,0.07,13.0,Credit Card,False,4.0
+C0198,2024-05-01,FR,Male,47.0,Mobile,Free,677.85,0.94,14.0,UPI,True,1.0
+C0218,2024-07-01,BR,Male,57.0,Desktop,Basic,1975.56,0.34,8.0,Bank Transfer,False,1.0
+C0254,2024-04-01,JP,Male,51.0,Tablet,Free,331.53,0.1,14.0,PayPal,False,1.0
+C0213,2024-08-01,JP,Male,39.0,Mobile,Basic,215.69,0.71,14.0,Debit Card,False,5.0
+C0091,2024-06-01,GB,Female,72.0,Desktop,Enterprise,892.4,0.86,2.0,PayPal,False,4.0
+C0222,2024-08-01,CA,Female,40.0,Desktop,Free,267.29,0.12,10.0,UPI,False,5.0
+C0248,2024-02-01,IN,Other,66.0,Mobile,Pro,4300.31,0.94,12.0,Debit Card,False,1.0
+C0096,2024-08-01,DE,Female,53.0,Desktop,Enterprise,276.77,0.72,1.0,Bank Transfer,False,4.0
+C0038,2024-12-01,FR,Female,58.0,Mobile,Enterprise,430.99,0.25,10.0,Bank Transfer,False,5.0
+C0268,2024-02-01,IN,Male,63.0,Desktop,Basic,1591.22,0.77,14.0,UPI,False,3.0
+C0045,2024-04-01,DE,Female,62.0,Tablet,Pro,646.95,0.41,5.0,Credit Card,True,4.0
+C0179,2024-09-01,FR,Male,50.0,Desktop,Basic,279.63,0.63,13.0,UPI,False,4.0
+C0071,2024-08-01,FR,Male,54.0,Mobile,Free,6877.21,0.12,15.0,UPI,False,1.0
+C0038,2024-09-01,IN,Other,47.0,Tablet,Free,445.2,0.24,10.0,Bank Transfer,False,3.0
+C0233,2024-07-01,GB,Female,35.0,Mobile,Pro,919.08,0.77,10.0,PayPal,False,2.0
+C0044,2024-09-01,US,Male,61.0,Tablet,Pro,908.44,0.8,9.0,Debit Card,False,1.0
+C0202,2024-08-01,BR,Female,71.0,Tablet,Pro,2078.24,0.01,7.0,UPI,False,3.0
+C0208,2024-01-01,GB,Male,60.0,Desktop,Enterprise,1662.57,0.21,7.0,Credit Card,True,5.0
+C0019,2024-10-01,FR,Male,64.0,Mobile,Pro,521.07,0.6,8.0,UPI,False,1.0
+C0052,2024-06-01,BR,Male,68.0,Tablet,Basic,817.91,0.9,8.0,UPI,False,2.0
+C0239,2024-01-01,JP,Male,37.0,Tablet,Basic,894.06,0.67,13.0,UPI,True,4.0
+C0153,2024-05-01,US,Female,17.0,Desktop,Enterprise,2151.81,0.7,12.0,UPI,True,2.0
+C0037,2024-06-01,CA,Male,35.0,Tablet,Enterprise,383.18,0.38,6.0,UPI,False,1.0
+C0298,2024-02-01,US,Female,63.0,Tablet,Free,6743.26,0.05,8.0,PayPal,False,1.0
+C0080,2024-12-01,IN,Male,67.0,Tablet,Enterprise,553.76,0.76,4.0,UPI,False,1.0
+C0002,2024-03-01,IN,Female,47.0,Mobile,Free,1088.03,0.79,3.0,Credit Card,False,5.0
+C0278,2024-04-01,US,Female,65.0,Desktop,Enterprise,386.07,0.44,6.0,PayPal,False,3.0
+C0005,2024-06-01,JP,Female,18.0,Mobile,Pro,340.92,0.5,1.0,PayPal,False,5.0
+C0167,2024-10-01,US,Male,56.0,Mobile,Pro,499.2,0.23,13.0,PayPal,False,4.0
+C0298,2024-09-01,BR,Female,58.0,Desktop,Pro,457.84,0.45,2.0,PayPal,False,2.0
+C0174,2024-10-01,DE,Female,47.0,Mobile,Pro,755.34,0.24,5.0,Credit Card,True,5.0
+C0176,2024-03-01,IN,Male,61.0,Mobile,Basic,454.38,0.42,4.0,Bank Transfer,False,2.0
+C0117,2024-11-01,DE,Male,45.0,Tablet,Enterprise,2050.82,0.13,4.0,Bank Transfer,True,1.0
+C0039,2024-10-01,IN,Male,48.0,Desktop,Pro,542.03,0.6,6.0,Credit Card,False,5.0
+C0172,2024-06-01,DE,Male,53.0,Desktop,Pro,490.57,0.24,11.0,Debit Card,True,3.0
+C0270,2024-07-01,FR,Male,66.0,Mobile,Basic,769.95,0.72,14.0,Debit Card,False,3.0
+C0028,2024-01-01,FR,Male,29.0,Tablet,Free,2679.95,0.51,3.0,Bank Transfer,False,3.0
+C0265,2024-10-01,GB,Male,33.0,Desktop,Pro,1330.6,0.89,4.0,Bank Transfer,False,5.0
+C0125,2024-12-01,JP,Female,41.0,Desktop,Basic,1002.53,0.22,8.0,Debit Card,False,2.0
+C0161,2024-06-01,FR,Male,26.0,Mobile,Pro,301.95,0.27,5.0,PayPal,False,5.0
+C0050,2024-07-01,GB,Male,35.0,Mobile,Basic,392.12,0.24,12.0,Debit Card,False,5.0
+C0187,2024-06-01,DE,Female,36.0,Mobile,Enterprise,347.04,0.63,4.0,Credit Card,True,4.0
+C0055,2024-01-01,IN,Male,34.0,Mobile,Pro,3555.2,0.1,7.0,Debit Card,False,1.0
+C0082,2024-08-01,CA,Male,40.0,Tablet,Basic,1767.83,0.68,9.0,Credit Card,False,1.0
+C0217,2024-09-01,JP,Male,46.0,Desktop,Pro,504.99,0.81,6.0,Bank Transfer,True,1.0
+C0016,2024-12-01,GB,Male,59.0,Desktop,Pro,659.88,0.67,10.0,PayPal,False,4.0
+C0135,2024-12-01,BR,Male,33.0,Tablet,Pro,521.78,0.13,12.0,Credit Card,False,2.0
+C0179,2024-06-01,BR,Male,69.0,Tablet,Pro,494.09,0.49,8.0,UPI,False,5.0
+C0040,2024-12-01,FR,Male,45.0,Mobile,Enterprise,1659.5,0.53,7.0,Debit Card,False,1.0
+C0089,2024-07-01,IN,Other,61.0,Desktop,Basic,846.59,0.39,15.0,UPI,False,2.0
+C0104,2024-08-01,CA,Female,20.0,Desktop,Basic,7137.02,0.46,15.0,Bank Transfer,False,2.0
+C0200,2024-08-01,CA,Male,24.0,Mobile,Basic,3378.96,0.76,15.0,Bank Transfer,False,5.0
+C0294,2024-12-01,CA,Male,43.0,Tablet,Pro,3563.62,0.83,1.0,Bank Transfer,False,1.0
+C0251,2024-09-01,CA,Male,37.0,Desktop,Enterprise,2006.65,0.3,13.0,Debit Card,False,3.0
+C0057,2024-02-01,CA,Female,46.0,Desktop,Pro,749.65,0.32,14.0,Credit Card,False,5.0
+C0006,2024-01-01,BR,Female,23.0,Desktop,Free,1878.09,0.2,13.0,Credit Card,False,5.0
+C0016,2024-05-01,IN,Male,44.0,Tablet,Enterprise,801.15,0.4,12.0,Credit Card,False,5.0
+C0179,2024-07-01,DE,Male,59.0,Mobile,Enterprise,4756.41,0.54,6.0,PayPal,True,4.0
+C0047,2024-09-01,US,Male,61.0,Desktop,Basic,1577.9,0.71,11.0,PayPal,False,1.0
+C0070,2024-06-01,US,Female,29.0,Tablet,Free,1388.7,0.26,9.0,Bank Transfer,False,1.0
+C0255,2024-07-01,JP,Female,36.0,Tablet,Basic,1229.5,0.21,13.0,Credit Card,False,3.0
+C0263,2024-12-01,JP,Male,48.0,Desktop,Enterprise,5251.35,0.03,6.0,Debit Card,False,3.0
+C0252,2024-05-01,FR,Female,47.0,Mobile,Pro,301.76,0.09,12.0,PayPal,False,3.0
+C0077,2024-06-01,BR,Male,66.0,Tablet,Free,5735.67,0.05,12.0,PayPal,False,1.0
+C0186,2024-07-01,US,Female,39.0,Tablet,Free,927.47,0.2,13.0,UPI,False,4.0
+C0184,2024-06-01,US,Female,57.0,Desktop,Enterprise,309.35,0.69,3.0,Credit Card,False,2.0
+C0056,2024-12-01,JP,Male,72.0,Desktop,Basic,557.25,0.77,13.0,UPI,False,1.0
+C0167,2024-12-01,DE,Male,32.0,Desktop,Pro,248.21,0.97,4.0,Credit Card,False,5.0
+C0158,2024-07-01,FR,Female,68.0,Mobile,Basic,1974.94,0.54,15.0,UPI,False,2.0
+C0119,2024-06-01,DE,Male,35.0,Mobile,Free,430.75,0.45,1.0,Bank Transfer,True,2.0
+C0226,2024-08-01,US,Female,35.0,Tablet,Basic,1276.4,0.89,4.0,Credit Card,False,3.0
+C0204,2024-03-01,JP,Male,56.0,Tablet,Pro,3043.6,0.14,10.0,Credit Card,True,5.0
+C0160,2024-06-01,JP,Female,54.0,Mobile,Basic,598.95,0.63,9.0,PayPal,False,5.0
+C0218,2024-03-01,BR,Male,49.0,Desktop,Pro,861.53,0.81,11.0,Credit Card,False,1.0
+C0229,2024-02-01,GB,Male,28.0,Tablet,Basic,339.33,0.5,7.0,Bank Transfer,False,4.0
+C0171,2024-02-01,BR,Male,19.0,Mobile,Basic,773.15,0.26,1.0,PayPal,False,4.0
+C0081,2024-08-01,CA,Male,73.0,Mobile,Basic,11121.34,0.62,10.0,UPI,True,5.0
+C0228,2024-01-01,BR,Male,71.0,Mobile,Basic,2208.66,0.99,8.0,Debit Card,False,5.0
+C0216,2024-08-01,DE,Female,72.0,Mobile,Basic,864.15,0.23,8.0,Debit Card,False,4.0
+C0296,2024-06-01,GB,Male,47.0,Desktop,Pro,632.37,0.56,6.0,Debit Card,False,4.0
+C0045,2024-05-01,FR,Male,72.0,Desktop,Basic,1055.35,0.05,14.0,Bank Transfer,False,2.0
+C0126,2024-10-01,GB,Male,44.0,Tablet,Pro,1232.8,0.23,12.0,PayPal,True,5.0
+C0278,2024-07-01,FR,Male,18.0,Tablet,Basic,752.08,0.76,3.0,Debit Card,False,5.0
+C0155,2024-09-01,IN,Female,26.0,Tablet,Basic,1767.03,0.49,1.0,Credit Card,False,5.0
+C0283,2024-09-01,US,Female,31.0,Tablet,Enterprise,464.93,0.19,3.0,UPI,True,5.0
+C0004,2024-01-01,JP,Male,38.0,Tablet,Enterprise,462.87,0.33,1.0,PayPal,False,4.0
+C0011,2024-03-01,DE,Female,75.0,Desktop,Basic,1530.23,0.12,11.0,PayPal,False,5.0
+C0239,2024-07-01,DE,Female,35.0,Tablet,Basic,383.07,0.77,10.0,Debit Card,False,4.0
+C0108,2024-12-01,FR,Other,54.0,Mobile,Pro,2113.53,0.94,7.0,UPI,False,2.0
+C0157,2024-02-01,DE,Male,31.0,Tablet,Free,1082.63,0.1,9.0,Credit Card,False,1.0
+C0129,2024-02-01,JP,Male,56.0,Mobile,Basic,211.64,0.23,13.0,UPI,True,5.0
+C0123,2024-12-01,US,Male,51.0,Desktop,Pro,1210.21,0.85,13.0,PayPal,False,3.0
+C0282,2024-12-01,JP,Female,23.0,Mobile,Pro,240.66,0.87,7.0,Debit Card,False,5.0
+C0029,2024-03-01,US,Female,43.0,Desktop,Free,2046.79,0.76,9.0,Debit Card,True,2.0
+C0232,2024-05-01,GB,Male,20.0,Tablet,Free,876.69,0.71,9.0,UPI,False,2.0
+C0267,2024-08-01,FR,Male,72.0,Mobile,Basic,5802.1,0.86,15.0,Bank Transfer,False,5.0
+C0198,2024-03-01,CA,Female,60.0,Desktop,Free,2876.07,0.37,12.0,PayPal,False,3.0
+C0119,2024-04-01,US,Female,76.0,Mobile,Pro,422.16,0.89,5.0,Bank Transfer,False,4.0
+C0049,2024-05-01,FR,Male,71.0,Mobile,Enterprise,177.92,0.88,14.0,Credit Card,True,2.0
+C0205,2024-08-01,IN,Female,27.0,Desktop,Basic,555.8,0.22,6.0,Bank Transfer,False,4.0
+C0141,2024-04-01,IN,Male,60.0,Desktop,Basic,365.35,0.07,12.0,Credit Card,False,3.0
+C0045,2024-05-01,JP,Male,19.0,Mobile,Free,5671.25,0.52,15.0,Debit Card,False,5.0
+C0108,2024-04-01,BR,Female,77.0,Desktop,Free,1086.5,0.75,13.0,UPI,False,3.0
+C0289,2024-10-01,DE,Female,65.0,Tablet,Pro,2540.4,0.84,2.0,Debit Card,False,1.0
+C0080,2024-02-01,FR,Other,58.0,Desktop,Basic,848.5,0.14,4.0,Bank Transfer,False,4.0
+C0054,2024-03-01,DE,Male,79.0,Tablet,Pro,932.9,0.37,12.0,Bank Transfer,False,5.0
+C0205,2024-03-01,GB,Male,69.0,Tablet,Pro,1064.9,0.76,2.0,UPI,False,5.0
+C0060,2024-11-01,DE,Male,70.0,Desktop,Enterprise,2968.72,0.06,1.0,UPI,False,1.0
+C0276,2024-12-01,GB,Male,19.0,Desktop,Free,1451.66,0.72,4.0,PayPal,False,5.0
+C0258,2024-07-01,JP,Male,14.0,Tablet,Pro,423.43,0.29,8.0,PayPal,False,2.0
+C0296,2024-02-01,DE,Male,77.0,Desktop,Enterprise,4723.3,0.02,2.0,UPI,False,5.0
+C0274,2024-10-01,GB,Male,29.0,Desktop,Basic,842.58,0.24,3.0,Bank Transfer,False,4.0
+C0074,2024-06-01,FR,Male,41.0,Mobile,Free,727.8,0.74,6.0,Credit Card,False,5.0
+C0064,2024-11-01,JP,Male,15.0,Mobile,Basic,85.92,0.87,9.0,Debit Card,False,2.0
+C0103,2024-05-01,GB,Female,54.0,Mobile,Enterprise,1941.0,0.08,9.0,Credit Card,False,4.0
+C0141,2024-12-01,CA,Male,67.0,Desktop,Enterprise,1201.0,0.46,12.0,Credit Card,False,4.0
+C0264,2024-10-01,DE,Female,69.0,Tablet,Basic,1199.83,0.2,15.0,Credit Card,False,1.0
+C0221,2024-03-01,BR,Female,51.0,Mobile,Free,763.15,0.68,1.0,PayPal,False,4.0
+C0194,2024-09-01,CA,Female,57.0,Mobile,Basic,653.47,0.78,11.0,Bank Transfer,False,1.0
+C0264,2024-04-01,DE,Male,47.0,Mobile,Free,786.33,0.96,3.0,UPI,False,5.0
+C0194,2024-05-01,US,Male,42.0,Desktop,Pro,1663.78,0.35,6.0,UPI,False,1.0
+C0114,2024-04-01,BR,Female,50.0,Mobile,Enterprise,1949.26,0.29,6.0,Debit Card,False,1.0
+C0124,2024-09-01,IN,Female,75.0,Mobile,Free,890.76,0.3,11.0,Credit Card,False,3.0
+C0156,2024-04-01,DE,Male,29.0,Mobile,Pro,2576.13,0.76,4.0,UPI,False,1.0
+C0027,2024-08-01,CA,Male,44.0,Mobile,Enterprise,1021.39,0.44,14.0,Credit Card,True,1.0
+C0223,2024-07-01,DE,Female,53.0,Mobile,Pro,696.59,0.02,6.0,PayPal,False,1.0
+C0196,2024-10-01,BR,Male,51.0,Tablet,Enterprise,1311.04,0.94,13.0,UPI,False,2.0
+C0220,2024-12-01,FR,Female,15.0,Tablet,Free,322.64,0.1,15.0,Debit Card,False,3.0
+C0161,2024-01-01,US,Male,32.0,Desktop,Pro,1352.14,0.92,8.0,Credit Card,False,1.0
+C0235,2024-12-01,GB,Male,56.0,Mobile,Free,273.7,0.16,2.0,Debit Card,False,1.0
+C0285,2024-02-01,FR,Female,59.0,Mobile,Enterprise,434.87,0.53,11.0,Credit Card,False,4.0
+C0171,2024-07-01,IN,Male,62.0,Mobile,Basic,178.25,0.31,7.0,PayPal,False,2.0
+C0134,2024-05-01,DE,Female,79.0,Desktop,Free,936.73,0.68,6.0,UPI,True,4.0
+C0032,2024-08-01,DE,Male,58.0,Desktop,Pro,4668.86,0.4,7.0,PayPal,False,5.0
+C0234,2024-09-01,JP,Male,51.0,Mobile,Pro,986.96,0.36,5.0,UPI,False,1.0
+C0272,2024-11-01,IN,Female,35.0,Desktop,Basic,1957.12,0.47,5.0,Bank Transfer,False,5.0
+C0210,2024-05-01,JP,Male,37.0,Mobile,Basic,9109.59,0.97,15.0,PayPal,False,4.0
+C0260,2024-12-01,DE,Male,68.0,Desktop,Free,1577.58,0.24,5.0,Credit Card,False,5.0
+C0259,2024-04-01,BR,Female,44.0,Tablet,Enterprise,550.77,0.21,7.0,Credit Card,False,3.0
+C0240,2024-03-01,FR,Female,60.0,Mobile,Free,623.4,0.06,11.0,Bank Transfer,False,1.0
+C0151,2024-05-01,GB,Female,21.0,Desktop,Enterprise,1097.28,0.73,4.0,Debit Card,False,5.0
+C0030,2024-07-01,CA,Male,21.0,Desktop,Pro,620.42,0.67,10.0,PayPal,True,3.0
+C0001,2024-09-01,US,Male,27.0,Tablet,Pro,663.63,0.6,14.0,PayPal,False,1.0
+C0062,2024-10-01,IN,Female,26.0,Desktop,Pro,2661.72,0.02,13.0,PayPal,False,1.0
+C0130,2024-03-01,JP,Male,53.0,Desktop,Enterprise,2761.53,0.79,1.0,Debit Card,False,2.0
+C0224,2024-04-01,FR,Male,55.0,Tablet,Free,249.09,0.8,7.0,Debit Card,True,2.0
+C0137,2024-12-01,CA,Female,50.0,Desktop,Enterprise,525.13,0.94,1.0,UPI,False,3.0
+C0007,2024-06-01,DE,Male,32.0,Desktop,Free,722.27,0.92,10.0,Credit Card,False,3.0
+C0064,2024-03-01,IN,Male,51.0,Mobile,Enterprise,1880.29,0.26,5.0,Debit Card,False,5.0
+C0294,2024-12-01,IN,Male,21.0,Desktop,Basic,3067.96,0.71,14.0,UPI,False,5.0
+C0297,2024-06-01,DE,Male,44.0,Mobile,Enterprise,12478.61,0.4,3.0,Debit Card,True,4.0
+C0114,2024-12-01,US,Female,23.0,Desktop,Free,721.18,0.59,13.0,Debit Card,False,4.0
+C0242,2024-12-01,CA,Female,18.0,Mobile,Basic,754.34,0.33,6.0,Bank Transfer,False,5.0
+C0216,2024-11-01,IN,Male,24.0,Mobile,Pro,1862.57,0.65,14.0,Debit Card,False,2.0
+C0280,2024-07-01,CA,Male,20.0,Desktop,Enterprise,593.48,0.95,3.0,Bank Transfer,False,3.0
+C0267,2024-10-01,US,Female,45.0,Desktop,Free,965.97,0.65,5.0,Bank Transfer,False,4.0
+C0189,2024-12-01,IN,Male,49.0,Tablet,Free,754.81,0.92,6.0,PayPal,False,2.0
+C0119,2024-04-01,GB,Male,53.0,Mobile,Pro,103.6,0.93,15.0,Credit Card,False,5.0
+C0188,2024-01-01,US,Female,42.0,Tablet,Free,1225.26,0.11,12.0,Debit Card,False,2.0
+C0096,2024-04-01,DE,Female,24.0,Mobile,Enterprise,930.64,0.96,13.0,Bank Transfer,False,1.0
+C0105,2024-08-01,GB,Male,14.0,Tablet,Free,3443.03,0.81,9.0,Credit Card,False,2.0
+C0183,2024-07-01,FR,Other,60.0,Tablet,Enterprise,1102.07,0.42,12.0,UPI,False,5.0
+C0172,2024-01-01,FR,Male,78.0,Tablet,Pro,354.51,0.6,10.0,UPI,False,2.0
+C0175,2024-07-01,IN,Female,31.0,Mobile,Enterprise,869.32,0.61,11.0,Bank Transfer,True,2.0
+C0116,2024-03-01,IN,Female,26.0,Tablet,Free,167.01,0.78,13.0,Bank Transfer,False,5.0
+C0123,2024-07-01,US,Female,33.0,Mobile,Basic,368.77,0.8,15.0,Debit Card,False,1.0
+C0004,2024-07-01,US,Female,27.0,Tablet,Basic,1942.94,0.1,9.0,UPI,True,1.0
+C0181,2024-08-01,IN,Female,27.0,Desktop,Free,877.78,0.0,7.0,PayPal,False,5.0
+C0173,2024-05-01,GB,Male,46.0,Desktop,Free,2515.58,0.24,10.0,Bank Transfer,False,2.0
+C0281,2024-05-01,FR,Male,65.0,Desktop,Basic,186.75,0.52,12.0,UPI,True,1.0
+C0152,2024-09-01,GB,Female,60.0,Mobile,Pro,881.64,0.84,15.0,Credit Card,False,3.0
+C0141,2024-09-01,GB,Female,77.0,Tablet,Pro,714.83,0.65,11.0,Bank Transfer,False,4.0
+C0021,2024-10-01,DE,Male,36.0,Tablet,Free,2592.2,0.13,15.0,UPI,False,4.0
+C0060,2024-05-01,FR,Female,45.0,Tablet,Free,2009.19,0.71,11.0,Credit Card,True,1.0
+C0102,2024-06-01,GB,Female,38.0,Tablet,Pro,1954.77,0.46,15.0,Credit Card,False,2.0
+C0114,2024-04-01,US,Male,15.0,Tablet,Basic,4390.81,0.36,12.0,Debit Card,True,4.0
+C0109,2024-07-01,DE,Male,39.0,Tablet,Enterprise,787.39,0.77,14.0,PayPal,False,4.0
+C0119,2024-02-01,IN,Male,30.0,Desktop,Basic,3646.68,0.29,3.0,Bank Transfer,False,4.0
+C0231,2024-06-01,DE,Male,45.0,Tablet,Basic,428.47,0.61,15.0,UPI,False,2.0
+C0040,2024-03-01,CA,Male,23.0,Mobile,Free,414.56,0.18,6.0,Credit Card,True,5.0
+C0100,2024-07-01,DE,Male,62.0,Tablet,Basic,2159.15,0.38,12.0,Bank Transfer,True,1.0
+C0049,2024-11-01,IN,Male,69.0,Desktop,Pro,283.08,0.55,6.0,PayPal,False,5.0
+C0093,2024-12-01,BR,Male,77.0,Desktop,Basic,1836.27,0.62,7.0,UPI,False,5.0
+C0206,2024-06-01,US,Female,18.0,Desktop,Pro,1201.33,0.91,12.0,Credit Card,False,4.0
+C0015,2024-01-01,US,Male,20.0,Mobile,Free,2877.47,0.29,9.0,Bank Transfer,False,3.0
+C0102,2024-03-01,US,Other,77.0,Desktop,Pro,1039.51,0.89,11.0,Credit Card,False,2.0
+C0008,2024-02-01,CA,Female,69.0,Desktop,Basic,1153.37,0.81,2.0,PayPal,True,3.0
+C0287,2024-10-01,CA,Female,52.0,Mobile,Enterprise,1734.26,0.35,13.0,UPI,False,1.0
+C0219,2024-12-01,FR,Other,34.0,Tablet,Basic,604.02,0.14,7.0,UPI,False,2.0
+C0074,2024-07-01,FR,Female,47.0,Mobile,Free,580.8,0.25,12.0,UPI,False,4.0
+C0060,2024-03-01,BR,Male,48.0,Tablet,Pro,1680.74,0.65,5.0,Debit Card,False,3.0
+C0030,2024-01-01,FR,Female,69.0,Mobile,Free,1068.1,0.78,9.0,UPI,False,3.0
+C0142,2024-12-01,FR,Male,48.0,Mobile,Enterprise,760.08,0.61,9.0,Debit Card,False,3.0
+C0227,2024-04-01,CA,Female,14.0,Mobile,Basic,1017.9,0.72,3.0,UPI,True,1.0
+C0176,2024-02-01,BR,Male,59.0,Mobile,Enterprise,4605.95,0.1,8.0,PayPal,False,5.0
+C0265,2024-03-01,IN,Male,65.0,Mobile,Pro,736.04,0.5,10.0,PayPal,False,5.0
+C0104,2024-04-01,DE,Male,32.0,Tablet,Basic,717.08,0.87,13.0,Credit Card,False,2.0
+C0084,2024-08-01,CA,Other,20.0,Tablet,Pro,235.87,0.38,14.0,Bank Transfer,False,2.0
+C0144,2024-11-01,DE,Male,22.0,Desktop,Free,1055.62,0.89,6.0,Credit Card,False,4.0
+C0061,2024-04-01,US,Male,69.0,Mobile,Free,1980.68,0.12,10.0,Debit Card,False,1.0
+C0293,2024-09-01,JP,Male,42.0,Tablet,Enterprise,2327.57,0.97,3.0,Debit Card,False,1.0
+C0056,2024-01-01,FR,Male,48.0,Desktop,Enterprise,1208.82,0.78,14.0,Debit Card,False,5.0
+C0144,2024-01-01,FR,Female,77.0,Desktop,Enterprise,2592.17,0.62,14.0,Debit Card,False,1.0
+C0157,2024-01-01,DE,Female,17.0,Tablet,Basic,2117.75,0.61,15.0,Debit Card,False,3.0
+C0018,2024-12-01,IN,Male,26.0,Desktop,Basic,2985.9,0.93,8.0,UPI,False,5.0
+C0141,2024-07-01,DE,Male,68.0,Desktop,Basic,2659.44,0.37,6.0,PayPal,True,4.0
+C0137,2024-10-01,DE,Male,49.0,Tablet,Pro,4505.17,0.16,12.0,Bank Transfer,True,2.0
+C0078,2024-01-01,CA,Male,14.0,Desktop,Pro,941.31,0.91,11.0,Debit Card,False,1.0
+C0039,2024-01-01,GB,Female,60.0,Tablet,Enterprise,332.17,0.1,4.0,Debit Card,False,4.0
+C0014,2024-11-01,US,Female,22.0,Tablet,Enterprise,1992.9,0.65,9.0,PayPal,False,3.0
+C0003,2024-02-01,DE,Male,65.0,Tablet,Basic,2213.87,0.26,10.0,Credit Card,True,5.0
+C0145,2024-02-01,CA,Female,66.0,Mobile,Pro,4505.24,0.92,7.0,UPI,True,4.0
+C0027,2024-07-01,DE,Male,68.0,Mobile,Pro,3474.35,0.97,6.0,Debit Card,False,1.0
+C0288,2024-08-01,DE,Female,44.0,Desktop,Enterprise,6316.53,0.47,4.0,PayPal,False,2.0
+C0074,2024-03-01,BR,Female,30.0,Desktop,Basic,1915.76,0.53,7.0,Credit Card,False,4.0
+C0196,2024-06-01,BR,Female,72.0,Tablet,Free,1347.4,0.45,4.0,Bank Transfer,True,4.0
+C0203,2024-09-01,GB,Female,50.0,Mobile,Basic,315.3,0.42,5.0,Debit Card,False,4.0
+C0149,2024-06-01,CA,Female,55.0,Tablet,Pro,1447.06,0.93,3.0,UPI,False,2.0
+C0266,2024-05-01,FR,Male,22.0,Tablet,Enterprise,666.97,0.28,6.0,UPI,False,2.0
+C0034,2024-01-01,IN,Male,54.0,Tablet,Enterprise,1326.58,0.95,10.0,UPI,False,2.0
+C0071,2024-06-01,DE,Male,51.0,Tablet,Free,1151.78,0.65,6.0,UPI,False,4.0
+C0076,2024-10-01,CA,Female,32.0,Tablet,Pro,1676.66,0.96,3.0,Debit Card,False,1.0
+C0041,2024-08-01,DE,Female,64.0,Desktop,Free,1004.66,0.61,13.0,PayPal,False,5.0
+C0089,2024-11-01,FR,Female,21.0,Desktop,Basic,2544.06,0.81,7.0,UPI,False,2.0
+C0094,2024-02-01,FR,Female,61.0,Desktop,Enterprise,94.55,0.48,9.0,Debit Card,False,3.0
+C0230,2024-01-01,BR,Male,77.0,Tablet,Enterprise,1301.14,0.46,8.0,Debit Card,False,2.0
+C0091,2024-07-01,JP,Female,51.0,Mobile,Free,3236.48,0.25,8.0,UPI,False,3.0
+C0264,2024-03-01,US,Female,20.0,Desktop,Free,5901.98,0.21,7.0,Bank Transfer,False,4.0
+C0232,2024-08-01,FR,Male,50.0,Desktop,Pro,2119.14,0.03,12.0,Bank Transfer,False,1.0
+C0271,2024-11-01,FR,Male,48.0,Desktop,Basic,4996.01,0.38,13.0,Debit Card,True,3.0
+C0032,2024-05-01,US,Male,49.0,Desktop,Basic,1276.71,0.98,14.0,Debit Card,True,1.0
+C0296,2024-07-01,BR,Male,31.0,Tablet,Enterprise,1099.46,0.93,7.0,Credit Card,True,1.0
+C0185,2024-09-01,IN,Female,54.0,Mobile,Enterprise,1766.0,0.69,6.0,UPI,False,4.0
+C0295,2024-02-01,DE,Female,30.0,Tablet,Enterprise,1093.49,0.36,2.0,Debit Card,True,3.0
+C0107,2024-11-01,GB,Female,50.0,Tablet,Enterprise,542.33,0.52,7.0,Bank Transfer,False,4.0
+C0286,2024-03-01,US,Male,52.0,Tablet,Enterprise,689.72,0.75,15.0,UPI,False,2.0
+C0177,2024-10-01,JP,Female,56.0,Tablet,Pro,403.05,0.0,4.0,Debit Card,False,2.0
+C0022,2024-08-01,US,Female,66.0,Desktop,Enterprise,1764.35,0.92,13.0,Bank Transfer,False,3.0
+C0124,2024-02-01,GB,Male,72.0,Mobile,Pro,1107.93,0.87,12.0,Bank Transfer,False,1.0
+C0042,2024-09-01,JP,Female,65.0,Desktop,Free,792.94,0.97,10.0,Debit Card,False,5.0
+C0283,2024-03-01,CA,Male,66.0,Mobile,Enterprise,658.51,0.09,9.0,Credit Card,False,2.0
+C0092,2024-08-01,IN,Male,71.0,Mobile,Enterprise,1727.71,0.94,12.0,Debit Card,False,4.0
+C0067,2024-12-01,GB,Male,29.0,Tablet,Basic,2213.66,0.61,2.0,Debit Card,False,1.0
+C0166,2024-12-01,BR,Male,32.0,Desktop,Basic,396.45,0.55,2.0,UPI,False,4.0
+C0128,2024-11-01,JP,Female,48.0,Desktop,Pro,344.15,0.17,3.0,Bank Transfer,True,2.0
+C0030,2024-06-01,CA,Male,44.0,Tablet,Pro,2589.08,0.49,12.0,Bank Transfer,False,2.0
+C0245,2024-07-01,FR,Male,60.0,Mobile,Pro,318.1,0.36,7.0,PayPal,True,3.0
+C0254,2024-04-01,IN,Male,13.0,Tablet,Basic,1794.96,0.98,4.0,Bank Transfer,False,1.0
+C0223,2024-12-01,JP,Male,22.0,Desktop,Enterprise,4699.53,0.33,1.0,Credit Card,True,1.0
+C0186,2024-06-01,US,Male,63.0,Desktop,Enterprise,4709.38,0.21,8.0,Credit Card,True,4.0
+C0121,2024-10-01,IN,Male,68.0,Desktop,Enterprise,2130.44,0.94,6.0,Bank Transfer,False,2.0
+C0163,2024-05-01,BR,Female,33.0,Desktop,Pro,2075.44,0.18,3.0,PayPal,False,3.0
+C0157,2024-09-01,FR,Male,33.0,Desktop,Free,8322.49,0.9,1.0,Debit Card,False,4.0
+C0050,2024-03-01,IN,Female,50.0,Desktop,Enterprise,134.16,0.96,12.0,PayPal,False,4.0
+C0025,2024-09-01,US,Male,44.0,Mobile,Free,722.05,0.3,12.0,Credit Card,False,4.0
+C0076,2024-01-01,FR,Female,24.0,Mobile,Free,2353.46,0.68,4.0,PayPal,False,5.0
+C0137,2024-02-01,GB,Female,46.0,Desktop,Basic,809.52,0.79,8.0,Bank Transfer,False,4.0
+C0049,2024-05-01,BR,Male,67.0,Mobile,Free,3346.94,0.53,4.0,UPI,False,2.0
+C0033,2024-06-01,DE,Male,61.0,Desktop,Pro,1058.47,0.69,7.0,PayPal,True,2.0
+C0256,2024-09-01,FR,Female,67.0,Tablet,Basic,1234.68,0.13,2.0,PayPal,False,5.0
+C0113,2024-05-01,DE,Male,56.0,Mobile,Free,856.45,0.51,15.0,Bank Transfer,False,3.0
+C0176,2024-01-01,GB,Female,71.0,Mobile,Free,685.22,0.51,11.0,UPI,False,3.0
+C0158,2024-04-01,GB,Male,29.0,Mobile,Free,670.22,0.56,14.0,Debit Card,True,5.0
+C0221,2024-06-01,BR,Male,16.0,Tablet,Pro,1399.75,0.94,5.0,Debit Card,True,2.0
+C0222,2024-07-01,FR,Female,20.0,Tablet,Enterprise,546.15,0.82,14.0,Debit Card,True,2.0
+C0089,2024-08-01,FR,Female,79.0,Mobile,Basic,2586.04,0.6,8.0,Credit Card,False,1.0
+C0255,2024-03-01,FR,Male,55.0,Desktop,Free,1974.17,0.4,3.0,PayPal,False,1.0
+C0112,2024-08-01,US,Female,29.0,Tablet,Pro,2949.75,0.4,5.0,Debit Card,False,4.0
+C0251,2024-08-01,CA,Female,70.0,Tablet,Enterprise,397.01,0.02,13.0,PayPal,True,3.0
+C0122,2024-10-01,FR,Male,33.0,Desktop,Free,237.57,0.55,12.0,Credit Card,False,2.0
+C0034,2024-07-01,BR,Male,53.0,Mobile,Enterprise,1092.51,0.25,11.0,Debit Card,False,2.0
+C0229,2024-10-01,CA,Male,29.0,Tablet,Free,14897.08,0.88,4.0,Debit Card,False,4.0
+C0010,2024-03-01,CA,Male,19.0,Tablet,Basic,3427.51,0.77,10.0,Credit Card,False,1.0
+C0232,2024-09-01,BR,Female,30.0,Desktop,Pro,665.81,0.91,15.0,Bank Transfer,True,4.0
+C0013,2024-01-01,JP,Male,28.0,Mobile,Free,1606.9,0.99,1.0,UPI,False,5.0
+C0063,2024-02-01,DE,Male,50.0,Tablet,Basic,2110.81,0.4,5.0,Bank Transfer,False,3.0
+C0182,2024-11-01,BR,Female,14.0,Mobile,Free,320.04,0.42,2.0,Bank Transfer,False,3.0
+C0283,2024-06-01,GB,Female,29.0,Tablet,Free,3761.84,0.6,2.0,Credit Card,False,3.0
+C0123,2024-08-01,BR,Female,51.0,Tablet,Enterprise,943.24,0.43,15.0,Bank Transfer,False,1.0
+C0037,2024-08-01,IN,Female,39.0,Desktop,Free,1010.69,0.27,4.0,Credit Card,False,4.0
+C0070,2024-09-01,CA,Male,55.0,Desktop,Free,1120.36,0.7,3.0,Bank Transfer,True,2.0
+C0269,2024-03-01,US,Female,56.0,Mobile,Free,3072.01,0.45,2.0,PayPal,False,3.0
+C0219,2024-03-01,BR,Male,77.0,Tablet,Free,555.76,0.94,15.0,Bank Transfer,False,1.0
+C0031,2024-01-01,IN,Male,69.0,Mobile,Pro,235.98,0.21,8.0,UPI,False,5.0
+C0116,2024-11-01,US,Male,28.0,Mobile,Enterprise,1466.54,0.44,12.0,Credit Card,False,2.0
+C0080,2024-03-01,CA,Female,59.0,Tablet,Free,174.29,0.53,4.0,Credit Card,False,1.0
+C0054,2024-07-01,JP,Female,55.0,Tablet,Pro,836.32,0.9,10.0,Credit Card,False,4.0
+C0254,2024-06-01,US,Male,52.0,Desktop,Basic,3191.31,0.57,14.0,Bank Transfer,False,5.0
+C0186,2024-02-01,US,Female,66.0,Desktop,Free,1846.75,0.06,11.0,UPI,False,3.0
+C0054,2024-05-01,JP,Female,22.0,Desktop,Pro,2802.09,0.33,8.0,Debit Card,False,1.0
+C0196,2024-01-01,CA,Male,38.0,Mobile,Free,1916.62,0.88,4.0,Credit Card,True,5.0
+C0125,2024-03-01,US,Female,67.0,Desktop,Pro,9597.91,0.27,4.0,Credit Card,False,2.0
+C0019,2024-02-01,BR,Male,72.0,Tablet,Pro,645.86,0.34,9.0,Debit Card,False,2.0
+C0135,2024-10-01,GB,Other,15.0,Desktop,Pro,1569.2,0.15,7.0,PayPal,False,4.0
+C0056,2024-07-01,BR,Male,44.0,Tablet,Free,739.29,0.71,1.0,Bank Transfer,False,2.0
+C0074,2024-12-01,DE,Male,30.0,Tablet,Basic,2594.43,0.13,3.0,PayPal,False,1.0
+C0264,2024-06-01,US,Male,24.0,Tablet,Pro,1037.51,0.36,7.0,Bank Transfer,False,4.0
+C0214,2024-03-01,GB,Male,16.0,Tablet,Enterprise,5151.07,0.71,3.0,Debit Card,False,2.0
+C0041,2024-08-01,FR,Female,49.0,Tablet,Free,680.12,0.89,9.0,Debit Card,False,5.0
+C0256,2024-12-01,JP,Male,57.0,Tablet,Basic,3890.97,0.22,5.0,PayPal,True,1.0
+C0173,2024-07-01,IN,Male,48.0,Tablet,Enterprise,1870.25,0.33,5.0,Credit Card,False,5.0
+C0263,2024-01-01,CA,Female,37.0,Tablet,Basic,1065.06,0.11,2.0,Bank Transfer,True,4.0
+C0225,2024-04-01,BR,Female,64.0,Tablet,Basic,1786.83,0.43,8.0,PayPal,False,2.0
+C0102,2024-12-01,CA,Female,56.0,Tablet,Enterprise,1387.33,0.99,3.0,Credit Card,True,3.0
+C0161,2024-07-01,CA,Male,73.0,Tablet,Enterprise,1510.75,0.3,10.0,Credit Card,False,5.0
+C0160,2024-12-01,US,Male,36.0,Desktop,Pro,910.34,0.25,15.0,PayPal,False,1.0
+C0216,2024-07-01,IN,Male,29.0,Tablet,Pro,583.22,0.39,14.0,PayPal,False,5.0
+C0075,2024-01-01,JP,Female,43.0,Tablet,Pro,811.14,0.89,11.0,Debit Card,False,3.0
+C0100,2024-11-01,US,Female,46.0,Desktop,Basic,241.09,0.54,13.0,PayPal,False,5.0
+C0074,2024-10-01,US,Female,43.0,Mobile,Enterprise,2339.64,0.6,14.0,UPI,True,2.0
+C0089,2024-09-01,DE,Female,68.0,Tablet,Free,360.81,0.78,11.0,PayPal,False,4.0
+C0049,2024-12-01,CA,Male,16.0,Desktop,Free,901.55,0.71,4.0,UPI,False,5.0
+C0011,2024-03-01,JP,Female,48.0,Desktop,Pro,1964.99,0.59,8.0,UPI,True,2.0
+C0283,2024-11-01,FR,Male,41.0,Tablet,Enterprise,2334.28,0.56,13.0,Debit Card,False,1.0
+C0023,2024-03-01,US,Male,27.0,Mobile,Enterprise,222.03,0.53,11.0,Credit Card,False,2.0
+C0267,2024-12-01,GB,Male,55.0,Desktop,Pro,1009.63,0.18,6.0,Credit Card,False,3.0
+C0001,2024-03-01,BR,Male,66.0,Mobile,Basic,1658.67,0.41,3.0,Credit Card,False,4.0
+C0234,2024-07-01,US,Female,49.0,Mobile,Basic,1149.19,0.84,3.0,Bank Transfer,False,3.0
+C0099,2024-10-01,FR,Male,18.0,Tablet,Basic,3676.32,0.03,6.0,UPI,False,5.0
+C0156,2024-01-01,IN,Female,18.0,Desktop,Basic,523.41,0.82,13.0,Debit Card,False,3.0
+C0085,2024-01-01,GB,Female,41.0,Mobile,Basic,173.45,0.56,9.0,Bank Transfer,False,4.0
+C0148,2024-11-01,US,Female,57.0,Desktop,Free,2273.99,0.34,1.0,Bank Transfer,False,5.0
+C0136,2024-01-01,BR,Female,34.0,Mobile,Basic,676.29,0.11,14.0,Debit Card,True,5.0
+C0159,2024-08-01,CA,Male,33.0,Tablet,Enterprise,225.27,0.76,7.0,Debit Card,False,2.0
+C0118,2024-12-01,US,Male,70.0,Mobile,Pro,950.83,0.0,6.0,UPI,False,2.0
+C0161,2024-08-01,JP,Male,13.0,Desktop,Free,3319.28,0.54,13.0,Bank Transfer,False,4.0
+C0248,2024-06-01,BR,Male,18.0,Desktop,Basic,351.8,0.16,6.0,PayPal,False,3.0
+C0131,2024-06-01,CA,Female,23.0,Mobile,Basic,8976.78,0.9,10.0,UPI,True,3.0
+C0109,2024-08-01,CA,Male,78.0,Tablet,Basic,515.9,0.18,14.0,Debit Card,True,4.0
+C0040,2024-07-01,IN,Male,46.0,Desktop,Pro,1185.96,0.8,8.0,Debit Card,False,4.0
+C0108,2024-07-01,BR,Male,23.0,Desktop,Enterprise,366.05,0.57,10.0,Credit Card,False,5.0
+C0038,2024-02-01,FR,Male,33.0,Desktop,Pro,1138.48,0.04,6.0,PayPal,False,2.0
+C0055,2024-08-01,IN,Female,77.0,Tablet,Basic,972.26,0.72,14.0,Bank Transfer,False,4.0
+C0286,2024-09-01,GB,Male,59.0,Mobile,Free,286.99,0.87,2.0,PayPal,False,2.0
+C0027,2024-09-01,CA,Female,27.0,Tablet,Free,13950.13,0.22,5.0,Debit Card,False,5.0
+C0145,2024-01-01,FR,Female,29.0,Desktop,Enterprise,702.18,0.96,15.0,UPI,False,1.0
+C0251,2024-09-01,GB,Female,18.0,Mobile,Pro,702.74,0.79,8.0,Bank Transfer,False,4.0
+C0286,2024-09-01,GB,Male,64.0,Desktop,Pro,2623.15,0.74,3.0,UPI,False,1.0
+C0045,2024-03-01,JP,Female,22.0,Tablet,Pro,5612.94,0.33,7.0,Bank Transfer,False,5.0
+C0050,2024-11-01,GB,Male,32.0,Mobile,Enterprise,3022.36,0.11,4.0,UPI,False,5.0
+C0112,2024-07-01,US,Male,36.0,Desktop,Enterprise,372.02,0.42,8.0,UPI,True,5.0
+C0167,2024-06-01,FR,Female,54.0,Desktop,Free,1329.45,0.8,4.0,UPI,False,4.0
+C0288,2024-09-01,CA,Female,53.0,Tablet,Basic,201.7,0.58,6.0,Debit Card,False,3.0
+C0063,2024-07-01,US,Male,66.0,Desktop,Free,2468.92,0.64,14.0,UPI,False,2.0
+C0050,2024-07-01,GB,Female,32.0,Tablet,Basic,251.72,0.78,2.0,Debit Card,False,5.0
+C0076,2024-04-01,DE,Male,38.0,Tablet,Pro,532.25,0.33,12.0,PayPal,False,3.0
+C0263,2024-12-01,US,Female,39.0,Tablet,Free,1093.48,0.03,2.0,PayPal,True,5.0
+C0010,2024-12-01,BR,Other,16.0,Desktop,Free,1636.81,0.88,7.0,Debit Card,False,4.0
+C0115,2024-02-01,GB,Female,62.0,Tablet,Basic,867.1,0.61,11.0,Bank Transfer,False,4.0
+C0036,2024-09-01,US,Female,48.0,Mobile,Pro,4303.46,0.56,15.0,UPI,False,2.0
+C0048,2024-01-01,GB,Female,44.0,Tablet,Pro,2102.57,0.57,4.0,Bank Transfer,False,3.0
+C0276,2024-05-01,CA,Female,79.0,Tablet,Free,1959.12,0.85,1.0,PayPal,False,3.0
+C0001,2024-12-01,CA,Female,24.0,Mobile,Free,362.69,0.76,12.0,Bank Transfer,False,4.0
+C0097,2024-03-01,FR,Female,77.0,Desktop,Enterprise,5061.57,0.67,14.0,Bank Transfer,False,4.0
+C0275,2024-05-01,DE,Male,58.0,Tablet,Pro,532.32,0.78,9.0,Debit Card,False,1.0
+C0183,2024-03-01,JP,Female,27.0,Mobile,Enterprise,5238.49,0.28,1.0,Debit Card,False,2.0
+C0022,2024-09-01,US,Male,58.0,Tablet,Enterprise,6768.1,0.71,8.0,Bank Transfer,False,1.0
+C0140,2024-06-01,BR,Other,63.0,Tablet,Enterprise,1739.57,0.97,6.0,Debit Card,True,3.0
+C0292,2024-08-01,BR,Male,37.0,Tablet,Pro,2776.13,0.23,7.0,PayPal,False,4.0
+C0121,2024-12-01,BR,Male,36.0,Mobile,Enterprise,68.4,0.57,1.0,Credit Card,False,2.0
+C0159,2024-07-01,US,Female,68.0,Tablet,Basic,920.11,0.68,5.0,Bank Transfer,False,4.0
+C0160,2024-09-01,BR,Male,23.0,Tablet,Enterprise,2957.05,0.51,15.0,PayPal,False,1.0
+C0199,2024-02-01,FR,Male,13.0,Mobile,Basic,2520.11,0.96,1.0,UPI,False,5.0
+C0057,2024-03-01,CA,Female,57.0,Tablet,Basic,365.86,0.4,14.0,UPI,True,4.0
+C0252,2024-12-01,US,Male,73.0,Desktop,Pro,841.89,0.21,8.0,PayPal,False,4.0
+C0297,2024-11-01,FR,Male,46.0,Tablet,Basic,111.86,0.13,9.0,Debit Card,False,4.0
+C0043,2024-08-01,JP,Male,22.0,Mobile,Free,1590.32,0.84,15.0,Debit Card,False,2.0
+C0246,2024-05-01,GB,Male,49.0,Tablet,Enterprise,201.34,0.68,4.0,Debit Card,True,5.0
+C0246,2024-03-01,BR,Male,29.0,Desktop,Basic,3033.37,0.57,15.0,Credit Card,False,4.0
+C0223,2024-11-01,IN,Male,68.0,Mobile,Enterprise,3179.41,0.43,5.0,Bank Transfer,False,1.0
+C0112,2024-10-01,BR,Male,54.0,Desktop,Basic,715.56,0.4,6.0,PayPal,False,5.0
+C0141,2024-03-01,FR,Male,35.0,Tablet,Enterprise,1753.11,0.93,7.0,UPI,True,4.0
+C0252,2024-08-01,US,Male,54.0,Tablet,Pro,902.0,0.68,10.0,Bank Transfer,False,2.0
+C0046,2024-08-01,IN,Female,57.0,Mobile,Enterprise,1363.37,0.96,5.0,PayPal,False,5.0
+C0249,2024-06-01,BR,Female,58.0,Tablet,Enterprise,390.52,0.8,12.0,UPI,False,2.0
+C0277,2024-12-01,US,Male,37.0,Desktop,Free,1920.31,0.76,1.0,Credit Card,False,4.0
+C0205,2024-02-01,DE,Male,51.0,Mobile,Enterprise,250.37,0.55,10.0,UPI,True,4.0
+C0103,2024-04-01,IN,Female,15.0,Desktop,Enterprise,211.25,0.24,10.0,Credit Card,False,5.0
+C0168,2024-02-01,CA,Female,40.0,Tablet,Pro,982.66,0.65,9.0,PayPal,False,3.0
+C0016,2024-09-01,FR,Male,38.0,Mobile,Enterprise,906.76,0.71,10.0,Credit Card,False,5.0
+C0280,2024-08-01,CA,Male,48.0,Mobile,Enterprise,1401.18,0.52,12.0,UPI,False,2.0
+C0103,2024-12-01,US,Male,76.0,Mobile,Pro,611.21,0.02,14.0,Debit Card,False,5.0
+C0018,2024-07-01,US,Female,76.0,Desktop,Basic,5985.66,0.96,4.0,Credit Card,False,2.0
+C0239,2024-02-01,FR,Female,45.0,Mobile,Enterprise,1267.17,0.82,8.0,UPI,False,5.0
+C0198,2024-06-01,FR,Female,56.0,Tablet,Free,1352.34,0.35,9.0,Debit Card,True,4.0
+C0187,2024-02-01,JP,Male,20.0,Mobile,Pro,1309.64,0.49,6.0,Debit Card,False,4.0
+C0017,2024-09-01,CA,Male,45.0,Mobile,Enterprise,2704.36,0.12,15.0,Bank Transfer,False,1.0
+C0226,2024-09-01,JP,Male,59.0,Mobile,Enterprise,1841.65,0.93,8.0,Debit Card,False,3.0
+C0192,2024-11-01,US,Male,58.0,Tablet,Basic,1632.42,0.23,9.0,UPI,False,1.0
+C0239,2024-05-01,GB,Male,77.0,Tablet,Free,2126.83,0.37,3.0,Credit Card,False,5.0
+C0249,2024-04-01,CA,Female,44.0,Mobile,Basic,212.27,0.42,7.0,Debit Card,False,2.0
+C0064,2024-01-01,FR,Male,73.0,Desktop,Enterprise,219.61,0.26,10.0,Debit Card,False,5.0
+C0064,2024-05-01,JP,Female,78.0,Tablet,Pro,1024.08,0.63,7.0,PayPal,False,5.0
+C0278,2024-06-01,FR,Male,51.0,Tablet,Free,917.9,0.99,12.0,Credit Card,False,1.0
+C0160,2024-10-01,IN,Male,19.0,Mobile,Free,1847.94,0.85,3.0,Bank Transfer,False,4.0
+C0132,2024-10-01,DE,Female,38.0,Tablet,Basic,1116.57,0.53,3.0,Credit Card,False,2.0
+C0087,2024-02-01,JP,Female,64.0,Tablet,Basic,1851.36,0.13,6.0,PayPal,False,1.0
+C0192,2024-04-01,BR,Male,51.0,Tablet,Free,357.44,0.86,5.0,Credit Card,False,2.0
+C0227,2024-07-01,US,Female,75.0,Desktop,Basic,1086.08,0.25,13.0,Bank Transfer,True,3.0
+C0001,2024-05-01,US,Male,67.0,Desktop,Basic,328.01,0.91,14.0,PayPal,False,5.0
+C0166,2024-01-01,JP,Male,17.0,Tablet,Free,1553.35,0.39,8.0,Bank Transfer,False,4.0
+C0299,2024-11-01,CA,Male,70.0,Tablet,Free,202.26,0.51,8.0,Bank Transfer,True,2.0
+C0085,2024-09-01,JP,Male,36.0,Desktop,Pro,1500.39,0.43,5.0,Bank Transfer,False,2.0
+C0085,2024-07-01,IN,Female,67.0,Tablet,Enterprise,292.34,0.45,8.0,PayPal,True,2.0
+C0250,2024-11-01,IN,Other,67.0,Tablet,Enterprise,1839.78,0.72,8.0,Credit Card,False,1.0
+C0110,2024-04-01,GB,Female,16.0,Tablet,Free,2082.21,0.34,9.0,Credit Card,False,4.0
+C0157,2024-11-01,CA,Female,44.0,Tablet,Free,843.2,0.71,11.0,PayPal,False,3.0
+C0264,2024-12-01,DE,Male,78.0,Desktop,Free,1695.18,0.84,4.0,PayPal,False,1.0
